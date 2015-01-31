@@ -1,0 +1,24 @@
+{
+    "hierarchy": ["Fund", "Department", "Major Class", "Class"],
+    "page_title": "City of Philadelphia Budget",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque viverra tortor vitae enim finibus venenatis.",
+    "h1": "City of Philadelphia",
+    "h2": "Fiscal Year 2014 Budget",
+    "data_link": "http://www.bern.ch/leben_in_bern/stadt/information/finanzplan/budget_2013_buch_beschlusssr_internet.pdf",
+    "data_title": "Download Data",
+    "uservoice": "VsqIUopbNuYMz7cW5ucG1A",
+    "gross_cost_label": "Expenses",
+    "revenue_label": "Revenues",
+    "data_url": "/data/phl/data.json",
+    "cache_url": "",
+    "value": {
+        "label": "2014",
+        "type": "budgets",
+        "year": "2014"
+    },
+    "value2": {
+        "label": "2013",
+        "type": "budgets",
+        "year": "2013"
+    }
+}
