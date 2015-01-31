@@ -21,6 +21,9 @@ New developers, designers and ideator are welcome to join.
 ### Start the server
 * `bundle install` (needs to run every time the Gemfile changes)
 * `rails s thin`
+* access at `http://localhost:3000/bern`
+
+### Customizing
 * create your own data file in the format of public/data/bern/data.json
 * send pull request with cool stuff
 
