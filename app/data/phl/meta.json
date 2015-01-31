@@ -10,7 +10,7 @@
     "gross_cost_label": "Expenses",
     "revenue_label": "Revenues",
     "data_url": "/data/phl/data.json",
-    "cache_url": "",
+    "cache_url": "/data/phl/cache.json",
     "value": {
         "label": "2014",
         "type": "budgets",
