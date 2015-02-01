@@ -127,7 +127,7 @@ $(function() {
                             breadcrumbItems.unshift(OpenBudget.data.meta[type + '_label']);
                         }
 
-                        breadcrumbItems.unshift('Übersicht');
+                        breadcrumbItems.unshift(OpenBudget.data.meta.overview_label);
 
                         var breadcrumbLength = breadcrumbItems.length;
                         $breadcrumb.empty();

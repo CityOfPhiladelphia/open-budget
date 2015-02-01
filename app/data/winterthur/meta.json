@@ -8,6 +8,8 @@
     "data_title": "Datenquelle",
     "gross_cost_label": "Aufwand",
     "revenue_label": "Ertrag",
+    "currency_prefix": "CHF ",
+    "overview_label": "Übersicht",
     "data_url": "/data/winterthur/data.json",
     "cache_url": "/data/winterthur/cache.json",
     "value2": {

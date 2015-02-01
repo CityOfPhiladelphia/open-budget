@@ -9,6 +9,8 @@
     "html_class": "blue",
     "gross_cost_label": "Aufwand",
     "revenue_label": "Ertrag",
+    "currency_prefix": "CHF ",
+    "overview_label": "Übersicht",
     "data_url": "/data/zurich/data.json",
     "cache_url": "/data/zurich/cache.json",
     "value": {
