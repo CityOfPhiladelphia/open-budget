@@ -11,6 +11,8 @@
     "revenue_label": "Erlöse",
     "currency_prefix": "CHF ",
     "overview_label": "Übersicht",
+    "deficit_label": "Defizit",
+    "surplus_label": "Überschuss",
     "data_url": "/data/bern/data.json",
     "cache_url": "/data/bern/cache.json",
     "value": {

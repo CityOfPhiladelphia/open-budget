@@ -174,7 +174,7 @@ OpenBudget.nodes = (function() {
             }
 
             surplusNode = {
-                'name': isDeficit ? 'Defizit' : 'Überschuss',
+                'name': isDeficit ? meta.deficit_label : meta.surplus_label,
                 'value': surplus,
                 'value2': surplus2,
                 'diff': surplusDiff,

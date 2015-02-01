@@ -11,6 +11,8 @@
     "revenue_label": "Ertrag",
     "currency_prefix": "CHF ",
     "overview_label": "Übersicht",
+    "deficit_label": "Defizit",
+    "surplus_label": "Überschuss",
     "data_url": "/data/zurich/data.json",
     "cache_url": "/data/zurich/cache.json",
     "value": {
