@@ -13,7 +13,7 @@ Build the application by running:
 ```
 $ npm run build
 ```
-This will update the files in the `/public` directory. To connect that directory to the `gh-pages` branch of the repo, use:
+This will update the files in the `/public` directory. To push that directory to the `gh-pages` branch of the repo, use:
 ```
 $ git subtree push --prefix public origin gh-pages
 ```
