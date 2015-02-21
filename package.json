@@ -4,7 +4,7 @@
   "description": "New developers, designers and ideator are welcome to join.",
   "main": "app/assets/javascripts/application.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "build": "./node_modules/gulp/bin/gulp.js"
   },
   "repository": {
     "type": "git",

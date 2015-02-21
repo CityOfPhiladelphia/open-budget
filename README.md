@@ -1,32 +1,23 @@
-New developers, designers and ideator are welcome to join.
+# Open Budget
+A fork of [tpreusse/open-budget](https://github.com/tpreusse/open-budget)
 
-## Amateur: How to use
-* stay tuned for cloud hosted solution
+## Setup
+First, clone the repository, and then install dependencies via:
+```
+$ npm install
+```
+Make your changes and view the application in its development at `/app`.
 
-## Engineer: How to use
-### Prerequisites
-* ruby 1.9.3
-* RubyGems
-* Bundler
+## Build
+Build the application by running:
+```
+$ npm run build
+```
+This will update the files in the `/public` directory. To connect that directory to the `gh-pages` branch of the repo, use:
+```
+$ git subtree push --prefix public origin gh-pages
+```
 
-### We recommend RVM
-* [see install documentation](https://rvm.io/rvm/install/)
-* recommended params: `curl -#L https://get.rvm.io | bash -s stable --autolibs=3 --ruby=1.9.3`
-* make sure to load rvm into your shell sessions: [RVM is not found...](https://rvm.io/support/faq/)
-
-### No JS runtime installed?
-* `bundle config --local without js`
-* or use `therubyracer` but I haven't had time to test it
-
-### Start the server
-* `bundle install` (needs to run every time the Gemfile changes)
-* `rails s thin`
-* access at `http://localhost:3000/bern`
-
-### Customizing
-* create your own data file in the format of public/data/bern/data.json
-* send pull request with cool stuff
-
-## Documentation
-* [Wiki](https://github.com/tpreusse/open-budget/wiki)
-* [Data Format](https://github.com/tpreusse/open-budget/wiki/Data-Format)
+## Data Format
+* See the [open-budget-data-transformer](https://github.com/CityOfPhiladelphia/open-budget-data-transformer) repo
+* See the parent repo's [Data Format](https://github.com/tpreusse/open-budget/wiki/Data-Format) documentation
