@@ -6,16 +6,16 @@ First, clone the repository, and then install dependencies via:
 ```
 $ npm install
 ```
-Make your changes and view the application in its development at `/app`.
+Make your changes and view the application in its development at `/src`.
 
 ## Build
-Build the application by running:
+Optimize the application by running:
 ```
 $ npm run build
 ```
-This will update the files in the `/public` directory. To push that directory to the `gh-pages` branch of the repo, use:
+This will update the files in the `/dist` directory. To push that directory to the `gh-pages` branch of the repo, use:
 ```
-$ git subtree push --prefix public origin gh-pages
+$ git subtree push --prefix dist origin gh-pages
 ```
 
 ## Data Format

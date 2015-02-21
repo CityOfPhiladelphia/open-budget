@@ -1,12 +1,13 @@
 var gulp = require('gulp'),
 	minifyCss = require('gulp-minify-css'),
+	minifyHtml = require('gulp-minify-html'),
 	uglify = require('gulp-uglify'),
 	usemin = require('gulp-usemin'),
 	del = require('del');
 
 var dir = {
-	dev: './app/',
-	prod: './public/'
+	dev: './src/',
+	prod: './dist/'
 };
 
 /**
@@ -24,7 +25,10 @@ gulp.task('usemin', function() {
 	return gulp.src(dir.dev + '*.html')
 		.pipe(usemin({
 			css: [minifyCss(), 'concat'],
-			js: [uglify()]
+			js: [uglify()],
+			html: [minifyHtml({
+				conditionals: true
+			})]
 		}))
 		.pipe(gulp.dest(dir.prod));
 });
