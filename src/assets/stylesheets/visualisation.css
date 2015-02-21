@@ -28,21 +28,21 @@ a {
     #tooltip div span {
       font-weight: bold; }
 
-#sidebar, #footer {
-  min-width: 400px;
-  width: 20%;
-  max-width: 500px; }
-
+/*#sidebar, #footer {
+  min-width:400px;
+  width:20%;
+  max-width:$sidebarMaxWidth;
+}*/
 #sidebar {
-  position: absolute;
-  top: 0;
-  right: 0;
+  /*position:absolute;
+  top:0;
+  right:0;*/
   z-index: 2;
   padding: 0 20px;
   box-shadow: 0 0 20px 1px #ddd;
   background-color: #fff;
   height: 100%;
-  overflow: scroll; }
+  overflow-y: scroll; }
   #sidebar h1, #sidebar h2 {
     font-weight: normal;
     text-align: center;
@@ -99,10 +99,10 @@ a {
       hyphens: auto; }
 
 #footer {
-  position: fixed;
-  z-index: 3;
-  bottom: 0px;
-  right: 20px;
+  /*position:fixed;
+  z-index:3;
+  bottom:0px;
+  right:20px;*/
   text-align: center;
   padding-top: 10px;
   box-shadow: 0 0 20px 1px #fff;
@@ -117,9 +117,9 @@ a {
     margin-bottom: 15px; }
 
 svg#canvas {
-  position: absolute;
-  top: 0;
-  left: 0;
+  /*position:absolute;
+  top:0;
+  left:0;*/
   z-index: 0;
   display: block;
   background-color: #f9f9f9; }

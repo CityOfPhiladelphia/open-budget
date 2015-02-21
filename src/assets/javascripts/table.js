@@ -81,23 +81,23 @@ $(function() {
 
                         var firstDataSet = dataSets[0];
 
-                        if(nodes[0].depth === 0) {
+                        /*if(nodes[0].depth === 0) {
                             $overviewHead.clone().appendTo($tHead);
 
                             _.each(dataSets, function(dataSet) {
                                 var $tr = $overviewTrTemplate.clone(),
-                                    gross_cost = dataSet.nodes.gross_cost,
-                                    revenue = dataSet.nodes.revenue;
+                                    gross_cost = dataSet.nodes.gross_cost;
+                                    //revenue = dataSet.nodes.revenue;
 
                                 $tr.attr('id', 'tr-'+dataSet.id);
                                 $tr.find('td:eq(0)').text(dataSet.name);
                                 $tr.find('td:eq(1)').text(formatCHF((gross_cost && gross_cost.value) || 0));
-                                $tr.find('td:eq(2)').text(formatCHF((revenue && revenue.value) || 0));
+                                //$tr.find('td:eq(2)').text(formatCHF((revenue && revenue.value) || 0));
                                 $tBody.append($tr);
                             });
                         }
-                        else {
-                            var type = firstDataSet.nodes.gross_cost === undefined ? 'revenue' : 'gross_cost';
+                        else {*/
+                            var type = /*firstDataSet.nodes.gross_cost === undefined ? 'revenue' :*/ 'gross_cost';
 
                             $compareHead.clone().appendTo($tHead).find('th:eq(0)').text(labelOfDepth[firstDataSet.nodes[type].depth]);
 
@@ -125,9 +125,9 @@ $(function() {
                             createBreadcrumbItem(firstDataSet.nodes[type].parent);
 
                             breadcrumbItems.unshift(OpenBudget.data.meta[type + '_label']);
-                        }
+                        //}
 
-                        breadcrumbItems.unshift(OpenBudget.data.meta.overview_label);
+                        //breadcrumbItems.unshift(OpenBudget.data.meta.overview_label);
 
                         var breadcrumbLength = breadcrumbItems.length;
                         $breadcrumb.empty();
@@ -135,7 +135,7 @@ $(function() {
                             var $item = $('<li></li>');
                             $item.text(item);
                             if(index + 1 < breadcrumbLength) {
-                                $item.append('<span class="divider">/</span>');
+                                //$item.append('<span class="divider">/</span>');
                                 $item.click(function() {
                                     OpenBudget.visualisation.zoomOut();
                                 }).css('cursor', 'pointer');

@@ -54,16 +54,16 @@ a {
 
 $sidebarMaxWidth:500px;
 
-#sidebar, #footer {
+/*#sidebar, #footer {
   min-width:400px;
   width:20%;
   max-width:$sidebarMaxWidth;
-}
+}*/
 
 #sidebar {
-  position:absolute;
+  /*position:absolute;
   top:0;
-  right:0;
+  right:0;*/
   z-index:2;
   
   padding:0 20px;
@@ -72,7 +72,7 @@ $sidebarMaxWidth:500px;
   background-color:#fff;
 
   height:100%;
-  overflow:scroll;
+  overflow-y:scroll;
 
 
   h1, h2 {
@@ -169,10 +169,10 @@ $sidebarMaxWidth:500px;
 }
 
 #footer {
-  position:fixed;
+  /*position:fixed;
   z-index:3;
   bottom:0px;
-  right:20px;
+  right:20px;*/
   text-align:center;
 
   padding-top:10px;
@@ -197,9 +197,9 @@ $sidebarMaxWidth:500px;
 
 $svgBgColor:#f9f9f9;
 svg#canvas {
-  position:absolute;
+  /*position:absolute;
   top:0;
-  left:0;
+  left:0;*/
   z-index:0;
   display:block;
 

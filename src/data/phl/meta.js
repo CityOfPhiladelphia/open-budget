@@ -1,4 +1,4 @@
-{
+window.OpenBudget = {"data":{"meta":{
     "hierarchy": ["Fund", "Department", "Major Class", "Class"],
     "page_title": "City of Philadelphia Budget",
     "description": "",
@@ -14,8 +14,8 @@
     "overview_label": "Overview",
     "deficit_label": "Deficit",
     "surplus_label": "Surplus",
-    "data_url": "/data/phl/data.json",
-    "cache_url": "/data/phl/cache.json",
+    "data_url": "data/phl/data.json",
+    "cache_url": "",//data/phl/cache.json",
     "value": {
         "label": "FY 2014",
         "type": "accounts",
@@ -26,4 +26,4 @@
         "type": "accounts",
         "year": "2013"
     }
-}
+}}};

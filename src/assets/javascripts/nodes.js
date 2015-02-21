@@ -11,10 +11,10 @@ OpenBudget.nodes = (function() {
     var totals,
         setupTotals = function() {
             totals = {
-                'revenue': {
+                /*'revenue': {
                     'value': 0,
                     'value2': 0
-                },
+                },*/
                 'gross_cost': {
                     'value': 0,
                     'value2': 0
@@ -48,7 +48,7 @@ OpenBudget.nodes = (function() {
 
     var meta = OpenBudget.data.meta,
         valuesAccessorForNodeType = {
-        'revenue': valuesAccessor('revenue', meta.value, meta.value2),
+        //'revenue': valuesAccessor('revenue', meta.value, meta.value2),
         'gross_cost': valuesAccessor('gross_cost', meta.value, meta.value2)
     };
 
@@ -85,7 +85,7 @@ OpenBudget.nodes = (function() {
             parent.children.push(node);
         }
         else {
-            node.center = centers[type == 'gross_cost' ? 'left' : 'right'];
+            node.center = centers['middle'];//centers[type == 'gross_cost' ? 'left' : 'right'];
             node.id = type + '-' + (datum.number || key);
 
             rootNodes.push(node);
@@ -102,17 +102,17 @@ OpenBudget.nodes = (function() {
 
     var createNodes = function(key, datum, parents) {
         if(!parents) parents = {
-            'revenue': {
+            /*'revenue': {
                 'depth': -1,
                 'type': 'revenue'
-            },
+            },*/
             'gross_cost': {
                 'depth': -1,
                 'type': 'gross_cost'
             }
         };
         return {
-            'revenue': createNode(key, datum, parents.revenue),
+            //'revenue': createNode(key, datum, parents.revenue),
             'gross_cost': createNode(key, datum, parents.gross_cost)
         };
     };
@@ -120,9 +120,9 @@ OpenBudget.nodes = (function() {
     var rootNodes = [];
     var nodes = [];
 
-    var surplus,
+    /*var surplus,
         surplus2,
-        surplusNode;
+        surplusNode;*/
 
     var radiusScale = d3.scale.sqrt(),
         radiusScaleFactor = 1;
@@ -161,7 +161,7 @@ OpenBudget.nodes = (function() {
 
             recursiveCreate(data);
 
-            surplus = d3.round(totals.revenue.value - totals['gross_cost'].value, 2);
+            /*surplus = d3.round(totals.revenue.value - totals['gross_cost'].value, 2);
             surplus2 = d3.round(totals.revenue.value2 - totals['gross_cost'].value2, 2);
             var surplusDiff = diffPercent(surplus, surplus2),
                 isDeficit = surplus < 0;
@@ -185,7 +185,7 @@ OpenBudget.nodes = (function() {
             };
             rootNodes.push(surplusNode);
             nodes.push(surplusNode);
-            // console.log(surplus, surplus2);
+            // console.log(surplus, surplus2);*/
 
             var colorScale = d3.scale.linear()
                 .domain([-100, 0, 100]).clamp(true)
@@ -283,10 +283,10 @@ OpenBudget.nodes = (function() {
                 var recursiveReferencing = function(someNodes) {
                     _.each(someNodes, function(value) {
                         if(!value.depth) {
-                            value.center = centers[value.type == 'gross_cost' ? 'left' : 'right'];
-                            if(value.type == 'surplus') {
+                            value.center = 'middle';//centers[value.type == 'gross_cost' ? 'left' : 'right'];
+                            /*if(value.type == 'surplus') {
                                 value.center = centers['middle'];
-                            }
+                            }*/
                         }
                         if(value.children) {
                             _.each(value.children, function(value2) {

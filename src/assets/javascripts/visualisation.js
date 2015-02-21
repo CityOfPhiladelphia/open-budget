@@ -23,13 +23,13 @@ $(function() {
                 {
                     type: 'gross_cost',
                     text: OpenBudget.data.meta.gross_cost_label,
-                    center: nodes.centers.topLeft
-                },
+                    center: nodes.centers.topMiddle//topLeft
+                }/*,
                 {
                     type: 'revenue',
                     text: OpenBudget.data.meta.revenue_label,
                     center: nodes.centers.topRight
-                }
+                }*/
             ],
             withType: {},
             setup: function() {
@@ -443,7 +443,7 @@ $(function() {
                 if(d3.event) d3.event.stopPropagation();
                 force.stop();
 
-                if(!children || children.length < 2) {
+                if(!children || children.length < 1) {
                     OpenBudget.track('Visualisation', 'zoom in blocked', d.id);
                     return;
                 }
