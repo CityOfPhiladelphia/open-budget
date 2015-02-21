@@ -1,0 +1,24 @@
+{
+  "name": "open-budget",
+  "version": "0.0.0",
+  "description": "New developers, designers and ideator are welcome to join.",
+  "main": "app/assets/javascripts/application.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/CityOfPhiladelphia/open-budget.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/CityOfPhiladelphia/open-budget/issues"
+  },
+  "dependencies": {
+    "underscore": "~1.8.1",
+    "jquery": "~2.1.3",
+    "d3": "~3.5.5",
+    "bootstrap": "~3.3.2"
+  }
+}

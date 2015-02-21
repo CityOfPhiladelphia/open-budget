@@ -622,7 +622,7 @@ $(function() {
 
             // temporary workaround
             // unresolved issue with IE9 on Vista with zurich cache
-            if($.browser.msie && $.browser.version <= 9) {
+            if($('html').hasClass('oldie')) {
                 usePreproccesedData = false;
             }
 
