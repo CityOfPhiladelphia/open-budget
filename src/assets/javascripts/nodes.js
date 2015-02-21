@@ -311,7 +311,7 @@ OpenBudget.nodes = (function() {
                     dataType: "json",
                     url: cacheUrl,
                     success: ready,
-                    cache: false
+                    cache: true
                 });
             }
             else {
@@ -332,7 +332,7 @@ OpenBudget.nodes = (function() {
                     dataType: "json",
                     url: dataUrl,
                     success: ready,
-                    cache: false
+                    cache: true
                 });
             }
             else {
