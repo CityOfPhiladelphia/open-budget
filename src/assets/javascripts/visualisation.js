@@ -337,7 +337,7 @@ $(function() {
                     var children = d.children || {},
                         childrenLength = children.length;
 
-                    if(childrenLength < 2) {
+                    if(childrenLength < 1) {
                         return;
                     }
 
