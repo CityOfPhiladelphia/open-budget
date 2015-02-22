@@ -553,7 +553,7 @@ $(function() {
                     scaleFactor = ((Math.min(svgWidth, svgHeight) / 2) - 200) / newActiveParent.unscaledRadius;
                 }
                 else {
-                    scaleFactor = 1;
+                    scaleFactor = 2;
                 }
                 nodes.setRadiusScaleFactor(scaleFactor);
                 nodes.calculateRadius();
