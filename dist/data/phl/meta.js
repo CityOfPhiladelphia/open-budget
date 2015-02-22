@@ -8,6 +8,7 @@ window.OpenBudget = {"data":{"meta":{
     "data_title": "Download Data",
     "html_class": "blue",
     "uservoice": "",
+    "base_headline": "FUNDS",
     "gross_cost_label": "Expenses",
     "revenue_label": "Revenues",
     "currency_prefix": "$",
