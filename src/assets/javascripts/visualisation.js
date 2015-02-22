@@ -481,7 +481,7 @@ $(function() {
                 c.transition().duration(transitionSpeed)
                     .attr('cx', function(d) { return (d.parent && d.radius) || (svgWidth / 2); })
                     .attr('cy', function(d) { return (d.parent && d.radius) || (svgHeight / 2); })
-                    .attr('r', helpers.r)
+                    .attr('r', d.radius * 2)
                     .style('opacity', 0.8)
                     .style('fill', function(d) { return grayscale(d.fill); })
                     .style('stroke', function(d) { return grayscale(d.stroke); });
