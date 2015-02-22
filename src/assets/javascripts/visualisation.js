@@ -22,7 +22,8 @@ $(function() {
             data: [
                 {
                     type: 'gross_cost',
-                    text: OpenBudget.data.meta.gross_cost_label,
+                    defaultText: OpenBudget.data.meta.base_headline,
+                    text: OpenBudget.data.meta.base_headline,
                     center: nodes.centers.topMiddle//topLeft
                 }/*,
                 {
@@ -51,7 +52,8 @@ $(function() {
                 svgHeadlines.transition().duration(d3.event && d3.event.altKey ? 7500 : 750)
                     .attr('x', function(d) { return d.pos.x; })
                     .attr('y', function(d) { return d.pos.y; })
-                    .style('opacity', function(d) { return d.opacity; });
+                    .style('opacity', function(d) { return d.opacity; })
+                    .text(function(d) { return d.text; });
             },
             focus: function(d, zoomIn) {
                 var type = d.depth || zoomIn ? d.type : false;
@@ -65,6 +67,7 @@ $(function() {
                         value.pos = value.center;
                         value.opacity = type ? 0 : 1;
                     }
+                    value.text = zoomIn ? d.name : d.parent !== undefined ? d.parent.name : value.defaultText;
                 });
 
                 headlines.transition();

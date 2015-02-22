@@ -141,7 +141,7 @@ svg#canvas {
     pointer-events: none; }
     svg#canvas text.headline {
       opacity: 1;
-      fill: #ececec;
+      fill: #6d6d6d;
       font-size: 40px;
       text-transform: none; }
   svg#canvas circle {
