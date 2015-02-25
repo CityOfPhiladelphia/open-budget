@@ -161,7 +161,7 @@ $(function() {
                 force.nodes(activeNodes);
                 activeNodesCircles.call(force.drag);
             },
-            labelFontSize: 11,
+            labelFontSize: 15,
             resize: function(svgSizeCallback) {
                 svgWidth = $body.width() - $sidebar.outerWidth();
                 svgHeight = $body.height();
