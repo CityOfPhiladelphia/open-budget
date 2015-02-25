@@ -1,15 +1,16 @@
+@import url('//fonts.googleapis.com/css?family=Montserrat:400,700|Open+Sans:400,700');
 html, body {
   width: 100%;
   height: 100%;
   margin: 0;
   padding: 0;
   overflow: hidden;
-  font-family: "Share", sans-serif; }
+  font-family: 'Open Sans', 'Arial', sans-serif; }
 
 a {
-  color: #E61414; }
+  color: #027ea4; }
   a:hover {
-    color: #b71010; }
+    color: #015772; }
 
 #tooltip {
   font-size: 12px;
@@ -46,10 +47,11 @@ a {
   #sidebar h1, #sidebar h2 {
     font-weight: normal;
     text-align: center;
-    color: #E61414;
-    margin: 0; }
+    color: #000000;
+    margin: 0;
+    font-family: 'Montserrat', 'Tahoma', sans-serif;
+    text-transform: uppercase; }
   #sidebar h1 {
-    margin-top: 20px;
     font-size: 30px;
     line-height: 41px; }
   #sidebar h2 {
@@ -72,6 +74,10 @@ a {
       left: 6px; }
       #sidebar #search label i {
         opacity: 0.8; }
+  #sidebar .logo {
+    max-width: 60%;
+    height: auto;
+    margin: 0 auto; }
   #sidebar table {
     opacity: 0; }
   #sidebar .breadcrumb {
@@ -86,11 +92,12 @@ a {
     margin-top: 20px;
     margin-bottom: 150px; }
     #sidebar table .value, #sidebar table .value2, #sidebar table .diff {
-      text-align: right; }
+      text-align: right;
+      font-size: 90%; }
     #sidebar table .diff {
       font-weight: bold; }
     #sidebar table.table-hover tbody tr:hover td, #sidebar table.table-hover tbody tr.hover td {
-      background-color: #fef1f1; }
+      background-color: #edf4f7; }
     #sidebar table .name {
       word-break: break-all;
       word-break: break-word;
@@ -134,7 +141,7 @@ svg#canvas {
     pointer-events: none; }
   svg#canvas text {
     text-transform: uppercase;
-    font-family: "Share", sans-serif;
+    font-family: 'Open Sans', 'Arial', sans-serif;
     font-weight: bold;
     opacity: 0.6;
     text-shadow: white 0 1px 0;

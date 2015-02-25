@@ -6,7 +6,6 @@ window.OpenBudget = {"data":{"meta":{
     "h2": "Operating Budget",
     "data_link": "https://github.com/CityOfPhiladelphia/open-budget-data-transformer/blob/master/data/FY2014-actual.csv",
     "data_title": "Download Data",
-    "html_class": "blue",
     "uservoice": "",
     "base_headline": "FUNDS",
     "gross_cost_label": "Expenses",
