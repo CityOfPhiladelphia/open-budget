@@ -130,13 +130,13 @@ $(function() {
                 o.y += (c.y - o.y) * k;
 
                 q.visit(collide(o));
-                
+
                 i += 1;
             }
         };
         var forceTickAndSet = function(e) {
             forceTick(e);
-            
+
             activeNodesCircles
                 .attr("cx", function(d) { return d.x; })
                 .attr("cy", function(d) { return d.y; });
@@ -169,12 +169,12 @@ $(function() {
                 if(typeof svgSizeCallback == 'function') {
                     svgSizeCallback();
                 }
-            
+
                 svg.attr('width', svgWidth).attr('height', svgHeight);
                 force.size([svgWidth, svgHeight]);
-                
+
                 nodes.resize(svgWidth, svgHeight);
-                
+
                 activeNodesCircles.attr('r', helpers.r);
                 activeNodesClipPaths.selectAll('circle')
                     .attr('r', helpers.computedRadius)
@@ -459,7 +459,7 @@ $(function() {
                     theLevel = level.all[levelId];
 
                 level.push(levelId, d);
-                
+
                 // curLevel.circles.each(function(d) { d.fixed = true; });
 
                 var newRadius = (Math.min(svgWidth, svgHeight) / 2) - 200;
@@ -553,7 +553,7 @@ $(function() {
                     scaleFactor = ((Math.min(svgWidth, svgHeight) / 2) - 200) / newActiveParent.unscaledRadius;
                 }
                 else {
-                    scaleFactor = 2;
+                    scaleFactor = 1.5;
                 }
                 nodes.setRadiusScaleFactor(scaleFactor);
                 nodes.calculateRadius();
@@ -671,7 +671,7 @@ $(function() {
                 OpenBudget.track('Visualisation', 'initialized', undefined, undefined, true);
             });
         };
-        
+
         return {
             init: init,
             zoomIn: level.zoomIn,
