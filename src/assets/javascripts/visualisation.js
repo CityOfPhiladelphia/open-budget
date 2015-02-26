@@ -462,7 +462,7 @@ $(function() {
 
                 // curLevel.circles.each(function(d) { d.fixed = true; });
 
-                var newRadius = (Math.min(svgWidth, svgHeight) / 2) - 200;
+                var newRadius = (Math.min(svgWidth, svgHeight) / 2) - 250;
                 var unscaledRadius = d.unscaledRadius;
                 var scaleFactor = newRadius / unscaledRadius;
 
