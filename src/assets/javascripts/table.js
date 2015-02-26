@@ -106,12 +106,23 @@ $(function() {
                                     d = dataSet.nodes[type];
 
                                 $tr.attr('id', 'tr-'+dataSet.id);
-                                $tr.find('td:eq(0)').text(dataSet.name);
-                                $tr.find('td:eq(1)').text(formatCHF(d.value));
-                                $tr.find('td:eq(2)').text(formatDiffPercent(dataSet.nodes[type].diff)+'%').css('color', d.stroke);
-                                $tr.find('td:eq(3)').text(formatCHF(d.value2));
+                                $tr.find('.name').text(dataSet.name);
+                                $tr.find('.value').text(formatCHF(d.value));
+                                $tr.find('.diff').text(formatDiffPercent(dataSet.nodes[type].diff)+'%').css('color', d.stroke);
+                                $tr.find('.value2').text(formatCHF(d.value2));
                                 $tBody.append($tr);
                             });
+
+                            // Totals row
+                            var $tr = $compareTrTemplate.clone();
+
+                            $tr.attr('id', 'tr-total');
+                            $tr.addClass('total');
+                            $tr.find('.name').text('Total');
+                            $tr.find('.value').text(formatCHF(_.reduce(dataSets, function(memo, num) { return memo + num.nodes[type].value; }, 0)));
+                            //$tr.find('.diff').text(formatDiffPercent(dataSet.nodes[type].diff)+'%').css('color', d.stroke);
+                            $tr.find('.value2').text(formatCHF(_.reduce(dataSets, function(memo, num) { return memo + num.nodes[type].value2; }, 0)));
+                            $tBody.append($tr);
 
                             if(firstDataSet.nodes[type].depth < 3) {
                                 $tBody.find('tr').click(function() {
@@ -124,7 +135,8 @@ $(function() {
 
                             createBreadcrumbItem(firstDataSet.nodes[type].parent);
 
-                            breadcrumbItems.unshift(OpenBudget.data.meta[type + '_label']);
+                            //breadcrumbItems.unshift(OpenBudget.data.meta[type + '_label']);
+                            breadcrumbItems.unshift(OpenBudget.data.meta.base_headline);
                         //}
 
                         //breadcrumbItems.unshift(OpenBudget.data.meta.overview_label);

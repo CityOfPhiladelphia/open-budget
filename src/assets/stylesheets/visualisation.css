@@ -95,6 +95,9 @@ a {
       text-align: right; }
     #sidebar table td.value, #sidebar table td.value2, #sidebar table td.diff {
       font-size: 90%; }
+    #sidebar table .total {
+      border-top: 2px #ddd solid;
+      text-transform: uppercase; }
     #sidebar table .diff {
       font-weight: bold; }
     #sidebar table.table-hover tbody tr:hover td, #sidebar table.table-hover tbody tr.hover td {
