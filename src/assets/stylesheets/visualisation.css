@@ -92,7 +92,8 @@ a {
     margin-top: 20px;
     margin-bottom: 150px; }
     #sidebar table .value, #sidebar table .value2, #sidebar table .diff {
-      text-align: right;
+      text-align: right; }
+    #sidebar table td.value, #sidebar table td.value2, #sidebar table td.diff {
       font-size: 90%; }
     #sidebar table .diff {
       font-weight: bold; }
