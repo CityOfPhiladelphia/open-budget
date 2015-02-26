@@ -253,14 +253,15 @@ OpenBudget.nodes = (function() {
                 };
                 recursiveCleanup(rootNodes);
 
-                $('body').append('<textarea></textarea>').find('textarea:last').css({
+                /*$('body').append('<textarea></textarea>').find('textarea:last').css({
                     position: 'fixed',
                     'z-index': 99999,
                     top: '0px',
                     left: '0px',
                     width: '100%',
                     height: '100%'
-                }).text(JSON.stringify(rootNodes));
+                }).text(JSON.stringify(rootNodes));*/
+                console.log(rootNodes);
             };
 
             var dataUrl = OpenBudget.data.meta.data_url;
