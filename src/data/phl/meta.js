@@ -1,5 +1,5 @@
 window.OpenBudget = {"data":{"meta":{
-    "hierarchy": ["Fund", "Department", "Major Class", "Class"],
+    "hierarchy": ["Funding Source", "Department", "Category", "Subcategory"],
     "page_title": "City of Philadelphia Budget",
     "description": "",
     "h1": "City of Philadelphia",
@@ -7,7 +7,7 @@ window.OpenBudget = {"data":{"meta":{
     "data_link": "https://github.com/CityOfPhiladelphia/open-budget-data-transformer/blob/master/data/FY2014-actual.csv",
     "data_title": "Download Data",
     "uservoice": "",
-    "base_headline": "FUNDS",
+    "base_headline": "Funding Sources",
     "gross_cost_label": "Expenses",
     "revenue_label": "Revenues",
     "currency_prefix": "$",
