@@ -7,10 +7,58 @@ html, body {
   overflow: hidden;
   font-family: 'Open Sans', 'Arial', sans-serif; }
 
+/* Necessary for Sticky footer */
+html {
+  position: relative; }
+
+body {
+  margin-bottom: 40px; }
+
+.container-full {
+  margin: 0 auto;
+  width: 100%; }
+
 a {
-  color: #027ea4; }
+  color: #027ea4;
+  font-weight: 700; }
   a:hover {
-    color: #015772; }
+    color: #353535;
+    text-decoration: none; }
+
+h1, h2 {
+  font-weight: normal;
+  text-align: center;
+  color: #000000;
+  margin: 0;
+  font-family: 'Montserrat', 'Tahoma', sans-serif;
+  text-transform: uppercase; }
+
+h1 {
+  font-size: 30px;
+  line-height: 41px; }
+
+h2 {
+  font-size: 20px;
+  line-height: 30px; }
+
+header.site-header {
+  padding: 0 15px; }
+  header.site-header a:hover .logo, header.site-header a:active .logo {
+    opacity: .7;
+    transition: opacity 300ms ease-out; }
+  header.site-header .logo {
+    height: 75px;
+    width: auto;
+    margin-right: 20px; }
+  header.site-header .pagetitle {
+    display: inline;
+    vertical-align: middle; }
+
+.divider {
+  width: 100%;
+  background: #027ea4;
+  height: 10px;
+  padding-top: 10px; }
 
 #tooltip {
   font-size: 12px;
@@ -43,20 +91,8 @@ a {
   box-shadow: 0 0 20px 1px #ddd;
   background-color: #fff;
   height: 100%;
-  overflow-y: scroll; }
-  #sidebar h1, #sidebar h2 {
-    font-weight: normal;
-    text-align: center;
-    color: #000000;
-    margin: 0;
-    font-family: 'Montserrat', 'Tahoma', sans-serif;
-    text-transform: uppercase; }
-  #sidebar h1 {
-    font-size: 30px;
-    line-height: 41px; }
-  #sidebar h2 {
-    font-size: 20px;
-    line-height: 30px; }
+  overflow-y: scroll;
+  -webkit-overflow-scrolling: touch; }
   #sidebar #search {
     display: block;
     margin: 20px auto 0;
@@ -74,10 +110,6 @@ a {
       left: 6px; }
       #sidebar #search label i {
         opacity: 0.8; }
-  #sidebar .logo {
-    max-width: 60%;
-    height: auto;
-    margin: 0 auto; }
   #sidebar table {
     opacity: 0; }
   #sidebar .breadcrumb {
@@ -86,6 +118,8 @@ a {
     padding: 8px;
     background-color: transparent;
     font-size: 16px; }
+    #sidebar .breadcrumb li:only-child {
+      display: none; }
     #sidebar .breadcrumb li:last-child {
       font-weight: bold; }
   #sidebar table {
@@ -97,7 +131,8 @@ a {
       font-size: 90%; }
     #sidebar table .total {
       border-top: 2px #ddd solid;
-      text-transform: uppercase; }
+      text-transform: uppercase;
+      font-weight: bold; }
     #sidebar table .diff {
       font-weight: bold; }
     #sidebar table.table-hover tbody tr:hover td, #sidebar table.table-hover tbody tr.hover td {
@@ -109,23 +144,35 @@ a {
       -moz-hyphens: auto;
       hyphens: auto; }
 
-#footer {
-  /*position:fixed;
-  z-index:3;
-  bottom:0px;
-  right:20px;*/
-  text-align: center;
-  padding-top: 10px;
-  box-shadow: 0 0 20px 1px #fff;
-  background-color: #fff; }
-  #footer p {
-    margin: 0 0; }
-  #footer p.links {
-    margin-bottom: 15px; }
-  #footer img {
-    height: 60px;
-    border: 0;
-    margin-bottom: 15px; }
+footer.site-footer {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  height: 30px;
+  padding: 5 20px;
+  font-size: rem-calc(13);
+  background: #027ea4;
+  text-transform: uppercase;
+  margin-top: rem-calc(16);
+  color: #fff; }
+  footer.site-footer .feedback {
+    text-align: center; }
+  footer.site-footer ul.list-inline {
+    float: right;
+    font-size: rem-calc(13);
+    margin: 0;
+    padding: 0; }
+  footer.site-footer li {
+    margin: 0;
+    padding: 0 0 0 10px; }
+    footer.site-footer li:first-child {
+      padding: 0; }
+  footer.site-footer a:link, footer.site-footer a:visited {
+    color: #fff; }
+  footer.site-footer a:hover, footer.site-footer a:active {
+    color: #353535; }
+  footer.site-footer p {
+    margin: 0; }
 
 svg#canvas {
   /*position:absolute;
@@ -133,7 +180,7 @@ svg#canvas {
   left:0;*/
   z-index: 0;
   display: block;
-  background-color: #f9f9f9; }
+  background-color: #fff; }
   svg#canvas rect {
     fill: #fff; }
   svg#canvas g.blur {
@@ -152,7 +199,7 @@ svg#canvas {
     pointer-events: none; }
     svg#canvas text.headline {
       opacity: 1;
-      fill: #6d6d6d;
+      fill: #737373;
       font-size: 40px;
       text-transform: none; }
   svg#canvas circle {
@@ -175,7 +222,7 @@ svg#canvas {
   z-index: 1;
   margin-right: 500px;
   height: 100%;
-  background-color: #f9f9f9; }
+  background-color: #fff; }
   #not-supported img {
     position: absolute;
     left: 10%;

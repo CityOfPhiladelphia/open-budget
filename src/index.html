@@ -17,7 +17,27 @@
   </head>
   <body>
 
-<div class="container-fluid">
+<div class="container-full">
+    <header class="site-header" role="banner">
+      <div class="row">
+        <div class="col-sm-12 col-md-7">
+          <a href="#">
+            <img src="assets/images/city-of-philadelphia-logo.png" class="logo" alt="City of Philadelphia">
+          </a>
+          <h1 class="pagetitle">Open Budget</h1>
+        </div>
+        <div class="col-sm-12 col-md-5">
+          <!--<form class="search">
+            <input type="text" placeholder="What are you looking for?"><input type="submit">
+          </form>-->
+        </div>
+      </div>
+    </header>
+    <div class="row">
+      <div class="col-sm-12">
+        <div class="divider"></div>
+      </div>
+    </div>
     <div class="row">
         <div class="col-md-7">
             <svg id="canvas">
@@ -25,9 +45,8 @@
                 </defs>
             </svg>
         </div>
-        <div class="col-md-5" id="sidebar">
-            <img src="assets/images/city-of-philadelphia-logo.png" class="logo" alt="City of Philadelphia">
-            <h1><p>Operating Budget</p></h1>
+        <div class="col-md-5">
+          <div id="sidebar">
 
             <!--<div id="search">
                 <label for="search-field">
@@ -66,23 +85,28 @@
                     </tr>
                 </tbody>
             </table>
+          </div>
         </div>
-        <!--<div id="footer">
-            <!--<a id="opendatach" href="http://www.opendata.ch/">
-                <img alt="OpenData.ch" src="assets/images/opendatach-blue.png" />
-            </a>-->
-            <p>
-                <a href="https://github.com/CityOfPhiladelphia/open-budget-data-transformer/blob/master/data/FY2014-actual.csv">Download Data</a>
-            </p>
-            <p class="links">
-                <a href="https://github.com/tpreusse/open-budget">Quellcode</a>
-                    -
-                    <a href="https://twitter.com/intent/tweet?hashtags=ogd&amp;text=City%20of%20Philadelphia%20Budget&amp;url=http%3A%2F%2Fphlbudget.budget.opendata.ch%2F&amp;via=OpendataCH" target="_blank">Tweet</a> -
-                    <a href="https://www.facebook.com/sharer.php?u=http%3A%2F%2Fphlbudget.budget.opendata.ch%2F" target="_blank">Facebook</a>
-            </p>
-        </div>-->
     </div>
 </div>
+<footer class="footer site-footer" role="contentinfo">
+  <div class="row">
+    <div class="col-md-3">
+      <a href="http://www.phila.gov">City of Philadelphia</a>
+    </div>
+    <div class="col-md-3 feedback">
+      <a href="#">Feedback</a>
+    </div>
+    <div class="col-md-6">
+      <nav>
+        <ul class="list-inline">
+          <li><a href="https://github.com/CityOfPhiladelphia/open-budget-data-transformer/tree/master/data" target="_blank">Download Data</a></li>
+        </ul>
+      </nav>
+
+    </div>
+  </div>
+</footer>
 
     <script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
     <script type="text/javascript">
