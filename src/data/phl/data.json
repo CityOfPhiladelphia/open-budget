@@ -21654,3810 +21654,6 @@
 		]
 	},
 	{
-		"id": "2",
-		"name": "Water Operating Fund",
-		"gross_cost": {
-			"accounts": {
-				"2013": 642611622.48,
-				"2014": 680291869.1700002
-			}
-		},
-		"children": [
-			{
-				"id": "2126",
-				"name": "Mdo-office of Technology",
-				"gross_cost": {
-					"accounts": {
-						"2013": 14045690.260000002,
-						"2014": 15132793.03
-					}
-				},
-				"children": [
-					{
-						"id": "2136",
-						"name": "Personal Services",
-						"gross_cost": {
-							"accounts": {
-								"2013": 4039582.3000000003,
-								"2014": 4621214.17
-							}
-						},
-						"children": [
-							{
-								"id": "2140",
-								"name": "Salary Control",
-								"gross_cost": {
-									"accounts": {
-										"2013": 28349.7,
-										"2014": 51927.54
-									}
-								}
-							},
-							{
-								"id": "2141",
-								"name": "Perm Full Time-civilian",
-								"gross_cost": {
-									"accounts": {
-										"2013": 3937863.22,
-										"2014": 4399350.05
-									}
-								}
-							},
-							{
-								"id": "2142",
-								"name": "Plus/minus Gross Adj",
-								"gross_cost": {
-									"accounts": {
-										"2013": 29805.73,
-										"2014": 96951.44
-									}
-								}
-							},
-							{
-								"id": "2143",
-								"name": "Overtime Civilian",
-								"gross_cost": {
-									"accounts": {
-										"2013": 40444.81,
-										"2014": 68643.04
-									}
-								}
-							},
-							{
-								"id": "2144",
-								"name": "Holiday \"g\"(2/3 Shifts)",
-								"gross_cost": {
-									"accounts": {
-										"2013": 1321.82,
-										"2014": 2607
-									}
-								}
-							},
-							{
-								"id": "2145",
-								"name": "Shift",
-								"gross_cost": {
-									"accounts": {
-										"2013": 1638.37,
-										"2014": 1735.1
-									}
-								}
-							},
-							{
-								"id": "2146",
-								"name": "Sick Pay(b Time)-civilian",
-								"gross_cost": {
-									"accounts": {
-										"2013": 158.65,
-										"2014": 0
-									}
-								}
-							}
-						]
-					},
-					{
-						"id": "2137",
-						"name": "Purchase of Services",
-						"gross_cost": {
-							"accounts": {
-								"2013": 9214801.100000001,
-								"2014": 9567461.58
-							}
-						},
-						"children": [
-							{
-								"id": "2147",
-								"name": "Telephone",
-								"gross_cost": {
-									"accounts": {
-										"2013": 2162479.48,
-										"2014": 1091249.25
-									}
-								}
-							},
-							{
-								"id": "2148",
-								"name": "Commercial Off-shelf Comp Software",
-								"gross_cost": {
-									"accounts": {
-										"2013": 1180173.86,
-										"2014": 1465398.95
-									}
-								}
-							},
-							{
-								"id": "2149",
-								"name": "Information Technology-prof Service",
-								"gross_cost": {
-									"accounts": {
-										"2013": 5178392.59,
-										"2014": 5806882.05
-									}
-								}
-							},
-							{
-								"id": "2150",
-								"name": "Repair and Maintenance Charges",
-								"gross_cost": {
-									"accounts": {
-										"2013": 51447.55,
-										"2014": 26299.15
-									}
-								}
-							},
-							{
-								"id": "2151",
-								"name": "Maint/support-computr Hardware/soft",
-								"gross_cost": {
-									"accounts": {
-										"2013": 424976.91,
-										"2014": 1153847.1
-									}
-								}
-							},
-							{
-								"id": "2152",
-								"name": "Rent/lease-purchase Computer Equip",
-								"gross_cost": {
-									"accounts": {
-										"2013": 159055.71,
-										"2014": 17797.08
-									}
-								}
-							},
-							{
-								"id": "2153",
-								"name": "Rents",
-								"gross_cost": {
-									"accounts": {
-										"2013": 58275,
-										"2014": 0
-									}
-								}
-							},
-							{
-								"id": "2154",
-								"name": "Seminar and Training Sessions",
-								"gross_cost": {
-									"accounts": {
-										"2013": 0,
-										"2014": 5988
-									}
-								}
-							}
-						]
-					},
-					{
-						"id": "2138",
-						"name": "Equipment",
-						"gross_cost": {
-							"accounts": {
-								"2013": 791306.86,
-								"2014": 732487.28
-							}
-						},
-						"children": [
-							{
-								"id": "2155",
-								"name": "Office Equipment",
-								"gross_cost": {
-									"accounts": {
-										"2013": 23379,
-										"2014": 23379
-									}
-								}
-							},
-							{
-								"id": "2156",
-								"name": "Computer Equipment & Peripherals",
-								"gross_cost": {
-									"accounts": {
-										"2013": 767927.86,
-										"2014": 709108.28
-									}
-								}
-							}
-						]
-					},
-					{
-						"id": "2139",
-						"name": "Materials and Supplies",
-						"gross_cost": {
-							"accounts": {
-								"2013": 0,
-								"2014": 211630
-							}
-						},
-						"children": [
-							{
-								"id": "2157",
-								"name": "Office Materials and Supplies",
-								"gross_cost": {
-									"accounts": {
-										"2013": 0,
-										"2014": 42430
-									}
-								}
-							},
-							{
-								"id": "2158",
-								"name": "Printing",
-								"gross_cost": {
-									"accounts": {
-										"2013": 0,
-										"2014": 169200
-									}
-								}
-							}
-						]
-					}
-				]
-			},
-			{
-				"id": "2127",
-				"name": "Public Property",
-				"gross_cost": {
-					"accounts": {
-						"2013": 3739360,
-						"2014": 3786428
-					}
-				},
-				"children": [
-					{
-						"id": "2159",
-						"name": "Purchase of Services",
-						"gross_cost": {
-							"accounts": {
-								"2013": 3739360,
-								"2014": 3786428
-							}
-						},
-						"children": [
-							{
-								"id": "2160",
-								"name": "Ground and Building Rental",
-								"gross_cost": {
-									"accounts": {
-										"2013": 3739360,
-										"2014": 3786428
-									}
-								}
-							}
-						]
-					}
-				]
-			},
-			{
-				"id": "2128",
-				"name": "Fleet Management",
-				"gross_cost": {
-					"accounts": {
-						"2013": 7218900.75,
-						"2014": 8185896.559999999
-					}
-				},
-				"children": [
-					{
-						"id": "2161",
-						"name": "Personal Services",
-						"gross_cost": {
-							"accounts": {
-								"2013": 2554406.390000001,
-								"2014": 2521284.17
-							}
-						},
-						"children": [
-							{
-								"id": "2165",
-								"name": "Salary Control",
-								"gross_cost": {
-									"accounts": {
-										"2013": 177.05,
-										"2014": 22990.94
-									}
-								}
-							},
-							{
-								"id": "2166",
-								"name": "Perm Full Time-civilian",
-								"gross_cost": {
-									"accounts": {
-										"2013": 1892099.35,
-										"2014": 1734059.26
-									}
-								}
-							},
-							{
-								"id": "2167",
-								"name": "Dual/relief-full Time-civilian",
-								"gross_cost": {
-									"accounts": {
-										"2013": 212349.23,
-										"2014": 221921.76
-									}
-								}
-							},
-							{
-								"id": "2168",
-								"name": "Plus/minus Gross Adj",
-								"gross_cost": {
-									"accounts": {
-										"2013": 30641.66,
-										"2014": 33595.5
-									}
-								}
-							},
-							{
-								"id": "2169",
-								"name": "Temporary Seasonal",
-								"gross_cost": {
-									"accounts": {
-										"2013": 15752,
-										"2014": 23307.38
-									}
-								}
-							},
-							{
-								"id": "2170",
-								"name": "Overtime Civilian",
-								"gross_cost": {
-									"accounts": {
-										"2013": 342322.83,
-										"2014": 420736.28
-									}
-								}
-							},
-							{
-								"id": "2171",
-								"name": "Overtime Shift Dual Relief",
-								"gross_cost": {
-									"accounts": {
-										"2013": 44574.49,
-										"2014": 46631.15
-									}
-								}
-							},
-							{
-								"id": "2172",
-								"name": "Holiday \"g\"(2/3 Shifts)",
-								"gross_cost": {
-									"accounts": {
-										"2013": 2399.79,
-										"2014": 4231.06
-									}
-								}
-							},
-							{
-								"id": "2173",
-								"name": "Holiday \"g\"(2/3 Shift) Dual/relief",
-								"gross_cost": {
-									"accounts": {
-										"2013": 588.1,
-										"2014": 146.34
-									}
-								}
-							},
-							{
-								"id": "2174",
-								"name": "Shift",
-								"gross_cost": {
-									"accounts": {
-										"2013": 13501.89,
-										"2014": 13425.92
-									}
-								}
-							},
-							{
-								"id": "2175",
-								"name": "Sick Pay(b Time)-civilian",
-								"gross_cost": {
-									"accounts": {
-										"2013": 0,
-										"2014": 238.58
-									}
-								}
-							}
-						]
-					},
-					{
-						"id": "2162",
-						"name": "Purchase of Services",
-						"gross_cost": {
-							"accounts": {
-								"2013": 894932.09,
-								"2014": 1438785.3299999998
-							}
-						},
-						"children": [
-							{
-								"id": "2176",
-								"name": "Cleaning and Laundering",
-								"gross_cost": {
-									"accounts": {
-										"2013": 4318,
-										"2014": 2919
-									}
-								}
-							},
-							{
-								"id": "2177",
-								"name": "Janitorial Services",
-								"gross_cost": {
-									"accounts": {
-										"2013": 41318.03,
-										"2014": 41598.52
-									}
-								}
-							},
-							{
-								"id": "2178",
-								"name": "Telephone",
-								"gross_cost": {
-									"accounts": {
-										"2013": 88.2,
-										"2014": 652.68
-									}
-								}
-							},
-							{
-								"id": "2179",
-								"name": "Licenses Permits Inspection Charges",
-								"gross_cost": {
-									"accounts": {
-										"2013": 2631.66,
-										"2014": 3340
-									}
-								}
-							},
-							{
-								"id": "2180",
-								"name": "Professional Consult/spec Services",
-								"gross_cost": {
-									"accounts": {
-										"2013": 16297.7,
-										"2014": 16647
-									}
-								}
-							},
-							{
-								"id": "2181",
-								"name": "Seminar and Training Sessions",
-								"gross_cost": {
-									"accounts": {
-										"2013": 720,
-										"2014": 0
-									}
-								}
-							},
-							{
-								"id": "2182",
-								"name": "Repair and Maintenance Charges",
-								"gross_cost": {
-									"accounts": {
-										"2013": 697298.39,
-										"2014": 1207170.88
-									}
-								}
-							},
-							{
-								"id": "2183",
-								"name": "Insurance and Official Bonds",
-								"gross_cost": {
-									"accounts": {
-										"2013": 4509.77,
-										"2014": 4083.75
-									}
-								}
-							},
-							{
-								"id": "2184",
-								"name": "Rents",
-								"gross_cost": {
-									"accounts": {
-										"2013": 4220.34,
-										"2014": 5868
-									}
-								}
-							},
-							{
-								"id": "2185",
-								"name": "Rental of Parking Spaces",
-								"gross_cost": {
-									"accounts": {
-										"2013": 123530,
-										"2014": 118587.5
-									}
-								}
-							},
-							{
-								"id": "2186",
-								"name": "Information Technology-prof Service",
-								"gross_cost": {
-									"accounts": {
-										"2013": 0,
-										"2014": 37918
-									}
-								}
-							}
-						]
-					},
-					{
-						"id": "2163",
-						"name": "Materials and Supplies",
-						"gross_cost": {
-							"accounts": {
-								"2013": 3720220.95,
-								"2014": 4158537.3299999996
-							}
-						},
-						"children": [
-							{
-								"id": "2187",
-								"name": "Books and Other Publications",
-								"gross_cost": {
-									"accounts": {
-										"2013": 3718.5,
-										"2014": 5073.38
-									}
-								}
-							},
-							{
-								"id": "2188",
-								"name": "Building and Construction",
-								"gross_cost": {
-									"accounts": {
-										"2013": 15595.67,
-										"2014": 6903.99
-									}
-								}
-							},
-							{
-								"id": "2189",
-								"name": "Chemicals and Gases",
-								"gross_cost": {
-									"accounts": {
-										"2013": 2712.3,
-										"2014": 5498.94
-									}
-								}
-							},
-							{
-								"id": "2190",
-								"name": "Dry Goods/notions/wearing Apparel",
-								"gross_cost": {
-									"accounts": {
-										"2013": 1872.79,
-										"2014": 2766.29
-									}
-								}
-							},
-							{
-								"id": "2191",
-								"name": "Electrical and Communication",
-								"gross_cost": {
-									"accounts": {
-										"2013": 320.29,
-										"2014": 0
-									}
-								}
-							},
-							{
-								"id": "2192",
-								"name": "General Equipment and Machinery",
-								"gross_cost": {
-									"accounts": {
-										"2013": 3006.75,
-										"2014": 0
-									}
-								}
-							},
-							{
-								"id": "2193",
-								"name": "Fire Fighting and Safety",
-								"gross_cost": {
-									"accounts": {
-										"2013": 9968.25,
-										"2014": 2111.19
-									}
-								}
-							},
-							{
-								"id": "2194",
-								"name": "Food",
-								"gross_cost": {
-									"accounts": {
-										"2013": 343.4,
-										"2014": 0
-									}
-								}
-							},
-							{
-								"id": "2195",
-								"name": "General Hardware and Minor Tools",
-								"gross_cost": {
-									"accounts": {
-										"2013": 5620.12,
-										"2014": 6858.19
-									}
-								}
-							},
-							{
-								"id": "2196",
-								"name": "Hospital and Laboratory",
-								"gross_cost": {
-									"accounts": {
-										"2013": 462,
-										"2014": 0
-									}
-								}
-							},
-							{
-								"id": "2197",
-								"name": "Small Power Tools and Hand Tools",
-								"gross_cost": {
-									"accounts": {
-										"2013": 13468.59,
-										"2014": 10935.25
-									}
-								}
-							},
-							{
-								"id": "2198",
-								"name": "Motor Vehicle Parts and Accessories",
-								"gross_cost": {
-									"accounts": {
-										"2013": 1418953.13,
-										"2014": 1664703.95
-									}
-								}
-							},
-							{
-								"id": "2199",
-								"name": "Lubricants",
-								"gross_cost": {
-									"accounts": {
-										"2013": 108199.35,
-										"2014": 84630.14
-									}
-								}
-							},
-							{
-								"id": "2200",
-								"name": "#2 Diesel Fuel",
-								"gross_cost": {
-									"accounts": {
-										"2013": 995566.44,
-										"2014": 1248705.63
-									}
-								}
-							},
-							{
-								"id": "2201",
-								"name": "Gasoline",
-								"gross_cost": {
-									"accounts": {
-										"2013": 1140413.37,
-										"2014": 1120288.38
-									}
-								}
-							},
-							{
-								"id": "2202",
-								"name": "Janitorial, Laundry and Household",
-								"gross_cost": {
-									"accounts": {
-										"2013": 0,
-										"2014": 62
-									}
-								}
-							}
-						]
-					},
-					{
-						"id": "2164",
-						"name": "Equipment",
-						"gross_cost": {
-							"accounts": {
-								"2013": 49341.32,
-								"2014": 67289.73
-							}
-						},
-						"children": [
-							{
-								"id": "2203",
-								"name": "Construction, Dredging, Conveying",
-								"gross_cost": {
-									"accounts": {
-										"2013": 1697,
-										"2014": 0
-									}
-								}
-							},
-							{
-								"id": "2204",
-								"name": "General Equipment and Machinery",
-								"gross_cost": {
-									"accounts": {
-										"2013": 42438.6,
-										"2014": 29931.51
-									}
-								}
-							},
-							{
-								"id": "2205",
-								"name": "Office Equipment",
-								"gross_cost": {
-									"accounts": {
-										"2013": 1350.72,
-										"2014": 0
-									}
-								}
-							},
-							{
-								"id": "2206",
-								"name": "Plumbing/air Conditioning/space Htg",
-								"gross_cost": {
-									"accounts": {
-										"2013": 3591,
-										"2014": 0
-									}
-								}
-							},
-							{
-								"id": "2207",
-								"name": "Computer Equipment & Peripherals",
-								"gross_cost": {
-									"accounts": {
-										"2013": 264,
-										"2014": 17236
-									}
-								}
-							},
-							{
-								"id": "2208",
-								"name": "Furniture and Furnishings",
-								"gross_cost": {
-									"accounts": {
-										"2013": 0,
-										"2014": 20122.22
-									}
-								}
-							}
-						]
-					}
-				]
-			},
-			{
-				"id": "2129",
-				"name": "Water",
-				"gross_cost": {
-					"accounts": {
-						"2013": 302561110.49999994,
-						"2014": 329066783.69999987
-					}
-				},
-				"children": [
-					{
-						"id": "2209",
-						"name": "Personal Services",
-						"gross_cost": {
-							"accounts": {
-								"2013": 85257781.15999998,
-								"2014": 89649634.51999998
-							}
-						},
-						"children": [
-							{
-								"id": "2215",
-								"name": "Salary Control",
-								"gross_cost": {
-									"accounts": {
-										"2013": 576652.35,
-										"2014": 485167.28
-									}
-								}
-							},
-							{
-								"id": "2216",
-								"name": "Perm Full Time-civilian",
-								"gross_cost": {
-									"accounts": {
-										"2013": 68630412.21,
-										"2014": 71183381.78
-									}
-								}
-							},
-							{
-								"id": "2217",
-								"name": "Dual/relief-full Time-civilian",
-								"gross_cost": {
-									"accounts": {
-										"2013": 1922787.19,
-										"2014": 1840789.69
-									}
-								}
-							},
-							{
-								"id": "2218",
-								"name": "Plus/minus Gross Adj",
-								"gross_cost": {
-									"accounts": {
-										"2013": 410849.98,
-										"2014": 798364.98
-									}
-								}
-							},
-							{
-								"id": "2219",
-								"name": "Temporary Seasonal",
-								"gross_cost": {
-									"accounts": {
-										"2013": 1099235.52,
-										"2014": 1203039.64
-									}
-								}
-							},
-							{
-								"id": "2220",
-								"name": "Overtime Civilian",
-								"gross_cost": {
-									"accounts": {
-										"2013": 11840495.69,
-										"2014": 13288142.04
-									}
-								}
-							},
-							{
-								"id": "2221",
-								"name": "Overtime Shift Dual Relief",
-								"gross_cost": {
-									"accounts": {
-										"2013": 26587.57,
-										"2014": 25100.81
-									}
-								}
-							},
-							{
-								"id": "2222",
-								"name": "Holiday \"g\"(2/3 Shifts)",
-								"gross_cost": {
-									"accounts": {
-										"2013": 413785.86,
-										"2014": 403110.57
-									}
-								}
-							},
-							{
-								"id": "2223",
-								"name": "Holiday \"g\"(2/3 Shift) Dual/relief",
-								"gross_cost": {
-									"accounts": {
-										"2013": 422.6,
-										"2014": 553.36
-									}
-								}
-							},
-							{
-								"id": "2224",
-								"name": "Shift",
-								"gross_cost": {
-									"accounts": {
-										"2013": 174018.93,
-										"2014": 199316.19
-									}
-								}
-							},
-							{
-								"id": "2225",
-								"name": "Sick Pay(b Time)-civilian",
-								"gross_cost": {
-									"accounts": {
-										"2013": 162533.26,
-										"2014": 205195.74
-									}
-								}
-							},
-							{
-								"id": "2226",
-								"name": "Reg -rate 1",
-								"gross_cost": {
-									"accounts": {
-										"2013": 0,
-										"2014": 22.83
-									}
-								}
-							},
-							{
-								"id": "2227",
-								"name": "Overtime Shift Uniform",
-								"gross_cost": {
-									"accounts": {
-										"2013": 0,
-										"2014": 17449.61
-									}
-								}
-							}
-						]
-					},
-					{
-						"id": "2210",
-						"name": "Purchase of Services",
-						"gross_cost": {
-							"accounts": {
-								"2013": 116071002.89999999,
-								"2014": 114181199.07999998
-							}
-						},
-						"children": [
-							{
-								"id": "2228",
-								"name": "Cleaning and Laundering",
-								"gross_cost": {
-									"accounts": {
-										"2013": 28810.35,
-										"2014": 29374.9
-									}
-								}
-							},
-							{
-								"id": "2229",
-								"name": "Janitorial Services",
-								"gross_cost": {
-									"accounts": {
-										"2013": 58179.9,
-										"2014": 83663.82
-									}
-								}
-							},
-							{
-								"id": "2230",
-								"name": "Refuse/garbage/silt/sludge Removal",
-								"gross_cost": {
-									"accounts": {
-										"2013": 3224336.75,
-										"2014": 3061699.66
-									}
-								}
-							},
-							{
-								"id": "2231",
-								"name": "Telephone",
-								"gross_cost": {
-									"accounts": {
-										"2013": 223269.25,
-										"2014": 8928.02
-									}
-								}
-							},
-							{
-								"id": "2232",
-								"name": "Postage",
-								"gross_cost": {
-									"accounts": {
-										"2013": 140583.42,
-										"2014": 160604.92
-									}
-								}
-							},
-							{
-								"id": "2233",
-								"name": "Transportation",
-								"gross_cost": {
-									"accounts": {
-										"2013": 104583.33,
-										"2014": 102728.86
-									}
-								}
-							},
-							{
-								"id": "2234",
-								"name": "Licenses Permits Inspection Charges",
-								"gross_cost": {
-									"accounts": {
-										"2013": 133176.37,
-										"2014": 113073.89
-									}
-								}
-							},
-							{
-								"id": "2235",
-								"name": "Commercial Off-shelf Comp Software",
-								"gross_cost": {
-									"accounts": {
-										"2013": 36055.8,
-										"2014": 54228
-									}
-								}
-							},
-							{
-								"id": "2236",
-								"name": "Electric Current-structures/streets",
-								"gross_cost": {
-									"accounts": {
-										"2013": 24375673.91,
-										"2014": 21440578.83
-									}
-								}
-							},
-							{
-								"id": "2237",
-								"name": "Gas Services",
-								"gross_cost": {
-									"accounts": {
-										"2013": 3458000,
-										"2014": 3561029.64
-									}
-								}
-							},
-							{
-								"id": "2238",
-								"name": "Street Lighting",
-								"gross_cost": {
-									"accounts": {
-										"2013": 139.2,
-										"2014": 188.7
-									}
-								}
-							},
-							{
-								"id": "2239",
-								"name": "Meals-non-travel & Officl Entertain",
-								"gross_cost": {
-									"accounts": {
-										"2013": 6986.88,
-										"2014": 10736.4
-									}
-								}
-							},
-							{
-								"id": "2240",
-								"name": "Advertising/promotional Activities",
-								"gross_cost": {
-									"accounts": {
-										"2013": 152069.7,
-										"2014": 68578.05
-									}
-								}
-							},
-							{
-								"id": "2241",
-								"name": "Professional Consult/spec Services",
-								"gross_cost": {
-									"accounts": {
-										"2013": 35669200.24,
-										"2014": 36432178.58
-									}
-								}
-							},
-							{
-								"id": "2242",
-								"name": "Information Technology-prof Service",
-								"gross_cost": {
-									"accounts": {
-										"2013": 68875,
-										"2014": 200450
-									}
-								}
-							},
-							{
-								"id": "2243",
-								"name": "Legal Services",
-								"gross_cost": {
-									"accounts": {
-										"2013": 30000,
-										"2014": 94857
-									}
-								}
-							},
-							{
-								"id": "2244",
-								"name": "Dues",
-								"gross_cost": {
-									"accounts": {
-										"2013": 534835.62,
-										"2014": 566545.29
-									}
-								}
-							},
-							{
-								"id": "2245",
-								"name": "Seminar and Training Sessions",
-								"gross_cost": {
-									"accounts": {
-										"2013": 282112.39,
-										"2014": 214040.97
-									}
-								}
-							},
-							{
-								"id": "2246",
-								"name": "Architectural & Engineering Srvcs",
-								"gross_cost": {
-									"accounts": {
-										"2013": 4205439.14,
-										"2014": 2036725.92
-									}
-								}
-							},
-							{
-								"id": "2247",
-								"name": "Arbitration Fees",
-								"gross_cost": {
-									"accounts": {
-										"2013": 270626,
-										"2014": 283386.5
-									}
-								}
-							},
-							{
-								"id": "2248",
-								"name": "Repair and Maintenance Charges",
-								"gross_cost": {
-									"accounts": {
-										"2013": 7746856.13,
-										"2014": 7186697.01
-									}
-								}
-							},
-							{
-								"id": "2249",
-								"name": "Repaving Repairing & Resurf Streets",
-								"gross_cost": {
-									"accounts": {
-										"2013": 1596989.25,
-										"2014": 1302921.4
-									}
-								}
-							},
-							{
-								"id": "2250",
-								"name": "Abatement of Other Nuisances",
-								"gross_cost": {
-									"accounts": {
-										"2013": 8163319.2,
-										"2014": 8563936.77
-									}
-								}
-							},
-							{
-								"id": "2251",
-								"name": "Maint/support-computr Hardware/soft",
-								"gross_cost": {
-									"accounts": {
-										"2013": 725817,
-										"2014": 611100.7
-									}
-								}
-							},
-							{
-								"id": "2252",
-								"name": "Witness Fees",
-								"gross_cost": {
-									"accounts": {
-										"2013": 179.94,
-										"2014": 0
-									}
-								}
-							},
-							{
-								"id": "2253",
-								"name": "Insurance and Official Bonds",
-								"gross_cost": {
-									"accounts": {
-										"2013": 65343.1,
-										"2014": 100869.77
-									}
-								}
-							},
-							{
-								"id": "2254",
-								"name": "Lease Payments-phila Municipal Auth",
-								"gross_cost": {
-									"accounts": {
-										"2013": 23712423,
-										"2014": 26867751.6
-									}
-								}
-							},
-							{
-								"id": "2255",
-								"name": "Rents",
-								"gross_cost": {
-									"accounts": {
-										"2013": 1037122.03,
-										"2014": 961635.02
-									}
-								}
-							},
-							{
-								"id": "2256",
-								"name": "Purchase Services-imprest Advances",
-								"gross_cost": {
-									"accounts": {
-										"2013": 20000,
-										"2014": 28200
-									}
-								}
-							},
-							{
-								"id": "2257",
-								"name": "Purchase of Services Control",
-								"gross_cost": {
-									"accounts": {
-										"2013": 0,
-										"2014": 45
-									}
-								}
-							},
-							{
-								"id": "2258",
-								"name": "Employee Relocation Expenses",
-								"gross_cost": {
-									"accounts": {
-										"2013": 0,
-										"2014": 5463.86
-									}
-								}
-							},
-							{
-								"id": "2259",
-								"name": "Accounting and Auditing Services",
-								"gross_cost": {
-									"accounts": {
-										"2013": 0,
-										"2014": 22260
-									}
-								}
-							},
-							{
-								"id": "2260",
-								"name": "Rent/lease-purchase Computer Equip",
-								"gross_cost": {
-									"accounts": {
-										"2013": 0,
-										"2014": 6720
-									}
-								}
-							}
-						]
-					},
-					{
-						"id": "2211",
-						"name": "Materials and Supplies",
-						"gross_cost": {
-							"accounts": {
-								"2013": 41315881.29000001,
-								"2014": 41118958.39
-							}
-						},
-						"children": [
-							{
-								"id": "2261",
-								"name": "Materials & Supplies Control",
-								"gross_cost": {
-									"accounts": {
-										"2013": 913.75,
-										"2014": 4807.88
-									}
-								}
-							},
-							{
-								"id": "2262",
-								"name": "Agricultural and Botanical",
-								"gross_cost": {
-									"accounts": {
-										"2013": 4298,
-										"2014": 3788.55
-									}
-								}
-							},
-							{
-								"id": "2263",
-								"name": "Animal, Livestock and Marine Life",
-								"gross_cost": {
-									"accounts": {
-										"2013": 114.96,
-										"2014": 143.76
-									}
-								}
-							},
-							{
-								"id": "2264",
-								"name": "Books and Other Publications",
-								"gross_cost": {
-									"accounts": {
-										"2013": 29510.4,
-										"2014": 43827.66
-									}
-								}
-							},
-							{
-								"id": "2265",
-								"name": "Building and Construction",
-								"gross_cost": {
-									"accounts": {
-										"2013": 2480117.14,
-										"2014": 1928149.47
-									}
-								}
-							},
-							{
-								"id": "2266",
-								"name": "Chemicals and Gases",
-								"gross_cost": {
-									"accounts": {
-										"2013": 22643635.86,
-										"2014": 24503043.19
-									}
-								}
-							},
-							{
-								"id": "2267",
-								"name": "Dry Goods/notions/wearing Apparel",
-								"gross_cost": {
-									"accounts": {
-										"2013": 293440.23,
-										"2014": 439316.45
-									}
-								}
-							},
-							{
-								"id": "2268",
-								"name": "Cordage and Fibers",
-								"gross_cost": {
-									"accounts": {
-										"2013": 5111.26,
-										"2014": 1331
-									}
-								}
-							},
-							{
-								"id": "2269",
-								"name": "Electrical and Communication",
-								"gross_cost": {
-									"accounts": {
-										"2013": 1391071.63,
-										"2014": 1548088.62
-									}
-								}
-							},
-							{
-								"id": "2270",
-								"name": "General Equipment and Machinery",
-								"gross_cost": {
-									"accounts": {
-										"2013": 3266225.19,
-										"2014": 2869805.6
-									}
-								}
-							},
-							{
-								"id": "2271",
-								"name": "Fire Fighting and Safety",
-								"gross_cost": {
-									"accounts": {
-										"2013": 1481735.5,
-										"2014": 997987.16
-									}
-								}
-							},
-							{
-								"id": "2272",
-								"name": "Food",
-								"gross_cost": {
-									"accounts": {
-										"2013": 372.75,
-										"2014": 191.84
-									}
-								}
-							},
-							{
-								"id": "2273",
-								"name": "Fuel -- Heating and Lighting",
-								"gross_cost": {
-									"accounts": {
-										"2013": 140964.5,
-										"2014": 376260
-									}
-								}
-							},
-							{
-								"id": "2274",
-								"name": "General Hardware and Minor Tools",
-								"gross_cost": {
-									"accounts": {
-										"2013": 467302.36,
-										"2014": 363009.1
-									}
-								}
-							},
-							{
-								"id": "2275",
-								"name": "Hospital and Laboratory",
-								"gross_cost": {
-									"accounts": {
-										"2013": 593789.47,
-										"2014": 572236.88
-									}
-								}
-							},
-							{
-								"id": "2276",
-								"name": "Janitorial, Laundry and Household",
-								"gross_cost": {
-									"accounts": {
-										"2013": 229150.38,
-										"2014": 271390.14
-									}
-								}
-							},
-							{
-								"id": "2277",
-								"name": "Nautical and Aeronautical",
-								"gross_cost": {
-									"accounts": {
-										"2013": 1415.08,
-										"2014": 6112.12
-									}
-								}
-							},
-							{
-								"id": "2278",
-								"name": "Office Materials and Supplies",
-								"gross_cost": {
-									"accounts": {
-										"2013": 219232.1,
-										"2014": 204306.69
-									}
-								}
-							},
-							{
-								"id": "2279",
-								"name": "Parking Meter and Water Meter",
-								"gross_cost": {
-									"accounts": {
-										"2013": 397296.69,
-										"2014": 470019
-									}
-								}
-							},
-							{
-								"id": "2280",
-								"name": "Small Power Tools and Hand Tools",
-								"gross_cost": {
-									"accounts": {
-										"2013": 358040.61,
-										"2014": 393002.43
-									}
-								}
-							},
-							{
-								"id": "2281",
-								"name": "Plumbing/air Conditioning/space Htg",
-								"gross_cost": {
-									"accounts": {
-										"2013": 4155852.83,
-										"2014": 3718940.03
-									}
-								}
-							},
-							{
-								"id": "2282",
-								"name": "Precision, Photographic and Artists",
-								"gross_cost": {
-									"accounts": {
-										"2013": 1624593.67,
-										"2014": 1603062.54
-									}
-								}
-							},
-							{
-								"id": "2283",
-								"name": "Printing",
-								"gross_cost": {
-									"accounts": {
-										"2013": 648994.14,
-										"2014": 283931.6
-									}
-								}
-							},
-							{
-								"id": "2284",
-								"name": "Recreational and Educational",
-								"gross_cost": {
-									"accounts": {
-										"2013": 1871.99,
-										"2014": 16637.8
-									}
-								}
-							},
-							{
-								"id": "2285",
-								"name": "Motor Vehicle Parts and Accessories",
-								"gross_cost": {
-									"accounts": {
-										"2013": 38387.52,
-										"2014": 43661.07
-									}
-								}
-							},
-							{
-								"id": "2286",
-								"name": "Lubricants",
-								"gross_cost": {
-									"accounts": {
-										"2013": 44402.1,
-										"2014": 38191.81
-									}
-								}
-							},
-							{
-								"id": "2287",
-								"name": "#2 Diesel Fuel",
-								"gross_cost": {
-									"accounts": {
-										"2013": 414900,
-										"2014": 210900
-									}
-								}
-							},
-							{
-								"id": "2288",
-								"name": "Liquid Propane Gas (lpg)",
-								"gross_cost": {
-									"accounts": {
-										"2013": 32979.52,
-										"2014": 38079.39
-									}
-								}
-							},
-							{
-								"id": "2289",
-								"name": "Gasoline",
-								"gross_cost": {
-									"accounts": {
-										"2013": 350000,
-										"2014": 167800
-									}
-								}
-							},
-							{
-								"id": "2290",
-								"name": "Other Materials and Supplies (noc)",
-								"gross_cost": {
-									"accounts": {
-										"2013": 161.66,
-										"2014": 120.9
-									}
-								}
-							},
-							{
-								"id": "2291",
-								"name": "Bakeshop, Dining Room and Kitchen",
-								"gross_cost": {
-									"accounts": {
-										"2013": 0,
-										"2014": 815.71
-									}
-								}
-							}
-						]
-					},
-					{
-						"id": "2212",
-						"name": "Equipment",
-						"gross_cost": {
-							"accounts": {
-								"2013": 1820084.85,
-								"2014": 2419656.4099999997
-							}
-						},
-						"children": [
-							{
-								"id": "2292",
-								"name": "Agricultural and Botanical",
-								"gross_cost": {
-									"accounts": {
-										"2013": 12020.65,
-										"2014": 37992.39
-									}
-								}
-							},
-							{
-								"id": "2293",
-								"name": "Bakeshop, Dining Room and Kitchen",
-								"gross_cost": {
-									"accounts": {
-										"2013": 3707.19,
-										"2014": 14317
-									}
-								}
-							},
-							{
-								"id": "2294",
-								"name": "Electrical Lighting Communication",
-								"gross_cost": {
-									"accounts": {
-										"2013": 248874.08,
-										"2014": 451476.52
-									}
-								}
-							},
-							{
-								"id": "2295",
-								"name": "General Equipment and Machinery",
-								"gross_cost": {
-									"accounts": {
-										"2013": 333358.62,
-										"2014": 374181.81
-									}
-								}
-							},
-							{
-								"id": "2296",
-								"name": "Fire Fighting and Emergency",
-								"gross_cost": {
-									"accounts": {
-										"2013": 5444.76,
-										"2014": 16695.2
-									}
-								}
-							},
-							{
-								"id": "2297",
-								"name": "Hospital and Laboratory",
-								"gross_cost": {
-									"accounts": {
-										"2013": 360710.91,
-										"2014": 547997.56
-									}
-								}
-							},
-							{
-								"id": "2298",
-								"name": "Janitorial and Laundry",
-								"gross_cost": {
-									"accounts": {
-										"2013": 9635.56,
-										"2014": 22514.46
-									}
-								}
-							},
-							{
-								"id": "2299",
-								"name": "Nautical and Aeronautical",
-								"gross_cost": {
-									"accounts": {
-										"2013": 6934,
-										"2014": 0
-									}
-								}
-							},
-							{
-								"id": "2300",
-								"name": "Office Equipment",
-								"gross_cost": {
-									"accounts": {
-										"2013": 19375.02,
-										"2014": 16766.24
-									}
-								}
-							},
-							{
-								"id": "2301",
-								"name": "Plumbing/air Conditioning/space Htg",
-								"gross_cost": {
-									"accounts": {
-										"2013": 61074.12,
-										"2014": 60365.91
-									}
-								}
-							},
-							{
-								"id": "2302",
-								"name": "Precision, Photographic and Artist",
-								"gross_cost": {
-									"accounts": {
-										"2013": 248194.67,
-										"2014": 111323.62
-									}
-								}
-							},
-							{
-								"id": "2303",
-								"name": "Printing and Binding",
-								"gross_cost": {
-									"accounts": {
-										"2013": 277.45,
-										"2014": 0
-									}
-								}
-							},
-							{
-								"id": "2304",
-								"name": "Computer Equipment & Peripherals",
-								"gross_cost": {
-									"accounts": {
-										"2013": 29992.35,
-										"2014": 1283.05
-									}
-								}
-							},
-							{
-								"id": "2305",
-								"name": "Furniture and Furnishings",
-								"gross_cost": {
-									"accounts": {
-										"2013": 480485.47,
-										"2014": 758704.37
-									}
-								}
-							},
-							{
-								"id": "2306",
-								"name": "Construction, Dredging, Conveying",
-								"gross_cost": {
-									"accounts": {
-										"2013": 0,
-										"2014": 904
-									}
-								}
-							},
-							{
-								"id": "2307",
-								"name": "Recreational and Educational",
-								"gross_cost": {
-									"accounts": {
-										"2013": 0,
-										"2014": 177.28
-									}
-								}
-							},
-							{
-								"id": "2308",
-								"name": "Other Equipment (noc)",
-								"gross_cost": {
-									"accounts": {
-										"2013": 0,
-										"2014": 4957
-									}
-								}
-							}
-						]
-					},
-					{
-						"id": "2213",
-						"name": "Contributions Indemnities Refds Taxes",
-						"gross_cost": {
-							"accounts": {
-								"2013": 5090209.99,
-								"2014": 6036096.779999999
-							}
-						},
-						"children": [
-							{
-								"id": "2309",
-								"name": "Auto - Motor Vehicle",
-								"gross_cost": {
-									"accounts": {
-										"2013": 962691.43,
-										"2014": 224417.5
-									}
-								}
-							},
-							{
-								"id": "2310",
-								"name": "Auto-motor Vehicle-non-punitive Dam",
-								"gross_cost": {
-									"accounts": {
-										"2013": 1500,
-										"2014": 0
-									}
-								}
-							},
-							{
-								"id": "2311",
-								"name": "Highway Falls",
-								"gross_cost": {
-									"accounts": {
-										"2013": 1325751,
-										"2014": 1431037.17
-									}
-								}
-							},
-							{
-								"id": "2312",
-								"name": "Sidewalk Falls",
-								"gross_cost": {
-									"accounts": {
-										"2013": 1344250,
-										"2014": 2025072
-									}
-								}
-							},
-							{
-								"id": "2313",
-								"name": "Other Non-automotive",
-								"gross_cost": {
-									"accounts": {
-										"2013": 646573.69,
-										"2014": 573312.69
-									}
-								}
-							},
-							{
-								"id": "2314",
-								"name": "Auto-motor Vehicle/non-punitive Dam",
-								"gross_cost": {
-									"accounts": {
-										"2013": 31113.37,
-										"2014": 58002.8
-									}
-								}
-							},
-							{
-								"id": "2315",
-								"name": "Water Main Breaks",
-								"gross_cost": {
-									"accounts": {
-										"2013": 214876,
-										"2014": 836448.84
-									}
-								}
-							},
-							{
-								"id": "2316",
-								"name": "Water Main Breaks-non-punitive Damg",
-								"gross_cost": {
-									"accounts": {
-										"2013": 350834.55,
-										"2014": 582027.05
-									}
-								}
-							},
-							{
-								"id": "2317",
-								"name": "Clogged Sewers-non-punitive Damages",
-								"gross_cost": {
-									"accounts": {
-										"2013": 7467,
-										"2014": 62938
-									}
-								}
-							},
-							{
-								"id": "2318",
-								"name": "Other Water Cases",
-								"gross_cost": {
-									"accounts": {
-										"2013": 42859,
-										"2014": 14024
-									}
-								}
-							},
-							{
-								"id": "2319",
-								"name": "Other Water Cases-non-punitive Dam",
-								"gross_cost": {
-									"accounts": {
-										"2013": 38531,
-										"2014": 22562.19
-									}
-								}
-							},
-							{
-								"id": "2320",
-								"name": "Other Non-automotive",
-								"gross_cost": {
-									"accounts": {
-										"2013": 17000,
-										"2014": 60000
-									}
-								}
-							},
-							{
-								"id": "2321",
-								"name": "Other Non-automotive/non-punitive",
-								"gross_cost": {
-									"accounts": {
-										"2013": 10796,
-										"2014": 77654.54
-									}
-								}
-							},
-							{
-								"id": "2322",
-								"name": "Civil Rights",
-								"gross_cost": {
-									"accounts": {
-										"2013": 38370,
-										"2014": 63600
-									}
-								}
-							},
-							{
-								"id": "2323",
-								"name": "Contract Claims-city Breach Contrct",
-								"gross_cost": {
-									"accounts": {
-										"2013": 33269.66,
-										"2014": 0
-									}
-								}
-							},
-							{
-								"id": "2324",
-								"name": "Employee Claims-nonworkcomp/non-pun",
-								"gross_cost": {
-									"accounts": {
-										"2013": 1747.29,
-										"2014": 0
-									}
-								}
-							},
-							{
-								"id": "2325",
-								"name": "Civil Rights - Attorney Fees",
-								"gross_cost": {
-									"accounts": {
-										"2013": 8580,
-										"2014": 0
-									}
-								}
-							},
-							{
-								"id": "2326",
-								"name": "Other Miscellaneous Claims",
-								"gross_cost": {
-									"accounts": {
-										"2013": 10500,
-										"2014": 0
-									}
-								}
-							},
-							{
-								"id": "2327",
-								"name": "Other Misc Claims - Non-punitive",
-								"gross_cost": {
-									"accounts": {
-										"2013": 3500,
-										"2014": 0
-									}
-								}
-							},
-							{
-								"id": "2328",
-								"name": "Personal Injury",
-								"gross_cost": {
-									"accounts": {
-										"2013": 0,
-										"2014": 5000
-									}
-								}
-							}
-						]
-					},
-					{
-						"id": "2214",
-						"name": "Payments to Other Funds",
-						"gross_cost": {
-							"accounts": {
-								"2013": 53006150.31,
-								"2014": 75661238.52000001
-							}
-						},
-						"children": [
-							{
-								"id": "2329",
-								"name": "Payments to General Fund",
-								"gross_cost": {
-									"accounts": {
-										"2013": 10792914,
-										"2014": 7714419
-									}
-								}
-							},
-							{
-								"id": "2330",
-								"name": "Payments to Capital Projects Fund",
-								"gross_cost": {
-									"accounts": {
-										"2013": 19380010,
-										"2014": 20193500
-									}
-								}
-							},
-							{
-								"id": "2331",
-								"name": "Payments to Water Residual Fund",
-								"gross_cost": {
-									"accounts": {
-										"2013": 22833226.31,
-										"2014": 24828547.95
-									}
-								}
-							},
-							{
-								"id": "2332",
-								"name": "Payments to Water Rate Stab",
-								"gross_cost": {
-									"accounts": {
-										"2013": 0,
-										"2014": 22924771.57
-									}
-								}
-							}
-						]
-					}
-				]
-			},
-			{
-				"id": "2130",
-				"name": "Director of Finance",
-				"gross_cost": {
-					"accounts": {
-						"2013": 96328789.42000002,
-						"2014": 101799798.03000002
-					}
-				},
-				"children": [
-					{
-						"id": "2333",
-						"name": "Personal Services",
-						"gross_cost": {
-							"accounts": {
-								"2013": 96328789.42000002,
-								"2014": 101799798.03000002
-							}
-						},
-						"children": [
-							{
-								"id": "2334",
-								"name": "Flex Cash",
-								"gross_cost": {
-									"accounts": {
-										"2013": 41884.24,
-										"2014": 22233.85
-									}
-								}
-							},
-							{
-								"id": "2335",
-								"name": "Worker's Comp-disability Comp",
-								"gross_cost": {
-									"accounts": {
-										"2013": 1703485.12,
-										"2014": 1327564.13
-									}
-								}
-							},
-							{
-								"id": "2336",
-								"name": "Worker's Comp-medical",
-								"gross_cost": {
-									"accounts": {
-										"2013": 1674689.39,
-										"2014": 1741455.87
-									}
-								}
-							},
-							{
-								"id": "2337",
-								"name": "Medicare Tax",
-								"gross_cost": {
-									"accounts": {
-										"2013": 1448298.34,
-										"2014": 1506359.23
-									}
-								}
-							},
-							{
-								"id": "2338",
-								"name": "Pension-obligation Bond Payments",
-								"gross_cost": {
-									"accounts": {
-										"2013": 20452251.63,
-										"2014": 22450402.66
-									}
-								}
-							},
-							{
-								"id": "2339",
-								"name": "Pension Actual",
-								"gross_cost": {
-									"accounts": {
-										"2013": 35507146.67,
-										"2014": 38305051.79
-									}
-								}
-							},
-							{
-								"id": "2340",
-								"name": "Fica Taxes",
-								"gross_cost": {
-									"accounts": {
-										"2013": 6258944.96,
-										"2014": 6436898.7
-									}
-								}
-							},
-							{
-								"id": "2341",
-								"name": "Medical Health & Welfare Credit",
-								"gross_cost": {
-									"accounts": {
-										"2013": 28402301.19,
-										"2014": 29276512.7
-									}
-								}
-							},
-							{
-								"id": "2342",
-								"name": "Group Life Insurance",
-								"gross_cost": {
-									"accounts": {
-										"2013": 126440.61,
-										"2014": 136801.09
-									}
-								}
-							},
-							{
-								"id": "2343",
-								"name": "Group Legal Insurance",
-								"gross_cost": {
-									"accounts": {
-										"2013": 271230.34,
-										"2014": 271723.31
-									}
-								}
-							},
-							{
-								"id": "2344",
-								"name": "Unemployment Comp Insurance",
-								"gross_cost": {
-									"accounts": {
-										"2013": 399516.93,
-										"2014": 282194.7
-									}
-								}
-							},
-							{
-								"id": "2345",
-								"name": "Auto Mechanic Tool Insurance",
-								"gross_cost": {
-									"accounts": {
-										"2013": 42600,
-										"2014": 42600
-									}
-								}
-							}
-						]
-					}
-				]
-			},
-			{
-				"id": "2131",
-				"name": "Revenue",
-				"gross_cost": {
-					"accounts": {
-						"2013": 14602052.91,
-						"2014": 14523491.190000001
-					}
-				},
-				"children": [
-					{
-						"id": "2346",
-						"name": "Personal Services",
-						"gross_cost": {
-							"accounts": {
-								"2013": 10020393.31,
-								"2014": 9701250.579999998
-							}
-						},
-						"children": [
-							{
-								"id": "2351",
-								"name": "Salary Control",
-								"gross_cost": {
-									"accounts": {
-										"2013": 21640.69,
-										"2014": 139460.2
-									}
-								}
-							},
-							{
-								"id": "2352",
-								"name": "Perm Full Time-civilian",
-								"gross_cost": {
-									"accounts": {
-										"2013": 9188059.65,
-										"2014": 8748324.69
-									}
-								}
-							},
-							{
-								"id": "2353",
-								"name": "Plus/minus Gross Adj",
-								"gross_cost": {
-									"accounts": {
-										"2013": 40631.48,
-										"2014": 97101.28
-									}
-								}
-							},
-							{
-								"id": "2354",
-								"name": "Temporary Seasonal",
-								"gross_cost": {
-									"accounts": {
-										"2013": 109487.78,
-										"2014": 36375.93
-									}
-								}
-							},
-							{
-								"id": "2355",
-								"name": "Overtime Civilian",
-								"gross_cost": {
-									"accounts": {
-										"2013": 652341.59,
-										"2014": 665516.82
-									}
-								}
-							},
-							{
-								"id": "2356",
-								"name": "Holiday \"g\"(2/3 Shifts)",
-								"gross_cost": {
-									"accounts": {
-										"2013": 2387.81,
-										"2014": 3105.4
-									}
-								}
-							},
-							{
-								"id": "2357",
-								"name": "Shift",
-								"gross_cost": {
-									"accounts": {
-										"2013": 5541.99,
-										"2014": 5630
-									}
-								}
-							},
-							{
-								"id": "2358",
-								"name": "Sick Pay(b Time)-civilian",
-								"gross_cost": {
-									"accounts": {
-										"2013": 302.32,
-										"2014": 5736.26
-									}
-								}
-							}
-						]
-					},
-					{
-						"id": "2347",
-						"name": "Purchase of Services",
-						"gross_cost": {
-							"accounts": {
-								"2013": 4020068.29,
-								"2014": 4133602.6700000004
-							}
-						},
-						"children": [
-							{
-								"id": "2359",
-								"name": "Refuse/garbage/silt/sludge Removal",
-								"gross_cost": {
-									"accounts": {
-										"2013": 1521.29,
-										"2014": 1141.52
-									}
-								}
-							},
-							{
-								"id": "2360",
-								"name": "Postage",
-								"gross_cost": {
-									"accounts": {
-										"2013": 3673360.65,
-										"2014": 3600318.2
-									}
-								}
-							},
-							{
-								"id": "2361",
-								"name": "Transportation",
-								"gross_cost": {
-									"accounts": {
-										"2013": 992.99,
-										"2014": 201.6
-									}
-								}
-							},
-							{
-								"id": "2362",
-								"name": "Professional Consult/spec Services",
-								"gross_cost": {
-									"accounts": {
-										"2013": 257682.86,
-										"2014": 244747.5
-									}
-								}
-							},
-							{
-								"id": "2363",
-								"name": "Dues",
-								"gross_cost": {
-									"accounts": {
-										"2013": 95,
-										"2014": 100
-									}
-								}
-							},
-							{
-								"id": "2364",
-								"name": "Seminar and Training Sessions",
-								"gross_cost": {
-									"accounts": {
-										"2013": 1402,
-										"2014": 387
-									}
-								}
-							},
-							{
-								"id": "2365",
-								"name": "Repair and Maintenance Charges",
-								"gross_cost": {
-									"accounts": {
-										"2013": 60648.5,
-										"2014": 249822.46
-									}
-								}
-							},
-							{
-								"id": "2366",
-								"name": "Rents",
-								"gross_cost": {
-									"accounts": {
-										"2013": 24365,
-										"2014": 29138.39
-									}
-								}
-							},
-							{
-								"id": "2367",
-								"name": "Meals-non-travel & Officl Entertain",
-								"gross_cost": {
-									"accounts": {
-										"2013": 0,
-										"2014": 246
-									}
-								}
-							},
-							{
-								"id": "2368",
-								"name": "Information Technology-prof Service",
-								"gross_cost": {
-									"accounts": {
-										"2013": 0,
-										"2014": 7500
-									}
-								}
-							}
-						]
-					},
-					{
-						"id": "2348",
-						"name": "Materials and Supplies",
-						"gross_cost": {
-							"accounts": {
-								"2013": 419788.30000000005,
-								"2014": 440317.65
-							}
-						},
-						"children": [
-							{
-								"id": "2369",
-								"name": "Books and Other Publications",
-								"gross_cost": {
-									"accounts": {
-										"2013": 2261.6,
-										"2014": 1780.72
-									}
-								}
-							},
-							{
-								"id": "2370",
-								"name": "Dry Goods/notions/wearing Apparel",
-								"gross_cost": {
-									"accounts": {
-										"2013": 7682.33,
-										"2014": 2600.62
-									}
-								}
-							},
-							{
-								"id": "2371",
-								"name": "Electrical and Communication",
-								"gross_cost": {
-									"accounts": {
-										"2013": 341.01,
-										"2014": 206.06
-									}
-								}
-							},
-							{
-								"id": "2372",
-								"name": "General Hardware and Minor Tools",
-								"gross_cost": {
-									"accounts": {
-										"2013": 50,
-										"2014": 607.37
-									}
-								}
-							},
-							{
-								"id": "2373",
-								"name": "Janitorial, Laundry and Household",
-								"gross_cost": {
-									"accounts": {
-										"2013": 758.03,
-										"2014": 710.3
-									}
-								}
-							},
-							{
-								"id": "2374",
-								"name": "Office Materials and Supplies",
-								"gross_cost": {
-									"accounts": {
-										"2013": 345275.43,
-										"2014": 370678.83
-									}
-								}
-							},
-							{
-								"id": "2375",
-								"name": "Precision, Photographic and Artists",
-								"gross_cost": {
-									"accounts": {
-										"2013": 27127.4,
-										"2014": 12059.15
-									}
-								}
-							},
-							{
-								"id": "2376",
-								"name": "Printing",
-								"gross_cost": {
-									"accounts": {
-										"2013": 36292.5,
-										"2014": 42965
-									}
-								}
-							},
-							{
-								"id": "2377",
-								"name": "Building and Construction",
-								"gross_cost": {
-									"accounts": {
-										"2013": 0,
-										"2014": 7958.12
-									}
-								}
-							},
-							{
-								"id": "2378",
-								"name": "Cordage and Fibers",
-								"gross_cost": {
-									"accounts": {
-										"2013": 0,
-										"2014": 129.97
-									}
-								}
-							},
-							{
-								"id": "2379",
-								"name": "General Equipment and Machinery",
-								"gross_cost": {
-									"accounts": {
-										"2013": 0,
-										"2014": 149.71
-									}
-								}
-							},
-							{
-								"id": "2380",
-								"name": "Small Power Tools and Hand Tools",
-								"gross_cost": {
-									"accounts": {
-										"2013": 0,
-										"2014": 119.68
-									}
-								}
-							},
-							{
-								"id": "2381",
-								"name": "Recreational and Educational",
-								"gross_cost": {
-									"accounts": {
-										"2013": 0,
-										"2014": 352.12
-									}
-								}
-							}
-						]
-					},
-					{
-						"id": "2349",
-						"name": "Equipment",
-						"gross_cost": {
-							"accounts": {
-								"2013": 141633.00999999998,
-								"2014": 247839.04000000004
-							}
-						},
-						"children": [
-							{
-								"id": "2382",
-								"name": "Office Equipment",
-								"gross_cost": {
-									"accounts": {
-										"2013": 133296.8,
-										"2014": 204744.42
-									}
-								}
-							},
-							{
-								"id": "2383",
-								"name": "Plumbing/air Conditioning/space Htg",
-								"gross_cost": {
-									"accounts": {
-										"2013": 74.41,
-										"2014": 370.88
-									}
-								}
-							},
-							{
-								"id": "2384",
-								"name": "Computer Equipment & Peripherals",
-								"gross_cost": {
-									"accounts": {
-										"2013": 199.9,
-										"2014": 107.88
-									}
-								}
-							},
-							{
-								"id": "2385",
-								"name": "Furniture and Furnishings",
-								"gross_cost": {
-									"accounts": {
-										"2013": 8061.9,
-										"2014": 35543.44
-									}
-								}
-							},
-							{
-								"id": "2386",
-								"name": "Construction, Dredging, Conveying",
-								"gross_cost": {
-									"accounts": {
-										"2013": 0,
-										"2014": 278.23
-									}
-								}
-							},
-							{
-								"id": "2387",
-								"name": "Electrical Lighting Communication",
-								"gross_cost": {
-									"accounts": {
-										"2013": 0,
-										"2014": 5988
-									}
-								}
-							},
-							{
-								"id": "2388",
-								"name": "General Equipment and Machinery",
-								"gross_cost": {
-									"accounts": {
-										"2013": 0,
-										"2014": 386.22
-									}
-								}
-							},
-							{
-								"id": "2389",
-								"name": "Precision, Photographic and Artist",
-								"gross_cost": {
-									"accounts": {
-										"2013": 0,
-										"2014": 419.97
-									}
-								}
-							}
-						]
-					},
-					{
-						"id": "2350",
-						"name": "Contributions Indemnities Refds Taxes",
-						"gross_cost": {
-							"accounts": {
-								"2013": 170,
-								"2014": 481.25
-							}
-						},
-						"children": [
-							{
-								"id": "2390",
-								"name": "Meritorious Awards",
-								"gross_cost": {
-									"accounts": {
-										"2013": 170,
-										"2014": 481.25
-									}
-								}
-							}
-						]
-					}
-				]
-			},
-			{
-				"id": "2132",
-				"name": "Sinking Fund Commission",
-				"gross_cost": {
-					"accounts": {
-						"2013": 201015410.92000002,
-						"2014": 204645671.89
-					}
-				},
-				"children": [
-					{
-						"id": "2391",
-						"name": "Debt Service",
-						"gross_cost": {
-							"accounts": {
-								"2013": 201015410.92000002,
-								"2014": 204645671.89
-							}
-						},
-						"children": [
-							{
-								"id": "2392",
-								"name": "Interest on City Debt -- Long-term",
-								"gross_cost": {
-									"accounts": {
-										"2013": 76180038.11,
-										"2014": 74700671.89
-									}
-								}
-							},
-							{
-								"id": "2393",
-								"name": "Principal Payments on City Debt-l/t",
-								"gross_cost": {
-									"accounts": {
-										"2013": 124805000,
-										"2014": 129945000
-									}
-								}
-							},
-							{
-								"id": "2394",
-								"name": "Arbitrage Payments",
-								"gross_cost": {
-									"accounts": {
-										"2013": 30372.81,
-										"2014": 0
-									}
-								}
-							}
-						]
-					}
-				]
-			},
-			{
-				"id": "2133",
-				"name": "Procurement",
-				"gross_cost": {
-					"accounts": {
-						"2013": 68881.96,
-						"2014": 62746.27
-					}
-				},
-				"children": [
-					{
-						"id": "2395",
-						"name": "Personal Services",
-						"gross_cost": {
-							"accounts": {
-								"2013": 68881.96,
-								"2014": 62746.27
-							}
-						},
-						"children": [
-							{
-								"id": "2396",
-								"name": "Perm Full Time-civilian",
-								"gross_cost": {
-									"accounts": {
-										"2013": 68828.07,
-										"2014": 61646.88
-									}
-								}
-							},
-							{
-								"id": "2397",
-								"name": "Overtime Civilian",
-								"gross_cost": {
-									"accounts": {
-										"2013": 53.89,
-										"2014": 31.32
-									}
-								}
-							},
-							{
-								"id": "2398",
-								"name": "Plus/minus Gross Adj",
-								"gross_cost": {
-									"accounts": {
-										"2013": 0,
-										"2014": 1068.07
-									}
-								}
-							}
-						]
-					}
-				]
-			},
-			{
-				"id": "2134",
-				"name": "Law",
-				"gross_cost": {
-					"accounts": {
-						"2013": 2861477.76,
-						"2014": 2880084.3599999994
-					}
-				},
-				"children": [
-					{
-						"id": "2399",
-						"name": "Personal Services",
-						"gross_cost": {
-							"accounts": {
-								"2013": 2281361.89,
-								"2014": 2192613.27
-							}
-						},
-						"children": [
-							{
-								"id": "2403",
-								"name": "Salary Control",
-								"gross_cost": {
-									"accounts": {
-										"2013": 30921.44,
-										"2014": 70350.57
-									}
-								}
-							},
-							{
-								"id": "2404",
-								"name": "Perm Full Time-civilian",
-								"gross_cost": {
-									"accounts": {
-										"2013": 2243922.16,
-										"2014": 2120997.95
-									}
-								}
-							},
-							{
-								"id": "2405",
-								"name": "Plus/minus Gross Adj",
-								"gross_cost": {
-									"accounts": {
-										"2013": 6518.29,
-										"2014": 1264.75
-									}
-								}
-							}
-						]
-					},
-					{
-						"id": "2400",
-						"name": "Purchase of Services",
-						"gross_cost": {
-							"accounts": {
-								"2013": 543723.4700000001,
-								"2014": 670808.05
-							}
-						},
-						"children": [
-							{
-								"id": "2406",
-								"name": "Transportation",
-								"gross_cost": {
-									"accounts": {
-										"2013": 286.88,
-										"2014": 111
-									}
-								}
-							},
-							{
-								"id": "2407",
-								"name": "Overtime Meals",
-								"gross_cost": {
-									"accounts": {
-										"2013": 27.1,
-										"2014": 0
-									}
-								}
-							},
-							{
-								"id": "2408",
-								"name": "Professional Consult/spec Services",
-								"gross_cost": {
-									"accounts": {
-										"2013": 18369.9,
-										"2014": 445493.05
-									}
-								}
-							},
-							{
-								"id": "2409",
-								"name": "Court Reporters",
-								"gross_cost": {
-									"accounts": {
-										"2013": 494335.52,
-										"2014": 187328.07
-									}
-								}
-							},
-							{
-								"id": "2410",
-								"name": "Repair and Maintenance Charges",
-								"gross_cost": {
-									"accounts": {
-										"2013": 8582.94,
-										"2014": 6958.67
-									}
-								}
-							},
-							{
-								"id": "2411",
-								"name": "Maint/support-computr Hardware/soft",
-								"gross_cost": {
-									"accounts": {
-										"2013": 102.78,
-										"2014": 0
-									}
-								}
-							},
-							{
-								"id": "2412",
-								"name": "Witness Fees",
-								"gross_cost": {
-									"accounts": {
-										"2013": 3500,
-										"2014": 0
-									}
-								}
-							},
-							{
-								"id": "2413",
-								"name": "Rents",
-								"gross_cost": {
-									"accounts": {
-										"2013": 18518.35,
-										"2014": 13307.88
-									}
-								}
-							},
-							{
-								"id": "2414",
-								"name": "Information Technology-prof Service",
-								"gross_cost": {
-									"accounts": {
-										"2013": 0,
-										"2014": 9223.36
-									}
-								}
-							},
-							{
-								"id": "2415",
-								"name": "Legal Services",
-								"gross_cost": {
-									"accounts": {
-										"2013": 0,
-										"2014": 675
-									}
-								}
-							},
-							{
-								"id": "2416",
-								"name": "Architectural & Engineering Srvcs",
-								"gross_cost": {
-									"accounts": {
-										"2013": 0,
-										"2014": 5526.02
-									}
-								}
-							},
-							{
-								"id": "2417",
-								"name": "Arbitration Fees",
-								"gross_cost": {
-									"accounts": {
-										"2013": 0,
-										"2014": 2185
-									}
-								}
-							}
-						]
-					},
-					{
-						"id": "2401",
-						"name": "Materials and Supplies",
-						"gross_cost": {
-							"accounts": {
-								"2013": 36392.4,
-								"2014": 16163.04
-							}
-						},
-						"children": [
-							{
-								"id": "2418",
-								"name": "Books and Other Publications",
-								"gross_cost": {
-									"accounts": {
-										"2013": 12440.6,
-										"2014": 12261.04
-									}
-								}
-							},
-							{
-								"id": "2419",
-								"name": "Office Materials and Supplies",
-								"gross_cost": {
-									"accounts": {
-										"2013": 9466.8,
-										"2014": 0
-									}
-								}
-							},
-							{
-								"id": "2420",
-								"name": "Precision, Photographic and Artists",
-								"gross_cost": {
-									"accounts": {
-										"2013": 135,
-										"2014": 0
-									}
-								}
-							},
-							{
-								"id": "2421",
-								"name": "Printing",
-								"gross_cost": {
-									"accounts": {
-										"2013": 14350,
-										"2014": 3902
-									}
-								}
-							}
-						]
-					},
-					{
-						"id": "2402",
-						"name": "Equipment",
-						"gross_cost": {
-							"accounts": {
-								"2013": 0,
-								"2014": 500
-							}
-						},
-						"children": [
-							{
-								"id": "2422",
-								"name": "Computer Equipment & Peripherals",
-								"gross_cost": {
-									"accounts": {
-										"2013": 0,
-										"2014": 500
-									}
-								}
-							}
-						]
-					}
-				]
-			},
-			{
-				"id": "2135",
-				"name": "Mayor's Office of Transportation",
-				"gross_cost": {
-					"accounts": {
-						"2013": 169948,
-						"2014": 208176.14
-					}
-				},
-				"children": [
-					{
-						"id": "2423",
-						"name": "Personal Services",
-						"gross_cost": {
-							"accounts": {
-								"2013": 169948,
-								"2014": 208176.14
-							}
-						},
-						"children": [
-							{
-								"id": "2424",
-								"name": "Perm Full Time-civilian",
-								"gross_cost": {
-									"accounts": {
-										"2013": 169948,
-										"2014": 208176.14
-									}
-								}
-							}
-						]
-					}
-				]
-			}
-		]
-	},
-	{
-		"id": "3",
-		"name": "County Liquid Fuels Tax Fund",
-		"gross_cost": {
-			"accounts": {
-				"2013": 4839474,
-				"2014": 4878577.05
-			}
-		},
-		"children": [
-			{
-				"id": "2425",
-				"name": "Streets",
-				"gross_cost": {
-					"accounts": {
-						"2013": 4839474,
-						"2014": 4878577.05
-					}
-				},
-				"children": [
-					{
-						"id": "2426",
-						"name": "Personal Services",
-						"gross_cost": {
-							"accounts": {
-								"2013": 3733999.9999999995,
-								"2014": 3734000
-							}
-						},
-						"children": [
-							{
-								"id": "2431",
-								"name": "Perm Full Time-civilian",
-								"gross_cost": {
-									"accounts": {
-										"2013": 3172221.58,
-										"2014": 3022008.95
-									}
-								}
-							},
-							{
-								"id": "2432",
-								"name": "Dual/relief-full Time-civilian",
-								"gross_cost": {
-									"accounts": {
-										"2013": 118629.69,
-										"2014": 0
-									}
-								}
-							},
-							{
-								"id": "2433",
-								"name": "Overtime Civilian",
-								"gross_cost": {
-									"accounts": {
-										"2013": 394031.32,
-										"2014": 711991.05
-									}
-								}
-							},
-							{
-								"id": "2434",
-								"name": "Overtime Shift Dual Relief",
-								"gross_cost": {
-									"accounts": {
-										"2013": 41652.51,
-										"2014": 0
-									}
-								}
-							},
-							{
-								"id": "2435",
-								"name": "Holiday \"g\"(2/3 Shifts)",
-								"gross_cost": {
-									"accounts": {
-										"2013": 7464.9,
-										"2014": 0
-									}
-								}
-							}
-						]
-					},
-					{
-						"id": "2427",
-						"name": "Purchase of Services",
-						"gross_cost": {
-							"accounts": {
-								"2013": 856000,
-								"2014": 856000
-							}
-						},
-						"children": [
-							{
-								"id": "2436",
-								"name": "Electric Current-structures/streets",
-								"gross_cost": {
-									"accounts": {
-										"2013": 651000,
-										"2014": 651000
-									}
-								}
-							},
-							{
-								"id": "2437",
-								"name": "Repair and Maintenance Charges",
-								"gross_cost": {
-									"accounts": {
-										"2013": 205000,
-										"2014": 205000
-									}
-								}
-							}
-						]
-					},
-					{
-						"id": "2428",
-						"name": "Materials and Supplies",
-						"gross_cost": {
-							"accounts": {
-								"2013": 230804,
-								"2014": 167978.97
-							}
-						},
-						"children": [
-							{
-								"id": "2438",
-								"name": "Building and Construction",
-								"gross_cost": {
-									"accounts": {
-										"2013": 210804,
-										"2014": 156860
-									}
-								}
-							},
-							{
-								"id": "2439",
-								"name": "General Equipment and Machinery",
-								"gross_cost": {
-									"accounts": {
-										"2013": 20000,
-										"2014": 11118.97
-									}
-								}
-							}
-						]
-					},
-					{
-						"id": "2429",
-						"name": "Payments to Other Funds",
-						"gross_cost": {
-							"accounts": {
-								"2013": 18670,
-								"2014": 18670
-							}
-						},
-						"children": [
-							{
-								"id": "2440",
-								"name": "Payments to General Fund",
-								"gross_cost": {
-									"accounts": {
-										"2013": 18670,
-										"2014": 18670
-									}
-								}
-							}
-						]
-					},
-					{
-						"id": "2430",
-						"name": "Equipment",
-						"gross_cost": {
-							"accounts": {
-								"2013": 0,
-								"2014": 101928.08
-							}
-						},
-						"children": [
-							{
-								"id": "2441",
-								"name": "Vehicles -- Motor and Motorless",
-								"gross_cost": {
-									"accounts": {
-										"2013": 0,
-										"2014": 101928.08
-									}
-								}
-							}
-						]
-					}
-				]
-			}
-		]
-	},
-	{
-		"id": "4",
-		"name": "Special Gasoline Tax Fund",
-		"gross_cost": {
-			"accounts": {
-				"2013": 23099404.240000002,
-				"2014": 24059496.26
-			}
-		},
-		"children": [
-			{
-				"id": "2442",
-				"name": "Streets",
-				"gross_cost": {
-					"accounts": {
-						"2013": 22099404.240000002,
-						"2014": 23059496.26
-					}
-				},
-				"children": [
-					{
-						"id": "2444",
-						"name": "Personal Services",
-						"gross_cost": {
-							"accounts": {
-								"2013": 3999999.9999999995,
-								"2014": 4000000.0000000005
-							}
-						},
-						"children": [
-							{
-								"id": "2449",
-								"name": "Perm Full Time-civilian",
-								"gross_cost": {
-									"accounts": {
-										"2013": 3004859.57,
-										"2014": 2892536.47
-									}
-								}
-							},
-							{
-								"id": "2450",
-								"name": "Dual/relief-full Time-civilian",
-								"gross_cost": {
-									"accounts": {
-										"2013": 234699.14,
-										"2014": 189115.4
-									}
-								}
-							},
-							{
-								"id": "2451",
-								"name": "Plus/minus Gross Adj",
-								"gross_cost": {
-									"accounts": {
-										"2013": 31045.45,
-										"2014": 19816.7
-									}
-								}
-							},
-							{
-								"id": "2452",
-								"name": "Overtime Civilian",
-								"gross_cost": {
-									"accounts": {
-										"2013": 619546.84,
-										"2014": 830070.75
-									}
-								}
-							},
-							{
-								"id": "2453",
-								"name": "Overtime Shift Dual Relief",
-								"gross_cost": {
-									"accounts": {
-										"2013": 58870.54,
-										"2014": 63165.37
-									}
-								}
-							},
-							{
-								"id": "2454",
-								"name": "Holiday \"g\"(2/3 Shifts)",
-								"gross_cost": {
-									"accounts": {
-										"2013": 22990.9,
-										"2014": 4682.12
-									}
-								}
-							},
-							{
-								"id": "2455",
-								"name": "Holiday \"g\"(2/3 Shift) Dual/relief",
-								"gross_cost": {
-									"accounts": {
-										"2013": 2006.63,
-										"2014": 0
-									}
-								}
-							},
-							{
-								"id": "2456",
-								"name": "Shift",
-								"gross_cost": {
-									"accounts": {
-										"2013": 15861.61,
-										"2014": 613.19
-									}
-								}
-							},
-							{
-								"id": "2457",
-								"name": "Sick Pay(b Time)-civilian",
-								"gross_cost": {
-									"accounts": {
-										"2013": 10119.32,
-										"2014": 0
-									}
-								}
-							}
-						]
-					},
-					{
-						"id": "2445",
-						"name": "Purchase of Services",
-						"gross_cost": {
-							"accounts": {
-								"2013": 14368129.489999998,
-								"2014": 13251033.62
-							}
-						},
-						"children": [
-							{
-								"id": "2458",
-								"name": "Refuse/garbage/silt/sludge Removal",
-								"gross_cost": {
-									"accounts": {
-										"2013": 297615,
-										"2014": 266887.5
-									}
-								}
-							},
-							{
-								"id": "2459",
-								"name": "Electric Current-structures/streets",
-								"gross_cost": {
-									"accounts": {
-										"2013": 12679841.04,
-										"2014": 11690656
-									}
-								}
-							},
-							{
-								"id": "2460",
-								"name": "Repair and Maintenance Charges",
-								"gross_cost": {
-									"accounts": {
-										"2013": 1187226.7,
-										"2014": 1013390.12
-									}
-								}
-							},
-							{
-								"id": "2461",
-								"name": "Rents",
-								"gross_cost": {
-									"accounts": {
-										"2013": 203446.75,
-										"2014": 280100
-									}
-								}
-							}
-						]
-					},
-					{
-						"id": "2446",
-						"name": "Materials and Supplies",
-						"gross_cost": {
-							"accounts": {
-								"2013": 2988029.79,
-								"2014": 5573599.12
-							}
-						},
-						"children": [
-							{
-								"id": "2462",
-								"name": "Building and Construction",
-								"gross_cost": {
-									"accounts": {
-										"2013": 1342485.78,
-										"2014": 1615720.77
-									}
-								}
-							},
-							{
-								"id": "2463",
-								"name": "Chemicals and Gases",
-								"gross_cost": {
-									"accounts": {
-										"2013": 915325,
-										"2014": 3410460.24
-									}
-								}
-							},
-							{
-								"id": "2464",
-								"name": "Electrical and Communication",
-								"gross_cost": {
-									"accounts": {
-										"2013": 668026.01,
-										"2014": 481340.65
-									}
-								}
-							},
-							{
-								"id": "2465",
-								"name": "General Hardware and Minor Tools",
-								"gross_cost": {
-									"accounts": {
-										"2013": 62069,
-										"2014": 63864.96
-									}
-								}
-							},
-							{
-								"id": "2466",
-								"name": "Small Power Tools and Hand Tools",
-								"gross_cost": {
-									"accounts": {
-										"2013": 124,
-										"2014": 0
-									}
-								}
-							},
-							{
-								"id": "2467",
-								"name": "Fire Fighting and Safety",
-								"gross_cost": {
-									"accounts": {
-										"2013": 0,
-										"2014": 2212.5
-									}
-								}
-							}
-						]
-					},
-					{
-						"id": "2447",
-						"name": "Equipment",
-						"gross_cost": {
-							"accounts": {
-								"2013": 723244.96,
-								"2014": 214863.52
-							}
-						},
-						"children": [
-							{
-								"id": "2468",
-								"name": "Electrical Lighting Communication",
-								"gross_cost": {
-									"accounts": {
-										"2013": 22000,
-										"2014": 0
-									}
-								}
-							},
-							{
-								"id": "2469",
-								"name": "General Equipment and Machinery",
-								"gross_cost": {
-									"accounts": {
-										"2013": 16583,
-										"2014": 0
-									}
-								}
-							},
-							{
-								"id": "2470",
-								"name": "Vehicles -- Motor and Motorless",
-								"gross_cost": {
-									"accounts": {
-										"2013": 684661.96,
-										"2014": 214863.52
-									}
-								}
-							}
-						]
-					},
-					{
-						"id": "2448",
-						"name": "Payments to Other Funds",
-						"gross_cost": {
-							"accounts": {
-								"2013": 20000,
-								"2014": 20000
-							}
-						},
-						"children": [
-							{
-								"id": "2471",
-								"name": "Payments to General Fund",
-								"gross_cost": {
-									"accounts": {
-										"2013": 20000,
-										"2014": 20000
-									}
-								}
-							}
-						]
-					}
-				]
-			},
-			{
-				"id": "2443",
-				"name": "Director of Finance",
-				"gross_cost": {
-					"accounts": {
-						"2013": 1000000,
-						"2014": 1000000
-					}
-				},
-				"children": [
-					{
-						"id": "2472",
-						"name": "Personal Services",
-						"gross_cost": {
-							"accounts": {
-								"2013": 1000000,
-								"2014": 1000000
-							}
-						},
-						"children": [
-							{
-								"id": "2473",
-								"name": "Pension Actual",
-								"gross_cost": {
-									"accounts": {
-										"2013": 500000,
-										"2014": 500000
-									}
-								}
-							},
-							{
-								"id": "2474",
-								"name": "Medical Health & Welfare Credit",
-								"gross_cost": {
-									"accounts": {
-										"2013": 500000,
-										"2014": 500000
-									}
-								}
-							}
-						]
-					}
-				]
-			}
-		]
-	},
-	{
-		"id": "5",
-		"name": "Healthchoices Behavioral Health Fd",
-		"gross_cost": {
-			"accounts": {
-				"2013": 816130655.85,
-				"2014": 897660305.31
-			}
-		},
-		"children": [
-			{
-				"id": "2475",
-				"name": "Office of Bh/mr Services",
-				"gross_cost": {
-					"accounts": {
-						"2013": 816130655.85,
-						"2014": 897660305.31
-					}
-				},
-				"children": [
-					{
-						"id": "2476",
-						"name": "Purchase of Services",
-						"gross_cost": {
-							"accounts": {
-								"2013": 814450582.9,
-								"2014": 895973729
-							}
-						},
-						"children": [
-							{
-								"id": "2478",
-								"name": "Telephone",
-								"gross_cost": {
-									"accounts": {
-										"2013": 24897.6,
-										"2014": 35532
-									}
-								}
-							},
-							{
-								"id": "2479",
-								"name": "Professional Consult/spec Services",
-								"gross_cost": {
-									"accounts": {
-										"2013": 11263931,
-										"2014": 10151832
-									}
-								}
-							},
-							{
-								"id": "2480",
-								"name": "Information Technology-prof Service",
-								"gross_cost": {
-									"accounts": {
-										"2013": 154000,
-										"2014": 194942
-									}
-								}
-							},
-							{
-								"id": "2481",
-								"name": "Accounting and Auditing Services",
-								"gross_cost": {
-									"accounts": {
-										"2013": 152500,
-										"2014": 125000
-									}
-								}
-							},
-							{
-								"id": "2482",
-								"name": "Legal Services",
-								"gross_cost": {
-									"accounts": {
-										"2013": 10000,
-										"2014": 0
-									}
-								}
-							},
-							{
-								"id": "2483",
-								"name": "Mental Health & Retardation Service",
-								"gross_cost": {
-									"accounts": {
-										"2013": 802845254.3,
-										"2014": 885466423
-									}
-								}
-							}
-						]
-					},
-					{
-						"id": "2477",
-						"name": "Payments to Other Funds",
-						"gross_cost": {
-							"accounts": {
-								"2013": 1680072.95,
-								"2014": 1686576.31
-							}
-						},
-						"children": [
-							{
-								"id": "2484",
-								"name": "Payments to General Fund",
-								"gross_cost": {
-									"accounts": {
-										"2013": 300000,
-										"2014": 300000
-									}
-								}
-							},
-							{
-								"id": "2485",
-								"name": "Payments to Other Funds",
-								"gross_cost": {
-									"accounts": {
-										"2013": 1380072.95,
-										"2014": 1386576.31
-									}
-								}
-							}
-						]
-					}
-				]
-			}
-		]
-	},
-	{
-		"id": "6",
-		"name": "Hotel Tax Fund",
-		"gross_cost": {
-			"accounts": {
-				"2013": 50542000,
-				"2014": 56321000
-			}
-		},
-		"children": [
-			{
-				"id": "2486",
-				"name": "Commerce",
-				"gross_cost": {
-					"accounts": {
-						"2013": 50542000,
-						"2014": 56321000
-					}
-				},
-				"children": [
-					{
-						"id": "2487",
-						"name": "Contributions Indemnities Refds Taxes",
-						"gross_cost": {
-							"accounts": {
-								"2013": 50542000,
-								"2014": 56321000
-							}
-						},
-						"children": [
-							{
-								"id": "2488",
-								"name": "Contributions-gov & Non-prof Not Ed",
-								"gross_cost": {
-									"accounts": {
-										"2013": 50542000,
-										"2014": 56321000
-									}
-								}
-							}
-						]
-					}
-				]
-			}
-		]
-	},
-	{
 		"id": "7",
 		"name": "Grants Revenue Fund",
 		"gross_cost": {
@@ -34838,6 +31034,3212 @@
 		]
 	},
 	{
+		"id": "5",
+		"name": "Healthchoices Behavioral Health Fd",
+		"gross_cost": {
+			"accounts": {
+				"2013": 816130655.85,
+				"2014": 897660305.31
+			}
+		},
+		"children": [
+			{
+				"id": "2475",
+				"name": "Office of Bh/mr Services",
+				"gross_cost": {
+					"accounts": {
+						"2013": 816130655.85,
+						"2014": 897660305.31
+					}
+				},
+				"children": [
+					{
+						"id": "2476",
+						"name": "Purchase of Services",
+						"gross_cost": {
+							"accounts": {
+								"2013": 814450582.9,
+								"2014": 895973729
+							}
+						},
+						"children": [
+							{
+								"id": "2478",
+								"name": "Telephone",
+								"gross_cost": {
+									"accounts": {
+										"2013": 24897.6,
+										"2014": 35532
+									}
+								}
+							},
+							{
+								"id": "2479",
+								"name": "Professional Consult/spec Services",
+								"gross_cost": {
+									"accounts": {
+										"2013": 11263931,
+										"2014": 10151832
+									}
+								}
+							},
+							{
+								"id": "2480",
+								"name": "Information Technology-prof Service",
+								"gross_cost": {
+									"accounts": {
+										"2013": 154000,
+										"2014": 194942
+									}
+								}
+							},
+							{
+								"id": "2481",
+								"name": "Accounting and Auditing Services",
+								"gross_cost": {
+									"accounts": {
+										"2013": 152500,
+										"2014": 125000
+									}
+								}
+							},
+							{
+								"id": "2482",
+								"name": "Legal Services",
+								"gross_cost": {
+									"accounts": {
+										"2013": 10000,
+										"2014": 0
+									}
+								}
+							},
+							{
+								"id": "2483",
+								"name": "Mental Health & Retardation Service",
+								"gross_cost": {
+									"accounts": {
+										"2013": 802845254.3,
+										"2014": 885466423
+									}
+								}
+							}
+						]
+					},
+					{
+						"id": "2477",
+						"name": "Payments to Other Funds",
+						"gross_cost": {
+							"accounts": {
+								"2013": 1680072.95,
+								"2014": 1686576.31
+							}
+						},
+						"children": [
+							{
+								"id": "2484",
+								"name": "Payments to General Fund",
+								"gross_cost": {
+									"accounts": {
+										"2013": 300000,
+										"2014": 300000
+									}
+								}
+							},
+							{
+								"id": "2485",
+								"name": "Payments to Other Funds",
+								"gross_cost": {
+									"accounts": {
+										"2013": 1380072.95,
+										"2014": 1386576.31
+									}
+								}
+							}
+						]
+					}
+				]
+			}
+		]
+	},
+	{
+		"id": "2",
+		"name": "Water Operating Fund",
+		"gross_cost": {
+			"accounts": {
+				"2013": 642611622.48,
+				"2014": 680291869.1700002
+			}
+		},
+		"children": [
+			{
+				"id": "2126",
+				"name": "Mdo-office of Technology",
+				"gross_cost": {
+					"accounts": {
+						"2013": 14045690.260000002,
+						"2014": 15132793.03
+					}
+				},
+				"children": [
+					{
+						"id": "2136",
+						"name": "Personal Services",
+						"gross_cost": {
+							"accounts": {
+								"2013": 4039582.3000000003,
+								"2014": 4621214.17
+							}
+						},
+						"children": [
+							{
+								"id": "2140",
+								"name": "Salary Control",
+								"gross_cost": {
+									"accounts": {
+										"2013": 28349.7,
+										"2014": 51927.54
+									}
+								}
+							},
+							{
+								"id": "2141",
+								"name": "Perm Full Time-civilian",
+								"gross_cost": {
+									"accounts": {
+										"2013": 3937863.22,
+										"2014": 4399350.05
+									}
+								}
+							},
+							{
+								"id": "2142",
+								"name": "Plus/minus Gross Adj",
+								"gross_cost": {
+									"accounts": {
+										"2013": 29805.73,
+										"2014": 96951.44
+									}
+								}
+							},
+							{
+								"id": "2143",
+								"name": "Overtime Civilian",
+								"gross_cost": {
+									"accounts": {
+										"2013": 40444.81,
+										"2014": 68643.04
+									}
+								}
+							},
+							{
+								"id": "2144",
+								"name": "Holiday \"g\"(2/3 Shifts)",
+								"gross_cost": {
+									"accounts": {
+										"2013": 1321.82,
+										"2014": 2607
+									}
+								}
+							},
+							{
+								"id": "2145",
+								"name": "Shift",
+								"gross_cost": {
+									"accounts": {
+										"2013": 1638.37,
+										"2014": 1735.1
+									}
+								}
+							},
+							{
+								"id": "2146",
+								"name": "Sick Pay(b Time)-civilian",
+								"gross_cost": {
+									"accounts": {
+										"2013": 158.65,
+										"2014": 0
+									}
+								}
+							}
+						]
+					},
+					{
+						"id": "2137",
+						"name": "Purchase of Services",
+						"gross_cost": {
+							"accounts": {
+								"2013": 9214801.100000001,
+								"2014": 9567461.58
+							}
+						},
+						"children": [
+							{
+								"id": "2147",
+								"name": "Telephone",
+								"gross_cost": {
+									"accounts": {
+										"2013": 2162479.48,
+										"2014": 1091249.25
+									}
+								}
+							},
+							{
+								"id": "2148",
+								"name": "Commercial Off-shelf Comp Software",
+								"gross_cost": {
+									"accounts": {
+										"2013": 1180173.86,
+										"2014": 1465398.95
+									}
+								}
+							},
+							{
+								"id": "2149",
+								"name": "Information Technology-prof Service",
+								"gross_cost": {
+									"accounts": {
+										"2013": 5178392.59,
+										"2014": 5806882.05
+									}
+								}
+							},
+							{
+								"id": "2150",
+								"name": "Repair and Maintenance Charges",
+								"gross_cost": {
+									"accounts": {
+										"2013": 51447.55,
+										"2014": 26299.15
+									}
+								}
+							},
+							{
+								"id": "2151",
+								"name": "Maint/support-computr Hardware/soft",
+								"gross_cost": {
+									"accounts": {
+										"2013": 424976.91,
+										"2014": 1153847.1
+									}
+								}
+							},
+							{
+								"id": "2152",
+								"name": "Rent/lease-purchase Computer Equip",
+								"gross_cost": {
+									"accounts": {
+										"2013": 159055.71,
+										"2014": 17797.08
+									}
+								}
+							},
+							{
+								"id": "2153",
+								"name": "Rents",
+								"gross_cost": {
+									"accounts": {
+										"2013": 58275,
+										"2014": 0
+									}
+								}
+							},
+							{
+								"id": "2154",
+								"name": "Seminar and Training Sessions",
+								"gross_cost": {
+									"accounts": {
+										"2013": 0,
+										"2014": 5988
+									}
+								}
+							}
+						]
+					},
+					{
+						"id": "2138",
+						"name": "Equipment",
+						"gross_cost": {
+							"accounts": {
+								"2013": 791306.86,
+								"2014": 732487.28
+							}
+						},
+						"children": [
+							{
+								"id": "2155",
+								"name": "Office Equipment",
+								"gross_cost": {
+									"accounts": {
+										"2013": 23379,
+										"2014": 23379
+									}
+								}
+							},
+							{
+								"id": "2156",
+								"name": "Computer Equipment & Peripherals",
+								"gross_cost": {
+									"accounts": {
+										"2013": 767927.86,
+										"2014": 709108.28
+									}
+								}
+							}
+						]
+					},
+					{
+						"id": "2139",
+						"name": "Materials and Supplies",
+						"gross_cost": {
+							"accounts": {
+								"2013": 0,
+								"2014": 211630
+							}
+						},
+						"children": [
+							{
+								"id": "2157",
+								"name": "Office Materials and Supplies",
+								"gross_cost": {
+									"accounts": {
+										"2013": 0,
+										"2014": 42430
+									}
+								}
+							},
+							{
+								"id": "2158",
+								"name": "Printing",
+								"gross_cost": {
+									"accounts": {
+										"2013": 0,
+										"2014": 169200
+									}
+								}
+							}
+						]
+					}
+				]
+			},
+			{
+				"id": "2127",
+				"name": "Public Property",
+				"gross_cost": {
+					"accounts": {
+						"2013": 3739360,
+						"2014": 3786428
+					}
+				},
+				"children": [
+					{
+						"id": "2159",
+						"name": "Purchase of Services",
+						"gross_cost": {
+							"accounts": {
+								"2013": 3739360,
+								"2014": 3786428
+							}
+						},
+						"children": [
+							{
+								"id": "2160",
+								"name": "Ground and Building Rental",
+								"gross_cost": {
+									"accounts": {
+										"2013": 3739360,
+										"2014": 3786428
+									}
+								}
+							}
+						]
+					}
+				]
+			},
+			{
+				"id": "2128",
+				"name": "Fleet Management",
+				"gross_cost": {
+					"accounts": {
+						"2013": 7218900.75,
+						"2014": 8185896.559999999
+					}
+				},
+				"children": [
+					{
+						"id": "2161",
+						"name": "Personal Services",
+						"gross_cost": {
+							"accounts": {
+								"2013": 2554406.390000001,
+								"2014": 2521284.17
+							}
+						},
+						"children": [
+							{
+								"id": "2165",
+								"name": "Salary Control",
+								"gross_cost": {
+									"accounts": {
+										"2013": 177.05,
+										"2014": 22990.94
+									}
+								}
+							},
+							{
+								"id": "2166",
+								"name": "Perm Full Time-civilian",
+								"gross_cost": {
+									"accounts": {
+										"2013": 1892099.35,
+										"2014": 1734059.26
+									}
+								}
+							},
+							{
+								"id": "2167",
+								"name": "Dual/relief-full Time-civilian",
+								"gross_cost": {
+									"accounts": {
+										"2013": 212349.23,
+										"2014": 221921.76
+									}
+								}
+							},
+							{
+								"id": "2168",
+								"name": "Plus/minus Gross Adj",
+								"gross_cost": {
+									"accounts": {
+										"2013": 30641.66,
+										"2014": 33595.5
+									}
+								}
+							},
+							{
+								"id": "2169",
+								"name": "Temporary Seasonal",
+								"gross_cost": {
+									"accounts": {
+										"2013": 15752,
+										"2014": 23307.38
+									}
+								}
+							},
+							{
+								"id": "2170",
+								"name": "Overtime Civilian",
+								"gross_cost": {
+									"accounts": {
+										"2013": 342322.83,
+										"2014": 420736.28
+									}
+								}
+							},
+							{
+								"id": "2171",
+								"name": "Overtime Shift Dual Relief",
+								"gross_cost": {
+									"accounts": {
+										"2013": 44574.49,
+										"2014": 46631.15
+									}
+								}
+							},
+							{
+								"id": "2172",
+								"name": "Holiday \"g\"(2/3 Shifts)",
+								"gross_cost": {
+									"accounts": {
+										"2013": 2399.79,
+										"2014": 4231.06
+									}
+								}
+							},
+							{
+								"id": "2173",
+								"name": "Holiday \"g\"(2/3 Shift) Dual/relief",
+								"gross_cost": {
+									"accounts": {
+										"2013": 588.1,
+										"2014": 146.34
+									}
+								}
+							},
+							{
+								"id": "2174",
+								"name": "Shift",
+								"gross_cost": {
+									"accounts": {
+										"2013": 13501.89,
+										"2014": 13425.92
+									}
+								}
+							},
+							{
+								"id": "2175",
+								"name": "Sick Pay(b Time)-civilian",
+								"gross_cost": {
+									"accounts": {
+										"2013": 0,
+										"2014": 238.58
+									}
+								}
+							}
+						]
+					},
+					{
+						"id": "2162",
+						"name": "Purchase of Services",
+						"gross_cost": {
+							"accounts": {
+								"2013": 894932.09,
+								"2014": 1438785.3299999998
+							}
+						},
+						"children": [
+							{
+								"id": "2176",
+								"name": "Cleaning and Laundering",
+								"gross_cost": {
+									"accounts": {
+										"2013": 4318,
+										"2014": 2919
+									}
+								}
+							},
+							{
+								"id": "2177",
+								"name": "Janitorial Services",
+								"gross_cost": {
+									"accounts": {
+										"2013": 41318.03,
+										"2014": 41598.52
+									}
+								}
+							},
+							{
+								"id": "2178",
+								"name": "Telephone",
+								"gross_cost": {
+									"accounts": {
+										"2013": 88.2,
+										"2014": 652.68
+									}
+								}
+							},
+							{
+								"id": "2179",
+								"name": "Licenses Permits Inspection Charges",
+								"gross_cost": {
+									"accounts": {
+										"2013": 2631.66,
+										"2014": 3340
+									}
+								}
+							},
+							{
+								"id": "2180",
+								"name": "Professional Consult/spec Services",
+								"gross_cost": {
+									"accounts": {
+										"2013": 16297.7,
+										"2014": 16647
+									}
+								}
+							},
+							{
+								"id": "2181",
+								"name": "Seminar and Training Sessions",
+								"gross_cost": {
+									"accounts": {
+										"2013": 720,
+										"2014": 0
+									}
+								}
+							},
+							{
+								"id": "2182",
+								"name": "Repair and Maintenance Charges",
+								"gross_cost": {
+									"accounts": {
+										"2013": 697298.39,
+										"2014": 1207170.88
+									}
+								}
+							},
+							{
+								"id": "2183",
+								"name": "Insurance and Official Bonds",
+								"gross_cost": {
+									"accounts": {
+										"2013": 4509.77,
+										"2014": 4083.75
+									}
+								}
+							},
+							{
+								"id": "2184",
+								"name": "Rents",
+								"gross_cost": {
+									"accounts": {
+										"2013": 4220.34,
+										"2014": 5868
+									}
+								}
+							},
+							{
+								"id": "2185",
+								"name": "Rental of Parking Spaces",
+								"gross_cost": {
+									"accounts": {
+										"2013": 123530,
+										"2014": 118587.5
+									}
+								}
+							},
+							{
+								"id": "2186",
+								"name": "Information Technology-prof Service",
+								"gross_cost": {
+									"accounts": {
+										"2013": 0,
+										"2014": 37918
+									}
+								}
+							}
+						]
+					},
+					{
+						"id": "2163",
+						"name": "Materials and Supplies",
+						"gross_cost": {
+							"accounts": {
+								"2013": 3720220.95,
+								"2014": 4158537.3299999996
+							}
+						},
+						"children": [
+							{
+								"id": "2187",
+								"name": "Books and Other Publications",
+								"gross_cost": {
+									"accounts": {
+										"2013": 3718.5,
+										"2014": 5073.38
+									}
+								}
+							},
+							{
+								"id": "2188",
+								"name": "Building and Construction",
+								"gross_cost": {
+									"accounts": {
+										"2013": 15595.67,
+										"2014": 6903.99
+									}
+								}
+							},
+							{
+								"id": "2189",
+								"name": "Chemicals and Gases",
+								"gross_cost": {
+									"accounts": {
+										"2013": 2712.3,
+										"2014": 5498.94
+									}
+								}
+							},
+							{
+								"id": "2190",
+								"name": "Dry Goods/notions/wearing Apparel",
+								"gross_cost": {
+									"accounts": {
+										"2013": 1872.79,
+										"2014": 2766.29
+									}
+								}
+							},
+							{
+								"id": "2191",
+								"name": "Electrical and Communication",
+								"gross_cost": {
+									"accounts": {
+										"2013": 320.29,
+										"2014": 0
+									}
+								}
+							},
+							{
+								"id": "2192",
+								"name": "General Equipment and Machinery",
+								"gross_cost": {
+									"accounts": {
+										"2013": 3006.75,
+										"2014": 0
+									}
+								}
+							},
+							{
+								"id": "2193",
+								"name": "Fire Fighting and Safety",
+								"gross_cost": {
+									"accounts": {
+										"2013": 9968.25,
+										"2014": 2111.19
+									}
+								}
+							},
+							{
+								"id": "2194",
+								"name": "Food",
+								"gross_cost": {
+									"accounts": {
+										"2013": 343.4,
+										"2014": 0
+									}
+								}
+							},
+							{
+								"id": "2195",
+								"name": "General Hardware and Minor Tools",
+								"gross_cost": {
+									"accounts": {
+										"2013": 5620.12,
+										"2014": 6858.19
+									}
+								}
+							},
+							{
+								"id": "2196",
+								"name": "Hospital and Laboratory",
+								"gross_cost": {
+									"accounts": {
+										"2013": 462,
+										"2014": 0
+									}
+								}
+							},
+							{
+								"id": "2197",
+								"name": "Small Power Tools and Hand Tools",
+								"gross_cost": {
+									"accounts": {
+										"2013": 13468.59,
+										"2014": 10935.25
+									}
+								}
+							},
+							{
+								"id": "2198",
+								"name": "Motor Vehicle Parts and Accessories",
+								"gross_cost": {
+									"accounts": {
+										"2013": 1418953.13,
+										"2014": 1664703.95
+									}
+								}
+							},
+							{
+								"id": "2199",
+								"name": "Lubricants",
+								"gross_cost": {
+									"accounts": {
+										"2013": 108199.35,
+										"2014": 84630.14
+									}
+								}
+							},
+							{
+								"id": "2200",
+								"name": "#2 Diesel Fuel",
+								"gross_cost": {
+									"accounts": {
+										"2013": 995566.44,
+										"2014": 1248705.63
+									}
+								}
+							},
+							{
+								"id": "2201",
+								"name": "Gasoline",
+								"gross_cost": {
+									"accounts": {
+										"2013": 1140413.37,
+										"2014": 1120288.38
+									}
+								}
+							},
+							{
+								"id": "2202",
+								"name": "Janitorial, Laundry and Household",
+								"gross_cost": {
+									"accounts": {
+										"2013": 0,
+										"2014": 62
+									}
+								}
+							}
+						]
+					},
+					{
+						"id": "2164",
+						"name": "Equipment",
+						"gross_cost": {
+							"accounts": {
+								"2013": 49341.32,
+								"2014": 67289.73
+							}
+						},
+						"children": [
+							{
+								"id": "2203",
+								"name": "Construction, Dredging, Conveying",
+								"gross_cost": {
+									"accounts": {
+										"2013": 1697,
+										"2014": 0
+									}
+								}
+							},
+							{
+								"id": "2204",
+								"name": "General Equipment and Machinery",
+								"gross_cost": {
+									"accounts": {
+										"2013": 42438.6,
+										"2014": 29931.51
+									}
+								}
+							},
+							{
+								"id": "2205",
+								"name": "Office Equipment",
+								"gross_cost": {
+									"accounts": {
+										"2013": 1350.72,
+										"2014": 0
+									}
+								}
+							},
+							{
+								"id": "2206",
+								"name": "Plumbing/air Conditioning/space Htg",
+								"gross_cost": {
+									"accounts": {
+										"2013": 3591,
+										"2014": 0
+									}
+								}
+							},
+							{
+								"id": "2207",
+								"name": "Computer Equipment & Peripherals",
+								"gross_cost": {
+									"accounts": {
+										"2013": 264,
+										"2014": 17236
+									}
+								}
+							},
+							{
+								"id": "2208",
+								"name": "Furniture and Furnishings",
+								"gross_cost": {
+									"accounts": {
+										"2013": 0,
+										"2014": 20122.22
+									}
+								}
+							}
+						]
+					}
+				]
+			},
+			{
+				"id": "2129",
+				"name": "Water",
+				"gross_cost": {
+					"accounts": {
+						"2013": 302561110.49999994,
+						"2014": 329066783.69999987
+					}
+				},
+				"children": [
+					{
+						"id": "2209",
+						"name": "Personal Services",
+						"gross_cost": {
+							"accounts": {
+								"2013": 85257781.15999998,
+								"2014": 89649634.51999998
+							}
+						},
+						"children": [
+							{
+								"id": "2215",
+								"name": "Salary Control",
+								"gross_cost": {
+									"accounts": {
+										"2013": 576652.35,
+										"2014": 485167.28
+									}
+								}
+							},
+							{
+								"id": "2216",
+								"name": "Perm Full Time-civilian",
+								"gross_cost": {
+									"accounts": {
+										"2013": 68630412.21,
+										"2014": 71183381.78
+									}
+								}
+							},
+							{
+								"id": "2217",
+								"name": "Dual/relief-full Time-civilian",
+								"gross_cost": {
+									"accounts": {
+										"2013": 1922787.19,
+										"2014": 1840789.69
+									}
+								}
+							},
+							{
+								"id": "2218",
+								"name": "Plus/minus Gross Adj",
+								"gross_cost": {
+									"accounts": {
+										"2013": 410849.98,
+										"2014": 798364.98
+									}
+								}
+							},
+							{
+								"id": "2219",
+								"name": "Temporary Seasonal",
+								"gross_cost": {
+									"accounts": {
+										"2013": 1099235.52,
+										"2014": 1203039.64
+									}
+								}
+							},
+							{
+								"id": "2220",
+								"name": "Overtime Civilian",
+								"gross_cost": {
+									"accounts": {
+										"2013": 11840495.69,
+										"2014": 13288142.04
+									}
+								}
+							},
+							{
+								"id": "2221",
+								"name": "Overtime Shift Dual Relief",
+								"gross_cost": {
+									"accounts": {
+										"2013": 26587.57,
+										"2014": 25100.81
+									}
+								}
+							},
+							{
+								"id": "2222",
+								"name": "Holiday \"g\"(2/3 Shifts)",
+								"gross_cost": {
+									"accounts": {
+										"2013": 413785.86,
+										"2014": 403110.57
+									}
+								}
+							},
+							{
+								"id": "2223",
+								"name": "Holiday \"g\"(2/3 Shift) Dual/relief",
+								"gross_cost": {
+									"accounts": {
+										"2013": 422.6,
+										"2014": 553.36
+									}
+								}
+							},
+							{
+								"id": "2224",
+								"name": "Shift",
+								"gross_cost": {
+									"accounts": {
+										"2013": 174018.93,
+										"2014": 199316.19
+									}
+								}
+							},
+							{
+								"id": "2225",
+								"name": "Sick Pay(b Time)-civilian",
+								"gross_cost": {
+									"accounts": {
+										"2013": 162533.26,
+										"2014": 205195.74
+									}
+								}
+							},
+							{
+								"id": "2226",
+								"name": "Reg -rate 1",
+								"gross_cost": {
+									"accounts": {
+										"2013": 0,
+										"2014": 22.83
+									}
+								}
+							},
+							{
+								"id": "2227",
+								"name": "Overtime Shift Uniform",
+								"gross_cost": {
+									"accounts": {
+										"2013": 0,
+										"2014": 17449.61
+									}
+								}
+							}
+						]
+					},
+					{
+						"id": "2210",
+						"name": "Purchase of Services",
+						"gross_cost": {
+							"accounts": {
+								"2013": 116071002.89999999,
+								"2014": 114181199.07999998
+							}
+						},
+						"children": [
+							{
+								"id": "2228",
+								"name": "Cleaning and Laundering",
+								"gross_cost": {
+									"accounts": {
+										"2013": 28810.35,
+										"2014": 29374.9
+									}
+								}
+							},
+							{
+								"id": "2229",
+								"name": "Janitorial Services",
+								"gross_cost": {
+									"accounts": {
+										"2013": 58179.9,
+										"2014": 83663.82
+									}
+								}
+							},
+							{
+								"id": "2230",
+								"name": "Refuse/garbage/silt/sludge Removal",
+								"gross_cost": {
+									"accounts": {
+										"2013": 3224336.75,
+										"2014": 3061699.66
+									}
+								}
+							},
+							{
+								"id": "2231",
+								"name": "Telephone",
+								"gross_cost": {
+									"accounts": {
+										"2013": 223269.25,
+										"2014": 8928.02
+									}
+								}
+							},
+							{
+								"id": "2232",
+								"name": "Postage",
+								"gross_cost": {
+									"accounts": {
+										"2013": 140583.42,
+										"2014": 160604.92
+									}
+								}
+							},
+							{
+								"id": "2233",
+								"name": "Transportation",
+								"gross_cost": {
+									"accounts": {
+										"2013": 104583.33,
+										"2014": 102728.86
+									}
+								}
+							},
+							{
+								"id": "2234",
+								"name": "Licenses Permits Inspection Charges",
+								"gross_cost": {
+									"accounts": {
+										"2013": 133176.37,
+										"2014": 113073.89
+									}
+								}
+							},
+							{
+								"id": "2235",
+								"name": "Commercial Off-shelf Comp Software",
+								"gross_cost": {
+									"accounts": {
+										"2013": 36055.8,
+										"2014": 54228
+									}
+								}
+							},
+							{
+								"id": "2236",
+								"name": "Electric Current-structures/streets",
+								"gross_cost": {
+									"accounts": {
+										"2013": 24375673.91,
+										"2014": 21440578.83
+									}
+								}
+							},
+							{
+								"id": "2237",
+								"name": "Gas Services",
+								"gross_cost": {
+									"accounts": {
+										"2013": 3458000,
+										"2014": 3561029.64
+									}
+								}
+							},
+							{
+								"id": "2238",
+								"name": "Street Lighting",
+								"gross_cost": {
+									"accounts": {
+										"2013": 139.2,
+										"2014": 188.7
+									}
+								}
+							},
+							{
+								"id": "2239",
+								"name": "Meals-non-travel & Officl Entertain",
+								"gross_cost": {
+									"accounts": {
+										"2013": 6986.88,
+										"2014": 10736.4
+									}
+								}
+							},
+							{
+								"id": "2240",
+								"name": "Advertising/promotional Activities",
+								"gross_cost": {
+									"accounts": {
+										"2013": 152069.7,
+										"2014": 68578.05
+									}
+								}
+							},
+							{
+								"id": "2241",
+								"name": "Professional Consult/spec Services",
+								"gross_cost": {
+									"accounts": {
+										"2013": 35669200.24,
+										"2014": 36432178.58
+									}
+								}
+							},
+							{
+								"id": "2242",
+								"name": "Information Technology-prof Service",
+								"gross_cost": {
+									"accounts": {
+										"2013": 68875,
+										"2014": 200450
+									}
+								}
+							},
+							{
+								"id": "2243",
+								"name": "Legal Services",
+								"gross_cost": {
+									"accounts": {
+										"2013": 30000,
+										"2014": 94857
+									}
+								}
+							},
+							{
+								"id": "2244",
+								"name": "Dues",
+								"gross_cost": {
+									"accounts": {
+										"2013": 534835.62,
+										"2014": 566545.29
+									}
+								}
+							},
+							{
+								"id": "2245",
+								"name": "Seminar and Training Sessions",
+								"gross_cost": {
+									"accounts": {
+										"2013": 282112.39,
+										"2014": 214040.97
+									}
+								}
+							},
+							{
+								"id": "2246",
+								"name": "Architectural & Engineering Srvcs",
+								"gross_cost": {
+									"accounts": {
+										"2013": 4205439.14,
+										"2014": 2036725.92
+									}
+								}
+							},
+							{
+								"id": "2247",
+								"name": "Arbitration Fees",
+								"gross_cost": {
+									"accounts": {
+										"2013": 270626,
+										"2014": 283386.5
+									}
+								}
+							},
+							{
+								"id": "2248",
+								"name": "Repair and Maintenance Charges",
+								"gross_cost": {
+									"accounts": {
+										"2013": 7746856.13,
+										"2014": 7186697.01
+									}
+								}
+							},
+							{
+								"id": "2249",
+								"name": "Repaving Repairing & Resurf Streets",
+								"gross_cost": {
+									"accounts": {
+										"2013": 1596989.25,
+										"2014": 1302921.4
+									}
+								}
+							},
+							{
+								"id": "2250",
+								"name": "Abatement of Other Nuisances",
+								"gross_cost": {
+									"accounts": {
+										"2013": 8163319.2,
+										"2014": 8563936.77
+									}
+								}
+							},
+							{
+								"id": "2251",
+								"name": "Maint/support-computr Hardware/soft",
+								"gross_cost": {
+									"accounts": {
+										"2013": 725817,
+										"2014": 611100.7
+									}
+								}
+							},
+							{
+								"id": "2252",
+								"name": "Witness Fees",
+								"gross_cost": {
+									"accounts": {
+										"2013": 179.94,
+										"2014": 0
+									}
+								}
+							},
+							{
+								"id": "2253",
+								"name": "Insurance and Official Bonds",
+								"gross_cost": {
+									"accounts": {
+										"2013": 65343.1,
+										"2014": 100869.77
+									}
+								}
+							},
+							{
+								"id": "2254",
+								"name": "Lease Payments-phila Municipal Auth",
+								"gross_cost": {
+									"accounts": {
+										"2013": 23712423,
+										"2014": 26867751.6
+									}
+								}
+							},
+							{
+								"id": "2255",
+								"name": "Rents",
+								"gross_cost": {
+									"accounts": {
+										"2013": 1037122.03,
+										"2014": 961635.02
+									}
+								}
+							},
+							{
+								"id": "2256",
+								"name": "Purchase Services-imprest Advances",
+								"gross_cost": {
+									"accounts": {
+										"2013": 20000,
+										"2014": 28200
+									}
+								}
+							},
+							{
+								"id": "2257",
+								"name": "Purchase of Services Control",
+								"gross_cost": {
+									"accounts": {
+										"2013": 0,
+										"2014": 45
+									}
+								}
+							},
+							{
+								"id": "2258",
+								"name": "Employee Relocation Expenses",
+								"gross_cost": {
+									"accounts": {
+										"2013": 0,
+										"2014": 5463.86
+									}
+								}
+							},
+							{
+								"id": "2259",
+								"name": "Accounting and Auditing Services",
+								"gross_cost": {
+									"accounts": {
+										"2013": 0,
+										"2014": 22260
+									}
+								}
+							},
+							{
+								"id": "2260",
+								"name": "Rent/lease-purchase Computer Equip",
+								"gross_cost": {
+									"accounts": {
+										"2013": 0,
+										"2014": 6720
+									}
+								}
+							}
+						]
+					},
+					{
+						"id": "2211",
+						"name": "Materials and Supplies",
+						"gross_cost": {
+							"accounts": {
+								"2013": 41315881.29000001,
+								"2014": 41118958.39
+							}
+						},
+						"children": [
+							{
+								"id": "2261",
+								"name": "Materials & Supplies Control",
+								"gross_cost": {
+									"accounts": {
+										"2013": 913.75,
+										"2014": 4807.88
+									}
+								}
+							},
+							{
+								"id": "2262",
+								"name": "Agricultural and Botanical",
+								"gross_cost": {
+									"accounts": {
+										"2013": 4298,
+										"2014": 3788.55
+									}
+								}
+							},
+							{
+								"id": "2263",
+								"name": "Animal, Livestock and Marine Life",
+								"gross_cost": {
+									"accounts": {
+										"2013": 114.96,
+										"2014": 143.76
+									}
+								}
+							},
+							{
+								"id": "2264",
+								"name": "Books and Other Publications",
+								"gross_cost": {
+									"accounts": {
+										"2013": 29510.4,
+										"2014": 43827.66
+									}
+								}
+							},
+							{
+								"id": "2265",
+								"name": "Building and Construction",
+								"gross_cost": {
+									"accounts": {
+										"2013": 2480117.14,
+										"2014": 1928149.47
+									}
+								}
+							},
+							{
+								"id": "2266",
+								"name": "Chemicals and Gases",
+								"gross_cost": {
+									"accounts": {
+										"2013": 22643635.86,
+										"2014": 24503043.19
+									}
+								}
+							},
+							{
+								"id": "2267",
+								"name": "Dry Goods/notions/wearing Apparel",
+								"gross_cost": {
+									"accounts": {
+										"2013": 293440.23,
+										"2014": 439316.45
+									}
+								}
+							},
+							{
+								"id": "2268",
+								"name": "Cordage and Fibers",
+								"gross_cost": {
+									"accounts": {
+										"2013": 5111.26,
+										"2014": 1331
+									}
+								}
+							},
+							{
+								"id": "2269",
+								"name": "Electrical and Communication",
+								"gross_cost": {
+									"accounts": {
+										"2013": 1391071.63,
+										"2014": 1548088.62
+									}
+								}
+							},
+							{
+								"id": "2270",
+								"name": "General Equipment and Machinery",
+								"gross_cost": {
+									"accounts": {
+										"2013": 3266225.19,
+										"2014": 2869805.6
+									}
+								}
+							},
+							{
+								"id": "2271",
+								"name": "Fire Fighting and Safety",
+								"gross_cost": {
+									"accounts": {
+										"2013": 1481735.5,
+										"2014": 997987.16
+									}
+								}
+							},
+							{
+								"id": "2272",
+								"name": "Food",
+								"gross_cost": {
+									"accounts": {
+										"2013": 372.75,
+										"2014": 191.84
+									}
+								}
+							},
+							{
+								"id": "2273",
+								"name": "Fuel -- Heating and Lighting",
+								"gross_cost": {
+									"accounts": {
+										"2013": 140964.5,
+										"2014": 376260
+									}
+								}
+							},
+							{
+								"id": "2274",
+								"name": "General Hardware and Minor Tools",
+								"gross_cost": {
+									"accounts": {
+										"2013": 467302.36,
+										"2014": 363009.1
+									}
+								}
+							},
+							{
+								"id": "2275",
+								"name": "Hospital and Laboratory",
+								"gross_cost": {
+									"accounts": {
+										"2013": 593789.47,
+										"2014": 572236.88
+									}
+								}
+							},
+							{
+								"id": "2276",
+								"name": "Janitorial, Laundry and Household",
+								"gross_cost": {
+									"accounts": {
+										"2013": 229150.38,
+										"2014": 271390.14
+									}
+								}
+							},
+							{
+								"id": "2277",
+								"name": "Nautical and Aeronautical",
+								"gross_cost": {
+									"accounts": {
+										"2013": 1415.08,
+										"2014": 6112.12
+									}
+								}
+							},
+							{
+								"id": "2278",
+								"name": "Office Materials and Supplies",
+								"gross_cost": {
+									"accounts": {
+										"2013": 219232.1,
+										"2014": 204306.69
+									}
+								}
+							},
+							{
+								"id": "2279",
+								"name": "Parking Meter and Water Meter",
+								"gross_cost": {
+									"accounts": {
+										"2013": 397296.69,
+										"2014": 470019
+									}
+								}
+							},
+							{
+								"id": "2280",
+								"name": "Small Power Tools and Hand Tools",
+								"gross_cost": {
+									"accounts": {
+										"2013": 358040.61,
+										"2014": 393002.43
+									}
+								}
+							},
+							{
+								"id": "2281",
+								"name": "Plumbing/air Conditioning/space Htg",
+								"gross_cost": {
+									"accounts": {
+										"2013": 4155852.83,
+										"2014": 3718940.03
+									}
+								}
+							},
+							{
+								"id": "2282",
+								"name": "Precision, Photographic and Artists",
+								"gross_cost": {
+									"accounts": {
+										"2013": 1624593.67,
+										"2014": 1603062.54
+									}
+								}
+							},
+							{
+								"id": "2283",
+								"name": "Printing",
+								"gross_cost": {
+									"accounts": {
+										"2013": 648994.14,
+										"2014": 283931.6
+									}
+								}
+							},
+							{
+								"id": "2284",
+								"name": "Recreational and Educational",
+								"gross_cost": {
+									"accounts": {
+										"2013": 1871.99,
+										"2014": 16637.8
+									}
+								}
+							},
+							{
+								"id": "2285",
+								"name": "Motor Vehicle Parts and Accessories",
+								"gross_cost": {
+									"accounts": {
+										"2013": 38387.52,
+										"2014": 43661.07
+									}
+								}
+							},
+							{
+								"id": "2286",
+								"name": "Lubricants",
+								"gross_cost": {
+									"accounts": {
+										"2013": 44402.1,
+										"2014": 38191.81
+									}
+								}
+							},
+							{
+								"id": "2287",
+								"name": "#2 Diesel Fuel",
+								"gross_cost": {
+									"accounts": {
+										"2013": 414900,
+										"2014": 210900
+									}
+								}
+							},
+							{
+								"id": "2288",
+								"name": "Liquid Propane Gas (lpg)",
+								"gross_cost": {
+									"accounts": {
+										"2013": 32979.52,
+										"2014": 38079.39
+									}
+								}
+							},
+							{
+								"id": "2289",
+								"name": "Gasoline",
+								"gross_cost": {
+									"accounts": {
+										"2013": 350000,
+										"2014": 167800
+									}
+								}
+							},
+							{
+								"id": "2290",
+								"name": "Other Materials and Supplies (noc)",
+								"gross_cost": {
+									"accounts": {
+										"2013": 161.66,
+										"2014": 120.9
+									}
+								}
+							},
+							{
+								"id": "2291",
+								"name": "Bakeshop, Dining Room and Kitchen",
+								"gross_cost": {
+									"accounts": {
+										"2013": 0,
+										"2014": 815.71
+									}
+								}
+							}
+						]
+					},
+					{
+						"id": "2212",
+						"name": "Equipment",
+						"gross_cost": {
+							"accounts": {
+								"2013": 1820084.85,
+								"2014": 2419656.4099999997
+							}
+						},
+						"children": [
+							{
+								"id": "2292",
+								"name": "Agricultural and Botanical",
+								"gross_cost": {
+									"accounts": {
+										"2013": 12020.65,
+										"2014": 37992.39
+									}
+								}
+							},
+							{
+								"id": "2293",
+								"name": "Bakeshop, Dining Room and Kitchen",
+								"gross_cost": {
+									"accounts": {
+										"2013": 3707.19,
+										"2014": 14317
+									}
+								}
+							},
+							{
+								"id": "2294",
+								"name": "Electrical Lighting Communication",
+								"gross_cost": {
+									"accounts": {
+										"2013": 248874.08,
+										"2014": 451476.52
+									}
+								}
+							},
+							{
+								"id": "2295",
+								"name": "General Equipment and Machinery",
+								"gross_cost": {
+									"accounts": {
+										"2013": 333358.62,
+										"2014": 374181.81
+									}
+								}
+							},
+							{
+								"id": "2296",
+								"name": "Fire Fighting and Emergency",
+								"gross_cost": {
+									"accounts": {
+										"2013": 5444.76,
+										"2014": 16695.2
+									}
+								}
+							},
+							{
+								"id": "2297",
+								"name": "Hospital and Laboratory",
+								"gross_cost": {
+									"accounts": {
+										"2013": 360710.91,
+										"2014": 547997.56
+									}
+								}
+							},
+							{
+								"id": "2298",
+								"name": "Janitorial and Laundry",
+								"gross_cost": {
+									"accounts": {
+										"2013": 9635.56,
+										"2014": 22514.46
+									}
+								}
+							},
+							{
+								"id": "2299",
+								"name": "Nautical and Aeronautical",
+								"gross_cost": {
+									"accounts": {
+										"2013": 6934,
+										"2014": 0
+									}
+								}
+							},
+							{
+								"id": "2300",
+								"name": "Office Equipment",
+								"gross_cost": {
+									"accounts": {
+										"2013": 19375.02,
+										"2014": 16766.24
+									}
+								}
+							},
+							{
+								"id": "2301",
+								"name": "Plumbing/air Conditioning/space Htg",
+								"gross_cost": {
+									"accounts": {
+										"2013": 61074.12,
+										"2014": 60365.91
+									}
+								}
+							},
+							{
+								"id": "2302",
+								"name": "Precision, Photographic and Artist",
+								"gross_cost": {
+									"accounts": {
+										"2013": 248194.67,
+										"2014": 111323.62
+									}
+								}
+							},
+							{
+								"id": "2303",
+								"name": "Printing and Binding",
+								"gross_cost": {
+									"accounts": {
+										"2013": 277.45,
+										"2014": 0
+									}
+								}
+							},
+							{
+								"id": "2304",
+								"name": "Computer Equipment & Peripherals",
+								"gross_cost": {
+									"accounts": {
+										"2013": 29992.35,
+										"2014": 1283.05
+									}
+								}
+							},
+							{
+								"id": "2305",
+								"name": "Furniture and Furnishings",
+								"gross_cost": {
+									"accounts": {
+										"2013": 480485.47,
+										"2014": 758704.37
+									}
+								}
+							},
+							{
+								"id": "2306",
+								"name": "Construction, Dredging, Conveying",
+								"gross_cost": {
+									"accounts": {
+										"2013": 0,
+										"2014": 904
+									}
+								}
+							},
+							{
+								"id": "2307",
+								"name": "Recreational and Educational",
+								"gross_cost": {
+									"accounts": {
+										"2013": 0,
+										"2014": 177.28
+									}
+								}
+							},
+							{
+								"id": "2308",
+								"name": "Other Equipment (noc)",
+								"gross_cost": {
+									"accounts": {
+										"2013": 0,
+										"2014": 4957
+									}
+								}
+							}
+						]
+					},
+					{
+						"id": "2213",
+						"name": "Contributions Indemnities Refds Taxes",
+						"gross_cost": {
+							"accounts": {
+								"2013": 5090209.99,
+								"2014": 6036096.779999999
+							}
+						},
+						"children": [
+							{
+								"id": "2309",
+								"name": "Auto - Motor Vehicle",
+								"gross_cost": {
+									"accounts": {
+										"2013": 962691.43,
+										"2014": 224417.5
+									}
+								}
+							},
+							{
+								"id": "2310",
+								"name": "Auto-motor Vehicle-non-punitive Dam",
+								"gross_cost": {
+									"accounts": {
+										"2013": 1500,
+										"2014": 0
+									}
+								}
+							},
+							{
+								"id": "2311",
+								"name": "Highway Falls",
+								"gross_cost": {
+									"accounts": {
+										"2013": 1325751,
+										"2014": 1431037.17
+									}
+								}
+							},
+							{
+								"id": "2312",
+								"name": "Sidewalk Falls",
+								"gross_cost": {
+									"accounts": {
+										"2013": 1344250,
+										"2014": 2025072
+									}
+								}
+							},
+							{
+								"id": "2313",
+								"name": "Other Non-automotive",
+								"gross_cost": {
+									"accounts": {
+										"2013": 646573.69,
+										"2014": 573312.69
+									}
+								}
+							},
+							{
+								"id": "2314",
+								"name": "Auto-motor Vehicle/non-punitive Dam",
+								"gross_cost": {
+									"accounts": {
+										"2013": 31113.37,
+										"2014": 58002.8
+									}
+								}
+							},
+							{
+								"id": "2315",
+								"name": "Water Main Breaks",
+								"gross_cost": {
+									"accounts": {
+										"2013": 214876,
+										"2014": 836448.84
+									}
+								}
+							},
+							{
+								"id": "2316",
+								"name": "Water Main Breaks-non-punitive Damg",
+								"gross_cost": {
+									"accounts": {
+										"2013": 350834.55,
+										"2014": 582027.05
+									}
+								}
+							},
+							{
+								"id": "2317",
+								"name": "Clogged Sewers-non-punitive Damages",
+								"gross_cost": {
+									"accounts": {
+										"2013": 7467,
+										"2014": 62938
+									}
+								}
+							},
+							{
+								"id": "2318",
+								"name": "Other Water Cases",
+								"gross_cost": {
+									"accounts": {
+										"2013": 42859,
+										"2014": 14024
+									}
+								}
+							},
+							{
+								"id": "2319",
+								"name": "Other Water Cases-non-punitive Dam",
+								"gross_cost": {
+									"accounts": {
+										"2013": 38531,
+										"2014": 22562.19
+									}
+								}
+							},
+							{
+								"id": "2320",
+								"name": "Other Non-automotive",
+								"gross_cost": {
+									"accounts": {
+										"2013": 17000,
+										"2014": 60000
+									}
+								}
+							},
+							{
+								"id": "2321",
+								"name": "Other Non-automotive/non-punitive",
+								"gross_cost": {
+									"accounts": {
+										"2013": 10796,
+										"2014": 77654.54
+									}
+								}
+							},
+							{
+								"id": "2322",
+								"name": "Civil Rights",
+								"gross_cost": {
+									"accounts": {
+										"2013": 38370,
+										"2014": 63600
+									}
+								}
+							},
+							{
+								"id": "2323",
+								"name": "Contract Claims-city Breach Contrct",
+								"gross_cost": {
+									"accounts": {
+										"2013": 33269.66,
+										"2014": 0
+									}
+								}
+							},
+							{
+								"id": "2324",
+								"name": "Employee Claims-nonworkcomp/non-pun",
+								"gross_cost": {
+									"accounts": {
+										"2013": 1747.29,
+										"2014": 0
+									}
+								}
+							},
+							{
+								"id": "2325",
+								"name": "Civil Rights - Attorney Fees",
+								"gross_cost": {
+									"accounts": {
+										"2013": 8580,
+										"2014": 0
+									}
+								}
+							},
+							{
+								"id": "2326",
+								"name": "Other Miscellaneous Claims",
+								"gross_cost": {
+									"accounts": {
+										"2013": 10500,
+										"2014": 0
+									}
+								}
+							},
+							{
+								"id": "2327",
+								"name": "Other Misc Claims - Non-punitive",
+								"gross_cost": {
+									"accounts": {
+										"2013": 3500,
+										"2014": 0
+									}
+								}
+							},
+							{
+								"id": "2328",
+								"name": "Personal Injury",
+								"gross_cost": {
+									"accounts": {
+										"2013": 0,
+										"2014": 5000
+									}
+								}
+							}
+						]
+					},
+					{
+						"id": "2214",
+						"name": "Payments to Other Funds",
+						"gross_cost": {
+							"accounts": {
+								"2013": 53006150.31,
+								"2014": 75661238.52000001
+							}
+						},
+						"children": [
+							{
+								"id": "2329",
+								"name": "Payments to General Fund",
+								"gross_cost": {
+									"accounts": {
+										"2013": 10792914,
+										"2014": 7714419
+									}
+								}
+							},
+							{
+								"id": "2330",
+								"name": "Payments to Capital Projects Fund",
+								"gross_cost": {
+									"accounts": {
+										"2013": 19380010,
+										"2014": 20193500
+									}
+								}
+							},
+							{
+								"id": "2331",
+								"name": "Payments to Water Residual Fund",
+								"gross_cost": {
+									"accounts": {
+										"2013": 22833226.31,
+										"2014": 24828547.95
+									}
+								}
+							},
+							{
+								"id": "2332",
+								"name": "Payments to Water Rate Stab",
+								"gross_cost": {
+									"accounts": {
+										"2013": 0,
+										"2014": 22924771.57
+									}
+								}
+							}
+						]
+					}
+				]
+			},
+			{
+				"id": "2130",
+				"name": "Director of Finance",
+				"gross_cost": {
+					"accounts": {
+						"2013": 96328789.42000002,
+						"2014": 101799798.03000002
+					}
+				},
+				"children": [
+					{
+						"id": "2333",
+						"name": "Personal Services",
+						"gross_cost": {
+							"accounts": {
+								"2013": 96328789.42000002,
+								"2014": 101799798.03000002
+							}
+						},
+						"children": [
+							{
+								"id": "2334",
+								"name": "Flex Cash",
+								"gross_cost": {
+									"accounts": {
+										"2013": 41884.24,
+										"2014": 22233.85
+									}
+								}
+							},
+							{
+								"id": "2335",
+								"name": "Worker's Comp-disability Comp",
+								"gross_cost": {
+									"accounts": {
+										"2013": 1703485.12,
+										"2014": 1327564.13
+									}
+								}
+							},
+							{
+								"id": "2336",
+								"name": "Worker's Comp-medical",
+								"gross_cost": {
+									"accounts": {
+										"2013": 1674689.39,
+										"2014": 1741455.87
+									}
+								}
+							},
+							{
+								"id": "2337",
+								"name": "Medicare Tax",
+								"gross_cost": {
+									"accounts": {
+										"2013": 1448298.34,
+										"2014": 1506359.23
+									}
+								}
+							},
+							{
+								"id": "2338",
+								"name": "Pension-obligation Bond Payments",
+								"gross_cost": {
+									"accounts": {
+										"2013": 20452251.63,
+										"2014": 22450402.66
+									}
+								}
+							},
+							{
+								"id": "2339",
+								"name": "Pension Actual",
+								"gross_cost": {
+									"accounts": {
+										"2013": 35507146.67,
+										"2014": 38305051.79
+									}
+								}
+							},
+							{
+								"id": "2340",
+								"name": "Fica Taxes",
+								"gross_cost": {
+									"accounts": {
+										"2013": 6258944.96,
+										"2014": 6436898.7
+									}
+								}
+							},
+							{
+								"id": "2341",
+								"name": "Medical Health & Welfare Credit",
+								"gross_cost": {
+									"accounts": {
+										"2013": 28402301.19,
+										"2014": 29276512.7
+									}
+								}
+							},
+							{
+								"id": "2342",
+								"name": "Group Life Insurance",
+								"gross_cost": {
+									"accounts": {
+										"2013": 126440.61,
+										"2014": 136801.09
+									}
+								}
+							},
+							{
+								"id": "2343",
+								"name": "Group Legal Insurance",
+								"gross_cost": {
+									"accounts": {
+										"2013": 271230.34,
+										"2014": 271723.31
+									}
+								}
+							},
+							{
+								"id": "2344",
+								"name": "Unemployment Comp Insurance",
+								"gross_cost": {
+									"accounts": {
+										"2013": 399516.93,
+										"2014": 282194.7
+									}
+								}
+							},
+							{
+								"id": "2345",
+								"name": "Auto Mechanic Tool Insurance",
+								"gross_cost": {
+									"accounts": {
+										"2013": 42600,
+										"2014": 42600
+									}
+								}
+							}
+						]
+					}
+				]
+			},
+			{
+				"id": "2131",
+				"name": "Revenue",
+				"gross_cost": {
+					"accounts": {
+						"2013": 14602052.91,
+						"2014": 14523491.190000001
+					}
+				},
+				"children": [
+					{
+						"id": "2346",
+						"name": "Personal Services",
+						"gross_cost": {
+							"accounts": {
+								"2013": 10020393.31,
+								"2014": 9701250.579999998
+							}
+						},
+						"children": [
+							{
+								"id": "2351",
+								"name": "Salary Control",
+								"gross_cost": {
+									"accounts": {
+										"2013": 21640.69,
+										"2014": 139460.2
+									}
+								}
+							},
+							{
+								"id": "2352",
+								"name": "Perm Full Time-civilian",
+								"gross_cost": {
+									"accounts": {
+										"2013": 9188059.65,
+										"2014": 8748324.69
+									}
+								}
+							},
+							{
+								"id": "2353",
+								"name": "Plus/minus Gross Adj",
+								"gross_cost": {
+									"accounts": {
+										"2013": 40631.48,
+										"2014": 97101.28
+									}
+								}
+							},
+							{
+								"id": "2354",
+								"name": "Temporary Seasonal",
+								"gross_cost": {
+									"accounts": {
+										"2013": 109487.78,
+										"2014": 36375.93
+									}
+								}
+							},
+							{
+								"id": "2355",
+								"name": "Overtime Civilian",
+								"gross_cost": {
+									"accounts": {
+										"2013": 652341.59,
+										"2014": 665516.82
+									}
+								}
+							},
+							{
+								"id": "2356",
+								"name": "Holiday \"g\"(2/3 Shifts)",
+								"gross_cost": {
+									"accounts": {
+										"2013": 2387.81,
+										"2014": 3105.4
+									}
+								}
+							},
+							{
+								"id": "2357",
+								"name": "Shift",
+								"gross_cost": {
+									"accounts": {
+										"2013": 5541.99,
+										"2014": 5630
+									}
+								}
+							},
+							{
+								"id": "2358",
+								"name": "Sick Pay(b Time)-civilian",
+								"gross_cost": {
+									"accounts": {
+										"2013": 302.32,
+										"2014": 5736.26
+									}
+								}
+							}
+						]
+					},
+					{
+						"id": "2347",
+						"name": "Purchase of Services",
+						"gross_cost": {
+							"accounts": {
+								"2013": 4020068.29,
+								"2014": 4133602.6700000004
+							}
+						},
+						"children": [
+							{
+								"id": "2359",
+								"name": "Refuse/garbage/silt/sludge Removal",
+								"gross_cost": {
+									"accounts": {
+										"2013": 1521.29,
+										"2014": 1141.52
+									}
+								}
+							},
+							{
+								"id": "2360",
+								"name": "Postage",
+								"gross_cost": {
+									"accounts": {
+										"2013": 3673360.65,
+										"2014": 3600318.2
+									}
+								}
+							},
+							{
+								"id": "2361",
+								"name": "Transportation",
+								"gross_cost": {
+									"accounts": {
+										"2013": 992.99,
+										"2014": 201.6
+									}
+								}
+							},
+							{
+								"id": "2362",
+								"name": "Professional Consult/spec Services",
+								"gross_cost": {
+									"accounts": {
+										"2013": 257682.86,
+										"2014": 244747.5
+									}
+								}
+							},
+							{
+								"id": "2363",
+								"name": "Dues",
+								"gross_cost": {
+									"accounts": {
+										"2013": 95,
+										"2014": 100
+									}
+								}
+							},
+							{
+								"id": "2364",
+								"name": "Seminar and Training Sessions",
+								"gross_cost": {
+									"accounts": {
+										"2013": 1402,
+										"2014": 387
+									}
+								}
+							},
+							{
+								"id": "2365",
+								"name": "Repair and Maintenance Charges",
+								"gross_cost": {
+									"accounts": {
+										"2013": 60648.5,
+										"2014": 249822.46
+									}
+								}
+							},
+							{
+								"id": "2366",
+								"name": "Rents",
+								"gross_cost": {
+									"accounts": {
+										"2013": 24365,
+										"2014": 29138.39
+									}
+								}
+							},
+							{
+								"id": "2367",
+								"name": "Meals-non-travel & Officl Entertain",
+								"gross_cost": {
+									"accounts": {
+										"2013": 0,
+										"2014": 246
+									}
+								}
+							},
+							{
+								"id": "2368",
+								"name": "Information Technology-prof Service",
+								"gross_cost": {
+									"accounts": {
+										"2013": 0,
+										"2014": 7500
+									}
+								}
+							}
+						]
+					},
+					{
+						"id": "2348",
+						"name": "Materials and Supplies",
+						"gross_cost": {
+							"accounts": {
+								"2013": 419788.30000000005,
+								"2014": 440317.65
+							}
+						},
+						"children": [
+							{
+								"id": "2369",
+								"name": "Books and Other Publications",
+								"gross_cost": {
+									"accounts": {
+										"2013": 2261.6,
+										"2014": 1780.72
+									}
+								}
+							},
+							{
+								"id": "2370",
+								"name": "Dry Goods/notions/wearing Apparel",
+								"gross_cost": {
+									"accounts": {
+										"2013": 7682.33,
+										"2014": 2600.62
+									}
+								}
+							},
+							{
+								"id": "2371",
+								"name": "Electrical and Communication",
+								"gross_cost": {
+									"accounts": {
+										"2013": 341.01,
+										"2014": 206.06
+									}
+								}
+							},
+							{
+								"id": "2372",
+								"name": "General Hardware and Minor Tools",
+								"gross_cost": {
+									"accounts": {
+										"2013": 50,
+										"2014": 607.37
+									}
+								}
+							},
+							{
+								"id": "2373",
+								"name": "Janitorial, Laundry and Household",
+								"gross_cost": {
+									"accounts": {
+										"2013": 758.03,
+										"2014": 710.3
+									}
+								}
+							},
+							{
+								"id": "2374",
+								"name": "Office Materials and Supplies",
+								"gross_cost": {
+									"accounts": {
+										"2013": 345275.43,
+										"2014": 370678.83
+									}
+								}
+							},
+							{
+								"id": "2375",
+								"name": "Precision, Photographic and Artists",
+								"gross_cost": {
+									"accounts": {
+										"2013": 27127.4,
+										"2014": 12059.15
+									}
+								}
+							},
+							{
+								"id": "2376",
+								"name": "Printing",
+								"gross_cost": {
+									"accounts": {
+										"2013": 36292.5,
+										"2014": 42965
+									}
+								}
+							},
+							{
+								"id": "2377",
+								"name": "Building and Construction",
+								"gross_cost": {
+									"accounts": {
+										"2013": 0,
+										"2014": 7958.12
+									}
+								}
+							},
+							{
+								"id": "2378",
+								"name": "Cordage and Fibers",
+								"gross_cost": {
+									"accounts": {
+										"2013": 0,
+										"2014": 129.97
+									}
+								}
+							},
+							{
+								"id": "2379",
+								"name": "General Equipment and Machinery",
+								"gross_cost": {
+									"accounts": {
+										"2013": 0,
+										"2014": 149.71
+									}
+								}
+							},
+							{
+								"id": "2380",
+								"name": "Small Power Tools and Hand Tools",
+								"gross_cost": {
+									"accounts": {
+										"2013": 0,
+										"2014": 119.68
+									}
+								}
+							},
+							{
+								"id": "2381",
+								"name": "Recreational and Educational",
+								"gross_cost": {
+									"accounts": {
+										"2013": 0,
+										"2014": 352.12
+									}
+								}
+							}
+						]
+					},
+					{
+						"id": "2349",
+						"name": "Equipment",
+						"gross_cost": {
+							"accounts": {
+								"2013": 141633.00999999998,
+								"2014": 247839.04000000004
+							}
+						},
+						"children": [
+							{
+								"id": "2382",
+								"name": "Office Equipment",
+								"gross_cost": {
+									"accounts": {
+										"2013": 133296.8,
+										"2014": 204744.42
+									}
+								}
+							},
+							{
+								"id": "2383",
+								"name": "Plumbing/air Conditioning/space Htg",
+								"gross_cost": {
+									"accounts": {
+										"2013": 74.41,
+										"2014": 370.88
+									}
+								}
+							},
+							{
+								"id": "2384",
+								"name": "Computer Equipment & Peripherals",
+								"gross_cost": {
+									"accounts": {
+										"2013": 199.9,
+										"2014": 107.88
+									}
+								}
+							},
+							{
+								"id": "2385",
+								"name": "Furniture and Furnishings",
+								"gross_cost": {
+									"accounts": {
+										"2013": 8061.9,
+										"2014": 35543.44
+									}
+								}
+							},
+							{
+								"id": "2386",
+								"name": "Construction, Dredging, Conveying",
+								"gross_cost": {
+									"accounts": {
+										"2013": 0,
+										"2014": 278.23
+									}
+								}
+							},
+							{
+								"id": "2387",
+								"name": "Electrical Lighting Communication",
+								"gross_cost": {
+									"accounts": {
+										"2013": 0,
+										"2014": 5988
+									}
+								}
+							},
+							{
+								"id": "2388",
+								"name": "General Equipment and Machinery",
+								"gross_cost": {
+									"accounts": {
+										"2013": 0,
+										"2014": 386.22
+									}
+								}
+							},
+							{
+								"id": "2389",
+								"name": "Precision, Photographic and Artist",
+								"gross_cost": {
+									"accounts": {
+										"2013": 0,
+										"2014": 419.97
+									}
+								}
+							}
+						]
+					},
+					{
+						"id": "2350",
+						"name": "Contributions Indemnities Refds Taxes",
+						"gross_cost": {
+							"accounts": {
+								"2013": 170,
+								"2014": 481.25
+							}
+						},
+						"children": [
+							{
+								"id": "2390",
+								"name": "Meritorious Awards",
+								"gross_cost": {
+									"accounts": {
+										"2013": 170,
+										"2014": 481.25
+									}
+								}
+							}
+						]
+					}
+				]
+			},
+			{
+				"id": "2132",
+				"name": "Sinking Fund Commission",
+				"gross_cost": {
+					"accounts": {
+						"2013": 201015410.92000002,
+						"2014": 204645671.89
+					}
+				},
+				"children": [
+					{
+						"id": "2391",
+						"name": "Debt Service",
+						"gross_cost": {
+							"accounts": {
+								"2013": 201015410.92000002,
+								"2014": 204645671.89
+							}
+						},
+						"children": [
+							{
+								"id": "2392",
+								"name": "Interest on City Debt -- Long-term",
+								"gross_cost": {
+									"accounts": {
+										"2013": 76180038.11,
+										"2014": 74700671.89
+									}
+								}
+							},
+							{
+								"id": "2393",
+								"name": "Principal Payments on City Debt-l/t",
+								"gross_cost": {
+									"accounts": {
+										"2013": 124805000,
+										"2014": 129945000
+									}
+								}
+							},
+							{
+								"id": "2394",
+								"name": "Arbitrage Payments",
+								"gross_cost": {
+									"accounts": {
+										"2013": 30372.81,
+										"2014": 0
+									}
+								}
+							}
+						]
+					}
+				]
+			},
+			{
+				"id": "2133",
+				"name": "Procurement",
+				"gross_cost": {
+					"accounts": {
+						"2013": 68881.96,
+						"2014": 62746.27
+					}
+				},
+				"children": [
+					{
+						"id": "2395",
+						"name": "Personal Services",
+						"gross_cost": {
+							"accounts": {
+								"2013": 68881.96,
+								"2014": 62746.27
+							}
+						},
+						"children": [
+							{
+								"id": "2396",
+								"name": "Perm Full Time-civilian",
+								"gross_cost": {
+									"accounts": {
+										"2013": 68828.07,
+										"2014": 61646.88
+									}
+								}
+							},
+							{
+								"id": "2397",
+								"name": "Overtime Civilian",
+								"gross_cost": {
+									"accounts": {
+										"2013": 53.89,
+										"2014": 31.32
+									}
+								}
+							},
+							{
+								"id": "2398",
+								"name": "Plus/minus Gross Adj",
+								"gross_cost": {
+									"accounts": {
+										"2013": 0,
+										"2014": 1068.07
+									}
+								}
+							}
+						]
+					}
+				]
+			},
+			{
+				"id": "2134",
+				"name": "Law",
+				"gross_cost": {
+					"accounts": {
+						"2013": 2861477.76,
+						"2014": 2880084.3599999994
+					}
+				},
+				"children": [
+					{
+						"id": "2399",
+						"name": "Personal Services",
+						"gross_cost": {
+							"accounts": {
+								"2013": 2281361.89,
+								"2014": 2192613.27
+							}
+						},
+						"children": [
+							{
+								"id": "2403",
+								"name": "Salary Control",
+								"gross_cost": {
+									"accounts": {
+										"2013": 30921.44,
+										"2014": 70350.57
+									}
+								}
+							},
+							{
+								"id": "2404",
+								"name": "Perm Full Time-civilian",
+								"gross_cost": {
+									"accounts": {
+										"2013": 2243922.16,
+										"2014": 2120997.95
+									}
+								}
+							},
+							{
+								"id": "2405",
+								"name": "Plus/minus Gross Adj",
+								"gross_cost": {
+									"accounts": {
+										"2013": 6518.29,
+										"2014": 1264.75
+									}
+								}
+							}
+						]
+					},
+					{
+						"id": "2400",
+						"name": "Purchase of Services",
+						"gross_cost": {
+							"accounts": {
+								"2013": 543723.4700000001,
+								"2014": 670808.05
+							}
+						},
+						"children": [
+							{
+								"id": "2406",
+								"name": "Transportation",
+								"gross_cost": {
+									"accounts": {
+										"2013": 286.88,
+										"2014": 111
+									}
+								}
+							},
+							{
+								"id": "2407",
+								"name": "Overtime Meals",
+								"gross_cost": {
+									"accounts": {
+										"2013": 27.1,
+										"2014": 0
+									}
+								}
+							},
+							{
+								"id": "2408",
+								"name": "Professional Consult/spec Services",
+								"gross_cost": {
+									"accounts": {
+										"2013": 18369.9,
+										"2014": 445493.05
+									}
+								}
+							},
+							{
+								"id": "2409",
+								"name": "Court Reporters",
+								"gross_cost": {
+									"accounts": {
+										"2013": 494335.52,
+										"2014": 187328.07
+									}
+								}
+							},
+							{
+								"id": "2410",
+								"name": "Repair and Maintenance Charges",
+								"gross_cost": {
+									"accounts": {
+										"2013": 8582.94,
+										"2014": 6958.67
+									}
+								}
+							},
+							{
+								"id": "2411",
+								"name": "Maint/support-computr Hardware/soft",
+								"gross_cost": {
+									"accounts": {
+										"2013": 102.78,
+										"2014": 0
+									}
+								}
+							},
+							{
+								"id": "2412",
+								"name": "Witness Fees",
+								"gross_cost": {
+									"accounts": {
+										"2013": 3500,
+										"2014": 0
+									}
+								}
+							},
+							{
+								"id": "2413",
+								"name": "Rents",
+								"gross_cost": {
+									"accounts": {
+										"2013": 18518.35,
+										"2014": 13307.88
+									}
+								}
+							},
+							{
+								"id": "2414",
+								"name": "Information Technology-prof Service",
+								"gross_cost": {
+									"accounts": {
+										"2013": 0,
+										"2014": 9223.36
+									}
+								}
+							},
+							{
+								"id": "2415",
+								"name": "Legal Services",
+								"gross_cost": {
+									"accounts": {
+										"2013": 0,
+										"2014": 675
+									}
+								}
+							},
+							{
+								"id": "2416",
+								"name": "Architectural & Engineering Srvcs",
+								"gross_cost": {
+									"accounts": {
+										"2013": 0,
+										"2014": 5526.02
+									}
+								}
+							},
+							{
+								"id": "2417",
+								"name": "Arbitration Fees",
+								"gross_cost": {
+									"accounts": {
+										"2013": 0,
+										"2014": 2185
+									}
+								}
+							}
+						]
+					},
+					{
+						"id": "2401",
+						"name": "Materials and Supplies",
+						"gross_cost": {
+							"accounts": {
+								"2013": 36392.4,
+								"2014": 16163.04
+							}
+						},
+						"children": [
+							{
+								"id": "2418",
+								"name": "Books and Other Publications",
+								"gross_cost": {
+									"accounts": {
+										"2013": 12440.6,
+										"2014": 12261.04
+									}
+								}
+							},
+							{
+								"id": "2419",
+								"name": "Office Materials and Supplies",
+								"gross_cost": {
+									"accounts": {
+										"2013": 9466.8,
+										"2014": 0
+									}
+								}
+							},
+							{
+								"id": "2420",
+								"name": "Precision, Photographic and Artists",
+								"gross_cost": {
+									"accounts": {
+										"2013": 135,
+										"2014": 0
+									}
+								}
+							},
+							{
+								"id": "2421",
+								"name": "Printing",
+								"gross_cost": {
+									"accounts": {
+										"2013": 14350,
+										"2014": 3902
+									}
+								}
+							}
+						]
+					},
+					{
+						"id": "2402",
+						"name": "Equipment",
+						"gross_cost": {
+							"accounts": {
+								"2013": 0,
+								"2014": 500
+							}
+						},
+						"children": [
+							{
+								"id": "2422",
+								"name": "Computer Equipment & Peripherals",
+								"gross_cost": {
+									"accounts": {
+										"2013": 0,
+										"2014": 500
+									}
+								}
+							}
+						]
+					}
+				]
+			},
+			{
+				"id": "2135",
+				"name": "Mayor's Office of Transportation",
+				"gross_cost": {
+					"accounts": {
+						"2013": 169948,
+						"2014": 208176.14
+					}
+				},
+				"children": [
+					{
+						"id": "2423",
+						"name": "Personal Services",
+						"gross_cost": {
+							"accounts": {
+								"2013": 169948,
+								"2014": 208176.14
+							}
+						},
+						"children": [
+							{
+								"id": "2424",
+								"name": "Perm Full Time-civilian",
+								"gross_cost": {
+									"accounts": {
+										"2013": 169948,
+										"2014": 208176.14
+									}
+								}
+							}
+						]
+					}
+				]
+			}
+		]
+	},
+	{
 		"id": "8",
 		"name": "Airport Operating Fund",
 		"gross_cost": {
@@ -37304,6 +36706,464 @@
 		]
 	},
 	{
+		"id": "12",
+		"name": "Acute Care Hospital Assessment Fd",
+		"gross_cost": {
+			"accounts": {
+				"2013": 148033285.5,
+				"2014": 157492102.96
+			}
+		},
+		"children": [
+			{
+				"id": "3729",
+				"name": "Health",
+				"gross_cost": {
+					"accounts": {
+						"2013": 147719504.66,
+						"2014": 157128934.96
+					}
+				},
+				"children": [
+					{
+						"id": "3732",
+						"name": "Personal Services",
+						"gross_cost": {
+							"accounts": {
+								"2013": 2655453.4000000004,
+								"2014": 3219812.11
+							}
+						},
+						"children": [
+							{
+								"id": "3737",
+								"name": "Salary Control",
+								"gross_cost": {
+									"accounts": {
+										"2013": 1648.7,
+										"2014": 0
+									}
+								}
+							},
+							{
+								"id": "3738",
+								"name": "Perm Full Time-civilian",
+								"gross_cost": {
+									"accounts": {
+										"2013": 349383.46,
+										"2014": 555061.24
+									}
+								}
+							},
+							{
+								"id": "3739",
+								"name": "Plus/minus Gross Adj",
+								"gross_cost": {
+									"accounts": {
+										"2013": 17511.26,
+										"2014": 57585.67
+									}
+								}
+							},
+							{
+								"id": "3740",
+								"name": "Perm Part Time",
+								"gross_cost": {
+									"accounts": {
+										"2013": 2266833.64,
+										"2014": 2585975.19
+									}
+								}
+							},
+							{
+								"id": "3741",
+								"name": "Overtime Civilian",
+								"gross_cost": {
+									"accounts": {
+										"2013": 19872.91,
+										"2014": 20936.19
+									}
+								}
+							},
+							{
+								"id": "3742",
+								"name": "Shift",
+								"gross_cost": {
+									"accounts": {
+										"2013": 203.43,
+										"2014": 253.82
+									}
+								}
+							}
+						]
+					},
+					{
+						"id": "3733",
+						"name": "Purchase of Services",
+						"gross_cost": {
+							"accounts": {
+								"2013": 142058995.82,
+								"2014": 152404374.58
+							}
+						},
+						"children": [
+							{
+								"id": "3743",
+								"name": "Commercial Off-shelf Comp Software",
+								"gross_cost": {
+									"accounts": {
+										"2013": 31666.92,
+										"2014": 34491.46
+									}
+								}
+							},
+							{
+								"id": "3744",
+								"name": "Professional Consult/spec Services",
+								"gross_cost": {
+									"accounts": {
+										"2013": 142023182.8,
+										"2014": 152237223.4
+									}
+								}
+							},
+							{
+								"id": "3745",
+								"name": "Information Technology-prof Service",
+								"gross_cost": {
+									"accounts": {
+										"2013": 824.65,
+										"2014": 16082.63
+									}
+								}
+							},
+							{
+								"id": "3746",
+								"name": "Maint/support-computr Hardware/soft",
+								"gross_cost": {
+									"accounts": {
+										"2013": 3321.45,
+										"2014": 3545.74
+									}
+								}
+							},
+							{
+								"id": "3747",
+								"name": "Telephone",
+								"gross_cost": {
+									"accounts": {
+										"2013": 0,
+										"2014": 100537.95
+									}
+								}
+							},
+							{
+								"id": "3748",
+								"name": "Meals-non-travel & Officl Entertain",
+								"gross_cost": {
+									"accounts": {
+										"2013": 0,
+										"2014": 12493.4
+									}
+								}
+							}
+						]
+					},
+					{
+						"id": "3734",
+						"name": "Materials and Supplies",
+						"gross_cost": {
+							"accounts": {
+								"2013": 5055.4400000000005,
+								"2014": 3632.37
+							}
+						},
+						"children": [
+							{
+								"id": "3749",
+								"name": "Dry Goods/notions/wearing Apparel",
+								"gross_cost": {
+									"accounts": {
+										"2013": 300,
+										"2014": 300
+									}
+								}
+							},
+							{
+								"id": "3750",
+								"name": "Electrical and Communication",
+								"gross_cost": {
+									"accounts": {
+										"2013": 698,
+										"2014": 274
+									}
+								}
+							},
+							{
+								"id": "3751",
+								"name": "Office Materials and Supplies",
+								"gross_cost": {
+									"accounts": {
+										"2013": 3527.94,
+										"2014": 2918.37
+									}
+								}
+							},
+							{
+								"id": "3752",
+								"name": "Printing",
+								"gross_cost": {
+									"accounts": {
+										"2013": 529.5,
+										"2014": 140
+									}
+								}
+							}
+						]
+					},
+					{
+						"id": "3735",
+						"name": "Payments to Other Funds",
+						"gross_cost": {
+							"accounts": {
+								"2013": 3000000,
+								"2014": 1500000
+							}
+						},
+						"children": [
+							{
+								"id": "3753",
+								"name": "Payments to Capital Projects Fund",
+								"gross_cost": {
+									"accounts": {
+										"2013": 3000000,
+										"2014": 1500000
+									}
+								}
+							}
+						]
+					},
+					{
+						"id": "3736",
+						"name": "Equipment",
+						"gross_cost": {
+							"accounts": {
+								"2013": 0,
+								"2014": 1115.9
+							}
+						},
+						"children": [
+							{
+								"id": "3754",
+								"name": "Computer Equipment & Peripherals",
+								"gross_cost": {
+									"accounts": {
+										"2013": 0,
+										"2014": 1115.9
+									}
+								}
+							}
+						]
+					}
+				]
+			},
+			{
+				"id": "3730",
+				"name": "Director of Finance",
+				"gross_cost": {
+					"accounts": {
+						"2013": 313780.84,
+						"2014": 333168
+					}
+				},
+				"children": [
+					{
+						"id": "3755",
+						"name": "Personal Services",
+						"gross_cost": {
+							"accounts": {
+								"2013": 313780.84,
+								"2014": 333168
+							}
+						},
+						"children": [
+							{
+								"id": "3756",
+								"name": "Perm Full Time-civilian",
+								"gross_cost": {
+									"accounts": {
+										"2013": 75000,
+										"2014": 75000
+									}
+								}
+							},
+							{
+								"id": "3757",
+								"name": "Worker's Comp-disability Comp",
+								"gross_cost": {
+									"accounts": {
+										"2013": 10922.66,
+										"2014": 2596.37
+									}
+								}
+							},
+							{
+								"id": "3758",
+								"name": "Medicare Tax",
+								"gross_cost": {
+									"accounts": {
+										"2013": 17813.95,
+										"2014": 2753.75
+									}
+								}
+							},
+							{
+								"id": "3759",
+								"name": "Pension-obligation Bond Payments",
+								"gross_cost": {
+									"accounts": {
+										"2013": 13077.58,
+										"2014": 4084.84
+									}
+								}
+							},
+							{
+								"id": "3760",
+								"name": "Pension Actual",
+								"gross_cost": {
+									"accounts": {
+										"2013": 73853.4,
+										"2014": 23007.93
+									}
+								}
+							},
+							{
+								"id": "3761",
+								"name": "Fica Taxes",
+								"gross_cost": {
+									"accounts": {
+										"2013": 60103.78,
+										"2014": 11774.68
+									}
+								}
+							},
+							{
+								"id": "3762",
+								"name": "Medical Health & Welfare Credit",
+								"gross_cost": {
+									"accounts": {
+										"2013": 62031.39,
+										"2014": 213429.54
+									}
+								}
+							},
+							{
+								"id": "3763",
+								"name": "Group Life Insurance",
+								"gross_cost": {
+									"accounts": {
+										"2013": 438.08,
+										"2014": 136.89
+									}
+								}
+							},
+							{
+								"id": "3764",
+								"name": "Group Legal Insurance",
+								"gross_cost": {
+									"accounts": {
+										"2013": 540,
+										"2014": 384
+									}
+								}
+							}
+						]
+					}
+				]
+			},
+			{
+				"id": "3731",
+				"name": "Revenue",
+				"gross_cost": {
+					"accounts": {
+						"2013": 0,
+						"2014": 30000
+					}
+				},
+				"children": [
+					{
+						"id": "3765",
+						"name": "Personal Services",
+						"gross_cost": {
+							"accounts": {
+								"2013": 0,
+								"2014": 30000
+							}
+						},
+						"children": [
+							{
+								"id": "3766",
+								"name": "Perm Full Time-civilian",
+								"gross_cost": {
+									"accounts": {
+										"2013": 0,
+										"2014": 30000
+									}
+								}
+							}
+						]
+					}
+				]
+			}
+		]
+	},
+	{
+		"id": "6",
+		"name": "Hotel Tax Fund",
+		"gross_cost": {
+			"accounts": {
+				"2013": 50542000,
+				"2014": 56321000
+			}
+		},
+		"children": [
+			{
+				"id": "2486",
+				"name": "Commerce",
+				"gross_cost": {
+					"accounts": {
+						"2013": 50542000,
+						"2014": 56321000
+					}
+				},
+				"children": [
+					{
+						"id": "2487",
+						"name": "Contributions Indemnities Refds Taxes",
+						"gross_cost": {
+							"accounts": {
+								"2013": 50542000,
+								"2014": 56321000
+							}
+						},
+						"children": [
+							{
+								"id": "2488",
+								"name": "Contributions-gov & Non-prof Not Ed",
+								"gross_cost": {
+									"accounts": {
+										"2013": 50542000,
+										"2014": 56321000
+									}
+								}
+							}
+						]
+					}
+				]
+			}
+		]
+	},
+	{
 		"id": "9",
 		"name": "Community Development Fund",
 		"gross_cost": {
@@ -38174,42 +38034,354 @@
 		]
 	},
 	{
-		"id": "10",
-		"name": "Car Rental Tax Fund",
+		"id": "4",
+		"name": "Special Gasoline Tax Fund",
 		"gross_cost": {
 			"accounts": {
-				"2013": 5000000,
-				"2014": 5000000
+				"2013": 23099404.240000002,
+				"2014": 24059496.26
 			}
 		},
 		"children": [
 			{
-				"id": "3721",
-				"name": "Sinking Fund Commission",
+				"id": "2442",
+				"name": "Streets",
 				"gross_cost": {
 					"accounts": {
-						"2013": 5000000,
-						"2014": 5000000
+						"2013": 22099404.240000002,
+						"2014": 23059496.26
 					}
 				},
 				"children": [
 					{
-						"id": "3722",
-						"name": "Purchase of Services",
+						"id": "2444",
+						"name": "Personal Services",
 						"gross_cost": {
 							"accounts": {
-								"2013": 5000000,
-								"2014": 5000000
+								"2013": 3999999.9999999995,
+								"2014": 4000000.0000000005
 							}
 						},
 						"children": [
 							{
-								"id": "3723",
+								"id": "2449",
+								"name": "Perm Full Time-civilian",
+								"gross_cost": {
+									"accounts": {
+										"2013": 3004859.57,
+										"2014": 2892536.47
+									}
+								}
+							},
+							{
+								"id": "2450",
+								"name": "Dual/relief-full Time-civilian",
+								"gross_cost": {
+									"accounts": {
+										"2013": 234699.14,
+										"2014": 189115.4
+									}
+								}
+							},
+							{
+								"id": "2451",
+								"name": "Plus/minus Gross Adj",
+								"gross_cost": {
+									"accounts": {
+										"2013": 31045.45,
+										"2014": 19816.7
+									}
+								}
+							},
+							{
+								"id": "2452",
+								"name": "Overtime Civilian",
+								"gross_cost": {
+									"accounts": {
+										"2013": 619546.84,
+										"2014": 830070.75
+									}
+								}
+							},
+							{
+								"id": "2453",
+								"name": "Overtime Shift Dual Relief",
+								"gross_cost": {
+									"accounts": {
+										"2013": 58870.54,
+										"2014": 63165.37
+									}
+								}
+							},
+							{
+								"id": "2454",
+								"name": "Holiday \"g\"(2/3 Shifts)",
+								"gross_cost": {
+									"accounts": {
+										"2013": 22990.9,
+										"2014": 4682.12
+									}
+								}
+							},
+							{
+								"id": "2455",
+								"name": "Holiday \"g\"(2/3 Shift) Dual/relief",
+								"gross_cost": {
+									"accounts": {
+										"2013": 2006.63,
+										"2014": 0
+									}
+								}
+							},
+							{
+								"id": "2456",
+								"name": "Shift",
+								"gross_cost": {
+									"accounts": {
+										"2013": 15861.61,
+										"2014": 613.19
+									}
+								}
+							},
+							{
+								"id": "2457",
+								"name": "Sick Pay(b Time)-civilian",
+								"gross_cost": {
+									"accounts": {
+										"2013": 10119.32,
+										"2014": 0
+									}
+								}
+							}
+						]
+					},
+					{
+						"id": "2445",
+						"name": "Purchase of Services",
+						"gross_cost": {
+							"accounts": {
+								"2013": 14368129.489999998,
+								"2014": 13251033.62
+							}
+						},
+						"children": [
+							{
+								"id": "2458",
+								"name": "Refuse/garbage/silt/sludge Removal",
+								"gross_cost": {
+									"accounts": {
+										"2013": 297615,
+										"2014": 266887.5
+									}
+								}
+							},
+							{
+								"id": "2459",
+								"name": "Electric Current-structures/streets",
+								"gross_cost": {
+									"accounts": {
+										"2013": 12679841.04,
+										"2014": 11690656
+									}
+								}
+							},
+							{
+								"id": "2460",
+								"name": "Repair and Maintenance Charges",
+								"gross_cost": {
+									"accounts": {
+										"2013": 1187226.7,
+										"2014": 1013390.12
+									}
+								}
+							},
+							{
+								"id": "2461",
 								"name": "Rents",
 								"gross_cost": {
 									"accounts": {
-										"2013": 5000000,
-										"2014": 5000000
+										"2013": 203446.75,
+										"2014": 280100
+									}
+								}
+							}
+						]
+					},
+					{
+						"id": "2446",
+						"name": "Materials and Supplies",
+						"gross_cost": {
+							"accounts": {
+								"2013": 2988029.79,
+								"2014": 5573599.12
+							}
+						},
+						"children": [
+							{
+								"id": "2462",
+								"name": "Building and Construction",
+								"gross_cost": {
+									"accounts": {
+										"2013": 1342485.78,
+										"2014": 1615720.77
+									}
+								}
+							},
+							{
+								"id": "2463",
+								"name": "Chemicals and Gases",
+								"gross_cost": {
+									"accounts": {
+										"2013": 915325,
+										"2014": 3410460.24
+									}
+								}
+							},
+							{
+								"id": "2464",
+								"name": "Electrical and Communication",
+								"gross_cost": {
+									"accounts": {
+										"2013": 668026.01,
+										"2014": 481340.65
+									}
+								}
+							},
+							{
+								"id": "2465",
+								"name": "General Hardware and Minor Tools",
+								"gross_cost": {
+									"accounts": {
+										"2013": 62069,
+										"2014": 63864.96
+									}
+								}
+							},
+							{
+								"id": "2466",
+								"name": "Small Power Tools and Hand Tools",
+								"gross_cost": {
+									"accounts": {
+										"2013": 124,
+										"2014": 0
+									}
+								}
+							},
+							{
+								"id": "2467",
+								"name": "Fire Fighting and Safety",
+								"gross_cost": {
+									"accounts": {
+										"2013": 0,
+										"2014": 2212.5
+									}
+								}
+							}
+						]
+					},
+					{
+						"id": "2447",
+						"name": "Equipment",
+						"gross_cost": {
+							"accounts": {
+								"2013": 723244.96,
+								"2014": 214863.52
+							}
+						},
+						"children": [
+							{
+								"id": "2468",
+								"name": "Electrical Lighting Communication",
+								"gross_cost": {
+									"accounts": {
+										"2013": 22000,
+										"2014": 0
+									}
+								}
+							},
+							{
+								"id": "2469",
+								"name": "General Equipment and Machinery",
+								"gross_cost": {
+									"accounts": {
+										"2013": 16583,
+										"2014": 0
+									}
+								}
+							},
+							{
+								"id": "2470",
+								"name": "Vehicles -- Motor and Motorless",
+								"gross_cost": {
+									"accounts": {
+										"2013": 684661.96,
+										"2014": 214863.52
+									}
+								}
+							}
+						]
+					},
+					{
+						"id": "2448",
+						"name": "Payments to Other Funds",
+						"gross_cost": {
+							"accounts": {
+								"2013": 20000,
+								"2014": 20000
+							}
+						},
+						"children": [
+							{
+								"id": "2471",
+								"name": "Payments to General Fund",
+								"gross_cost": {
+									"accounts": {
+										"2013": 20000,
+										"2014": 20000
+									}
+								}
+							}
+						]
+					}
+				]
+			},
+			{
+				"id": "2443",
+				"name": "Director of Finance",
+				"gross_cost": {
+					"accounts": {
+						"2013": 1000000,
+						"2014": 1000000
+					}
+				},
+				"children": [
+					{
+						"id": "2472",
+						"name": "Personal Services",
+						"gross_cost": {
+							"accounts": {
+								"2013": 1000000,
+								"2014": 1000000
+							}
+						},
+						"children": [
+							{
+								"id": "2473",
+								"name": "Pension Actual",
+								"gross_cost": {
+									"accounts": {
+										"2013": 500000,
+										"2014": 500000
+									}
+								}
+							},
+							{
+								"id": "2474",
+								"name": "Medical Health & Welfare Credit",
+								"gross_cost": {
+									"accounts": {
+										"2013": 500000,
+										"2014": 500000
 									}
 								}
 							}
@@ -38278,418 +38450,6 @@
 									"accounts": {
 										"2013": 13288724,
 										"2014": 20550000
-									}
-								}
-							}
-						]
-					}
-				]
-			}
-		]
-	},
-	{
-		"id": "12",
-		"name": "Acute Care Hospital Assessment Fd",
-		"gross_cost": {
-			"accounts": {
-				"2013": 148033285.5,
-				"2014": 157492102.96
-			}
-		},
-		"children": [
-			{
-				"id": "3729",
-				"name": "Health",
-				"gross_cost": {
-					"accounts": {
-						"2013": 147719504.66,
-						"2014": 157128934.96
-					}
-				},
-				"children": [
-					{
-						"id": "3732",
-						"name": "Personal Services",
-						"gross_cost": {
-							"accounts": {
-								"2013": 2655453.4000000004,
-								"2014": 3219812.11
-							}
-						},
-						"children": [
-							{
-								"id": "3737",
-								"name": "Salary Control",
-								"gross_cost": {
-									"accounts": {
-										"2013": 1648.7,
-										"2014": 0
-									}
-								}
-							},
-							{
-								"id": "3738",
-								"name": "Perm Full Time-civilian",
-								"gross_cost": {
-									"accounts": {
-										"2013": 349383.46,
-										"2014": 555061.24
-									}
-								}
-							},
-							{
-								"id": "3739",
-								"name": "Plus/minus Gross Adj",
-								"gross_cost": {
-									"accounts": {
-										"2013": 17511.26,
-										"2014": 57585.67
-									}
-								}
-							},
-							{
-								"id": "3740",
-								"name": "Perm Part Time",
-								"gross_cost": {
-									"accounts": {
-										"2013": 2266833.64,
-										"2014": 2585975.19
-									}
-								}
-							},
-							{
-								"id": "3741",
-								"name": "Overtime Civilian",
-								"gross_cost": {
-									"accounts": {
-										"2013": 19872.91,
-										"2014": 20936.19
-									}
-								}
-							},
-							{
-								"id": "3742",
-								"name": "Shift",
-								"gross_cost": {
-									"accounts": {
-										"2013": 203.43,
-										"2014": 253.82
-									}
-								}
-							}
-						]
-					},
-					{
-						"id": "3733",
-						"name": "Purchase of Services",
-						"gross_cost": {
-							"accounts": {
-								"2013": 142058995.82,
-								"2014": 152404374.58
-							}
-						},
-						"children": [
-							{
-								"id": "3743",
-								"name": "Commercial Off-shelf Comp Software",
-								"gross_cost": {
-									"accounts": {
-										"2013": 31666.92,
-										"2014": 34491.46
-									}
-								}
-							},
-							{
-								"id": "3744",
-								"name": "Professional Consult/spec Services",
-								"gross_cost": {
-									"accounts": {
-										"2013": 142023182.8,
-										"2014": 152237223.4
-									}
-								}
-							},
-							{
-								"id": "3745",
-								"name": "Information Technology-prof Service",
-								"gross_cost": {
-									"accounts": {
-										"2013": 824.65,
-										"2014": 16082.63
-									}
-								}
-							},
-							{
-								"id": "3746",
-								"name": "Maint/support-computr Hardware/soft",
-								"gross_cost": {
-									"accounts": {
-										"2013": 3321.45,
-										"2014": 3545.74
-									}
-								}
-							},
-							{
-								"id": "3747",
-								"name": "Telephone",
-								"gross_cost": {
-									"accounts": {
-										"2013": 0,
-										"2014": 100537.95
-									}
-								}
-							},
-							{
-								"id": "3748",
-								"name": "Meals-non-travel & Officl Entertain",
-								"gross_cost": {
-									"accounts": {
-										"2013": 0,
-										"2014": 12493.4
-									}
-								}
-							}
-						]
-					},
-					{
-						"id": "3734",
-						"name": "Materials and Supplies",
-						"gross_cost": {
-							"accounts": {
-								"2013": 5055.4400000000005,
-								"2014": 3632.37
-							}
-						},
-						"children": [
-							{
-								"id": "3749",
-								"name": "Dry Goods/notions/wearing Apparel",
-								"gross_cost": {
-									"accounts": {
-										"2013": 300,
-										"2014": 300
-									}
-								}
-							},
-							{
-								"id": "3750",
-								"name": "Electrical and Communication",
-								"gross_cost": {
-									"accounts": {
-										"2013": 698,
-										"2014": 274
-									}
-								}
-							},
-							{
-								"id": "3751",
-								"name": "Office Materials and Supplies",
-								"gross_cost": {
-									"accounts": {
-										"2013": 3527.94,
-										"2014": 2918.37
-									}
-								}
-							},
-							{
-								"id": "3752",
-								"name": "Printing",
-								"gross_cost": {
-									"accounts": {
-										"2013": 529.5,
-										"2014": 140
-									}
-								}
-							}
-						]
-					},
-					{
-						"id": "3735",
-						"name": "Payments to Other Funds",
-						"gross_cost": {
-							"accounts": {
-								"2013": 3000000,
-								"2014": 1500000
-							}
-						},
-						"children": [
-							{
-								"id": "3753",
-								"name": "Payments to Capital Projects Fund",
-								"gross_cost": {
-									"accounts": {
-										"2013": 3000000,
-										"2014": 1500000
-									}
-								}
-							}
-						]
-					},
-					{
-						"id": "3736",
-						"name": "Equipment",
-						"gross_cost": {
-							"accounts": {
-								"2013": 0,
-								"2014": 1115.9
-							}
-						},
-						"children": [
-							{
-								"id": "3754",
-								"name": "Computer Equipment & Peripherals",
-								"gross_cost": {
-									"accounts": {
-										"2013": 0,
-										"2014": 1115.9
-									}
-								}
-							}
-						]
-					}
-				]
-			},
-			{
-				"id": "3730",
-				"name": "Director of Finance",
-				"gross_cost": {
-					"accounts": {
-						"2013": 313780.84,
-						"2014": 333168
-					}
-				},
-				"children": [
-					{
-						"id": "3755",
-						"name": "Personal Services",
-						"gross_cost": {
-							"accounts": {
-								"2013": 313780.84,
-								"2014": 333168
-							}
-						},
-						"children": [
-							{
-								"id": "3756",
-								"name": "Perm Full Time-civilian",
-								"gross_cost": {
-									"accounts": {
-										"2013": 75000,
-										"2014": 75000
-									}
-								}
-							},
-							{
-								"id": "3757",
-								"name": "Worker's Comp-disability Comp",
-								"gross_cost": {
-									"accounts": {
-										"2013": 10922.66,
-										"2014": 2596.37
-									}
-								}
-							},
-							{
-								"id": "3758",
-								"name": "Medicare Tax",
-								"gross_cost": {
-									"accounts": {
-										"2013": 17813.95,
-										"2014": 2753.75
-									}
-								}
-							},
-							{
-								"id": "3759",
-								"name": "Pension-obligation Bond Payments",
-								"gross_cost": {
-									"accounts": {
-										"2013": 13077.58,
-										"2014": 4084.84
-									}
-								}
-							},
-							{
-								"id": "3760",
-								"name": "Pension Actual",
-								"gross_cost": {
-									"accounts": {
-										"2013": 73853.4,
-										"2014": 23007.93
-									}
-								}
-							},
-							{
-								"id": "3761",
-								"name": "Fica Taxes",
-								"gross_cost": {
-									"accounts": {
-										"2013": 60103.78,
-										"2014": 11774.68
-									}
-								}
-							},
-							{
-								"id": "3762",
-								"name": "Medical Health & Welfare Credit",
-								"gross_cost": {
-									"accounts": {
-										"2013": 62031.39,
-										"2014": 213429.54
-									}
-								}
-							},
-							{
-								"id": "3763",
-								"name": "Group Life Insurance",
-								"gross_cost": {
-									"accounts": {
-										"2013": 438.08,
-										"2014": 136.89
-									}
-								}
-							},
-							{
-								"id": "3764",
-								"name": "Group Legal Insurance",
-								"gross_cost": {
-									"accounts": {
-										"2013": 540,
-										"2014": 384
-									}
-								}
-							}
-						]
-					}
-				]
-			},
-			{
-				"id": "3731",
-				"name": "Revenue",
-				"gross_cost": {
-					"accounts": {
-						"2013": 0,
-						"2014": 30000
-					}
-				},
-				"children": [
-					{
-						"id": "3765",
-						"name": "Personal Services",
-						"gross_cost": {
-							"accounts": {
-								"2013": 0,
-								"2014": 30000
-							}
-						},
-						"children": [
-							{
-								"id": "3766",
-								"name": "Perm Full Time-civilian",
-								"gross_cost": {
-									"accounts": {
-										"2013": 0,
-										"2014": 30000
 									}
 								}
 							}
@@ -39194,6 +38954,246 @@
 									"accounts": {
 										"2013": 179565.19,
 										"2014": 178884.88
+									}
+								}
+							}
+						]
+					}
+				]
+			}
+		]
+	},
+	{
+		"id": "10",
+		"name": "Car Rental Tax Fund",
+		"gross_cost": {
+			"accounts": {
+				"2013": 5000000,
+				"2014": 5000000
+			}
+		},
+		"children": [
+			{
+				"id": "3721",
+				"name": "Sinking Fund Commission",
+				"gross_cost": {
+					"accounts": {
+						"2013": 5000000,
+						"2014": 5000000
+					}
+				},
+				"children": [
+					{
+						"id": "3722",
+						"name": "Purchase of Services",
+						"gross_cost": {
+							"accounts": {
+								"2013": 5000000,
+								"2014": 5000000
+							}
+						},
+						"children": [
+							{
+								"id": "3723",
+								"name": "Rents",
+								"gross_cost": {
+									"accounts": {
+										"2013": 5000000,
+										"2014": 5000000
+									}
+								}
+							}
+						]
+					}
+				]
+			}
+		]
+	},
+	{
+		"id": "3",
+		"name": "County Liquid Fuels Tax Fund",
+		"gross_cost": {
+			"accounts": {
+				"2013": 4839474,
+				"2014": 4878577.05
+			}
+		},
+		"children": [
+			{
+				"id": "2425",
+				"name": "Streets",
+				"gross_cost": {
+					"accounts": {
+						"2013": 4839474,
+						"2014": 4878577.05
+					}
+				},
+				"children": [
+					{
+						"id": "2426",
+						"name": "Personal Services",
+						"gross_cost": {
+							"accounts": {
+								"2013": 3733999.9999999995,
+								"2014": 3734000
+							}
+						},
+						"children": [
+							{
+								"id": "2431",
+								"name": "Perm Full Time-civilian",
+								"gross_cost": {
+									"accounts": {
+										"2013": 3172221.58,
+										"2014": 3022008.95
+									}
+								}
+							},
+							{
+								"id": "2432",
+								"name": "Dual/relief-full Time-civilian",
+								"gross_cost": {
+									"accounts": {
+										"2013": 118629.69,
+										"2014": 0
+									}
+								}
+							},
+							{
+								"id": "2433",
+								"name": "Overtime Civilian",
+								"gross_cost": {
+									"accounts": {
+										"2013": 394031.32,
+										"2014": 711991.05
+									}
+								}
+							},
+							{
+								"id": "2434",
+								"name": "Overtime Shift Dual Relief",
+								"gross_cost": {
+									"accounts": {
+										"2013": 41652.51,
+										"2014": 0
+									}
+								}
+							},
+							{
+								"id": "2435",
+								"name": "Holiday \"g\"(2/3 Shifts)",
+								"gross_cost": {
+									"accounts": {
+										"2013": 7464.9,
+										"2014": 0
+									}
+								}
+							}
+						]
+					},
+					{
+						"id": "2427",
+						"name": "Purchase of Services",
+						"gross_cost": {
+							"accounts": {
+								"2013": 856000,
+								"2014": 856000
+							}
+						},
+						"children": [
+							{
+								"id": "2436",
+								"name": "Electric Current-structures/streets",
+								"gross_cost": {
+									"accounts": {
+										"2013": 651000,
+										"2014": 651000
+									}
+								}
+							},
+							{
+								"id": "2437",
+								"name": "Repair and Maintenance Charges",
+								"gross_cost": {
+									"accounts": {
+										"2013": 205000,
+										"2014": 205000
+									}
+								}
+							}
+						]
+					},
+					{
+						"id": "2428",
+						"name": "Materials and Supplies",
+						"gross_cost": {
+							"accounts": {
+								"2013": 230804,
+								"2014": 167978.97
+							}
+						},
+						"children": [
+							{
+								"id": "2438",
+								"name": "Building and Construction",
+								"gross_cost": {
+									"accounts": {
+										"2013": 210804,
+										"2014": 156860
+									}
+								}
+							},
+							{
+								"id": "2439",
+								"name": "General Equipment and Machinery",
+								"gross_cost": {
+									"accounts": {
+										"2013": 20000,
+										"2014": 11118.97
+									}
+								}
+							}
+						]
+					},
+					{
+						"id": "2429",
+						"name": "Payments to Other Funds",
+						"gross_cost": {
+							"accounts": {
+								"2013": 18670,
+								"2014": 18670
+							}
+						},
+						"children": [
+							{
+								"id": "2440",
+								"name": "Payments to General Fund",
+								"gross_cost": {
+									"accounts": {
+										"2013": 18670,
+										"2014": 18670
+									}
+								}
+							}
+						]
+					},
+					{
+						"id": "2430",
+						"name": "Equipment",
+						"gross_cost": {
+							"accounts": {
+								"2013": 0,
+								"2014": 101928.08
+							}
+						},
+						"children": [
+							{
+								"id": "2441",
+								"name": "Vehicles -- Motor and Motorless",
+								"gross_cost": {
+									"accounts": {
+										"2013": 0,
+										"2014": 101928.08
 									}
 								}
 							}
