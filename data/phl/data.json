@@ -1,7 +1,7 @@
 [
 	{
 		"id": "1",
-		"name": "General Operating Fd",
+		"name": "General Operating Fund",
 		"gross_cost": {
 			"accounts": {
 				"2013": 3605400551.979998,
@@ -31035,7 +31035,7 @@
 	},
 	{
 		"id": "5",
-		"name": "Healthchoices Behavioral Health Fd",
+		"name": "Healthchoices Behavioral Health Fund",
 		"gross_cost": {
 			"accounts": {
 				"2013": 816130655.85,
@@ -36707,7 +36707,7 @@
 	},
 	{
 		"id": "12",
-		"name": "Acute Care Hospital Assessment Fd",
+		"name": "Acute Care Hospital Assessment Fund",
 		"gross_cost": {
 			"accounts": {
 				"2013": 148033285.5,
