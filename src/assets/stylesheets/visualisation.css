@@ -15,6 +15,9 @@ html {
   margin: 0 auto;
   width: 100%; }
 
+#faq {
+  display: none; }
+
 a {
   color: #027ea4;
   font-weight: 700; }
@@ -24,7 +27,6 @@ a {
 
 h1, h2 {
   font-weight: normal;
-  text-align: center;
   color: #000000;
   margin: 0;
   font-family: 'Montserrat', 'Tahoma', sans-serif;

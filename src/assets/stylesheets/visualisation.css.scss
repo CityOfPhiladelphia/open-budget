@@ -41,6 +41,10 @@ html {
   width: 100%;
 }
 
+#faq {
+  display: none;
+}
+
 a {
   color:$ben-franklin-blue;
   font-weight: 700;
@@ -52,7 +56,6 @@ a {
 
 h1, h2 {
   font-weight:normal;
-  text-align:center;
   color:$black;
   margin:0;
   font-family: $secondary-font;
