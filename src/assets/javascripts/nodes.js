@@ -284,7 +284,7 @@ OpenBudget.nodes = (function() {
                 var recursiveReferencing = function(someNodes) {
                     _.each(someNodes, function(value) {
                         if(!value.depth) {
-                            value.center = 'middle';//centers[value.type == 'gross_cost' ? 'left' : 'right'];
+                            value.center = centers['middle'];//centers[value.type == 'gross_cost' ? 'left' : 'right'];
                             /*if(value.type == 'surplus') {
                                 value.center = centers['middle'];
                             }*/
