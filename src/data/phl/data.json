@@ -1311,7 +1311,7 @@
 			},
 			{
 				"id": "45",
-				"name": "L&i  - Board of Building Standards",
+				"name": "L&I  - Board of Building Standards",
 				"gross_cost": {
 					"accounts": {
 						"2015": 73229,
@@ -1333,7 +1333,7 @@
 			},
 			{
 				"id": "46",
-				"name": "L&i  - Board of L&i Review",
+				"name": "L&I  - Board of L&I Review",
 				"gross_cost": {
 					"accounts": {
 						"2015": 163628,
@@ -1365,7 +1365,7 @@
 			},
 			{
 				"id": "47",
-				"name": "L&i  - Zoning Board of Adjustment",
+				"name": "L&I  - Zoning Board of Adjustment",
 				"gross_cost": {
 					"accounts": {
 						"2015": 357397,
@@ -1795,7 +1795,7 @@
 			},
 			{
 				"id": "57",
-				"name": "Office of Behavioral Health and Intellectual Disabilities",
+				"name": "Office of Behavioral Health and Intellectual disAbilities",
 				"gross_cost": {
 					"accounts": {
 						"2015": 13944680,
@@ -2471,7 +2471,7 @@
 			},
 			{
 				"id": "70",
-				"name": "Public Property - Septa Subsidy",
+				"name": "Public Property - SEPTA Subsidy",
 				"gross_cost": {
 					"accounts": {
 						"2015": 70415000,
@@ -2711,7 +2711,7 @@
 			},
 			{
 				"id": "75",
-				"name": "Sinking Fund Commission (debt Service)",
+				"name": "Sinking Fund Commission (Debt Service)",
 				"gross_cost": {
 					"accounts": {
 						"2015": 247795565,
@@ -2857,7 +2857,7 @@
 			},
 			{
 				"id": "78",
-				"name": "Mayor's Office of Community Services (now Ceo)",
+				"name": "Mayor's Office of Community Services (now CEO)",
 				"gross_cost": {
 					"accounts": {
 						"2015": 0,
@@ -3509,7 +3509,7 @@
 			},
 			{
 				"id": "328",
-				"name": "Mayor's Office of Community Services (now Ceo)",
+				"name": "Mayor's Office of Community Services (now CEO)",
 				"gross_cost": {
 					"accounts": {
 						"2015": 16810562,
@@ -3603,7 +3603,7 @@
 			},
 			{
 				"id": "330",
-				"name": "Office of Behavioral Health and Intellectual Disabilities",
+				"name": "Office of Behavioral Health and Intellectual disAbilities",
 				"gross_cost": {
 					"accounts": {
 						"2015": 254866618,
@@ -4143,7 +4143,7 @@
 		"children": [
 			{
 				"id": "309",
-				"name": "Office of Behavioral Health and Intellectual Disabilities",
+				"name": "Office of Behavioral Health and Intellectual disAbilities",
 				"gross_cost": {
 					"accounts": {
 						"2015": 932552000,
@@ -4523,7 +4523,7 @@
 			},
 			{
 				"id": "466",
-				"name": "Sinking Fund Commission (debt Service)",
+				"name": "Sinking Fund Commission (Debt Service)",
 				"gross_cost": {
 					"accounts": {
 						"2015": 213189924,
@@ -5133,7 +5133,7 @@
 			},
 			{
 				"id": "516",
-				"name": "Sinking Fund Commission (debt Service)",
+				"name": "Sinking Fund Commission (Debt Service)",
 				"gross_cost": {
 					"accounts": {
 						"2015": 149463357,
@@ -5985,7 +5985,7 @@
 		"children": [
 			{
 				"id": "453",
-				"name": "Sinking Fund Commission (debt Service)",
+				"name": "Sinking Fund Commission (Debt Service)",
 				"gross_cost": {
 					"accounts": {
 						"2015": 6000000,
