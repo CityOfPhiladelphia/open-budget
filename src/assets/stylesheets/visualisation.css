@@ -11,9 +11,6 @@ html, body {
 html {
   position: relative; }
 
-body {
-  margin-bottom: 40px; }
-
 .container-full {
   margin: 0 auto;
   width: 100%; }
@@ -34,11 +31,11 @@ h1, h2 {
   text-transform: uppercase; }
 
 h1 {
-  font-size: 20px;
+  font-size: 30px;
   line-height: 41px; }
 
 h2 {
-  font-size: 16px;
+  font-size: 20px;
   line-height: 30px; }
 
 header.site-header {
@@ -52,13 +49,13 @@ header.site-header {
     margin-right: 20px; }
   header.site-header .pagetitle {
     display: inline;
-    vertical-align: 50%; }
+    vertical-align: middle; }
 
 .divider {
   width: 100%;
-  background: #DBE1E3;
-  height: 1px;
-  }
+  background: #027ea4;
+  height: 10px;
+  padding-top: 10px; }
 
 #tooltip {
   font-size: 12px;
