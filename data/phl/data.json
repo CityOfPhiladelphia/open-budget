@@ -4,7 +4,7 @@
 		"name": "General Fund",
 		"gross_cost": {
 			"accounts": {
-				"2015": 4524565000,
+				"2015": 3865320415,
 				"2016": 3954961000
 			}
 		},
@@ -36,7 +36,7 @@
 				"name": "Atwater Kent Museum",
 				"gross_cost": {
 					"accounts": {
-						"2015": 284719,
+						"2015": 293200,
 						"2016": 293498
 					}
 				},
@@ -46,7 +46,7 @@
 						"name": "Personal Services",
 						"gross_cost": {
 							"accounts": {
-								"2015": 234719,
+								"2015": 243200,
 								"2016": 243498
 							}
 						}
@@ -68,7 +68,7 @@
 				"name": "Auditing",
 				"gross_cost": {
 					"accounts": {
-						"2015": 8072137,
+						"2015": 8335478,
 						"2016": 8295335
 					}
 				},
@@ -78,7 +78,7 @@
 						"name": "Personal Services",
 						"gross_cost": {
 							"accounts": {
-								"2015": 7549687,
+								"2015": 7673028,
 								"2016": 7772885
 							}
 						}
@@ -88,7 +88,7 @@
 						"name": "Purchase of Services",
 						"gross_cost": {
 							"accounts": {
-								"2015": 497450,
+								"2015": 637450,
 								"2016": 497450
 							}
 						}
@@ -98,18 +98,8 @@
 						"name": "Materials and Supplies",
 						"gross_cost": {
 							"accounts": {
-								"2015": 15000,
+								"2015": 25000,
 								"2016": 25000
-							}
-						}
-					},
-					{
-						"id": "86",
-						"name": "Equipment",
-						"gross_cost": {
-							"accounts": {
-								"2015": 10000,
-								"2016": 0
 							}
 						}
 					}
@@ -120,23 +110,23 @@
 				"name": "Board of Ethics",
 				"gross_cost": {
 					"accounts": {
-						"2015": 1004854,
+						"2015": 1028580,
 						"2016": 1034511
 					}
 				},
 				"children": [
 					{
-						"id": "87",
+						"id": "86",
 						"name": "Personal Services",
 						"gross_cost": {
 							"accounts": {
-								"2015": 894854,
+								"2015": 918580,
 								"2016": 924511
 							}
 						}
 					},
 					{
-						"id": "88",
+						"id": "87",
 						"name": "Purchase of Services",
 						"gross_cost": {
 							"accounts": {
@@ -146,22 +136,12 @@
 						}
 					},
 					{
-						"id": "89",
+						"id": "88",
 						"name": "Materials and Supplies",
 						"gross_cost": {
 							"accounts": {
-								"2015": 7000,
+								"2015": 14000,
 								"2016": 14000
-							}
-						}
-					},
-					{
-						"id": "90",
-						"name": "Equipment",
-						"gross_cost": {
-							"accounts": {
-								"2015": 7000,
-								"2016": 0
 							}
 						}
 					}
@@ -172,48 +152,38 @@
 				"name": "Board of Revision of Taxes",
 				"gross_cost": {
 					"accounts": {
-						"2015": 832587,
+						"2015": 1015860,
 						"2016": 855554
 					}
 				},
 				"children": [
 					{
-						"id": "91",
+						"id": "89",
 						"name": "Personal Services",
 						"gross_cost": {
 							"accounts": {
-								"2015": 796660,
+								"2015": 964933,
 								"2016": 819627
 							}
 						}
 					},
 					{
-						"id": "92",
+						"id": "90",
 						"name": "Purchase of Services",
 						"gross_cost": {
 							"accounts": {
-								"2015": 20200,
+								"2015": 35200,
 								"2016": 20200
 							}
 						}
 					},
 					{
-						"id": "93",
+						"id": "91",
 						"name": "Materials and Supplies",
 						"gross_cost": {
 							"accounts": {
-								"2015": 8727,
+								"2015": 15727,
 								"2016": 15727
-							}
-						}
-					},
-					{
-						"id": "94",
-						"name": "Equipment",
-						"gross_cost": {
-							"accounts": {
-								"2015": 7000,
-								"2016": 0
 							}
 						}
 					}
@@ -224,23 +194,23 @@
 				"name": "City Commissioners",
 				"gross_cost": {
 					"accounts": {
-						"2015": 9419814,
+						"2015": 9736352,
 						"2016": 9663243
 					}
 				},
 				"children": [
 					{
-						"id": "95",
+						"id": "92",
 						"name": "Personal Services",
 						"gross_cost": {
 							"accounts": {
-								"2015": 5387427,
+								"2015": 5703965,
 								"2016": 5624276
 							}
 						}
 					},
 					{
-						"id": "96",
+						"id": "93",
 						"name": "Purchase of Services",
 						"gross_cost": {
 							"accounts": {
@@ -250,22 +220,12 @@
 						}
 					},
 					{
-						"id": "97",
+						"id": "94",
 						"name": "Materials and Supplies",
 						"gross_cost": {
 							"accounts": {
-								"2015": 473619,
+								"2015": 541617,
 								"2016": 541617
-							}
-						}
-					},
-					{
-						"id": "98",
-						"name": "Equipment",
-						"gross_cost": {
-							"accounts": {
-								"2015": 67998,
-								"2016": 0
 							}
 						}
 					}
@@ -276,23 +236,23 @@
 				"name": "City Council",
 				"gross_cost": {
 					"accounts": {
-						"2015": 16314559,
+						"2015": 16656700,
 						"2016": 16525293
 					}
 				},
 				"children": [
 					{
-						"id": "99",
+						"id": "95",
 						"name": "Personal Services",
 						"gross_cost": {
 							"accounts": {
-								"2015": 13899124,
+								"2015": 14241265,
 								"2016": 14309858
 							}
 						}
 					},
 					{
-						"id": "100",
+						"id": "96",
 						"name": "Purchase of Services",
 						"gross_cost": {
 							"accounts": {
@@ -302,27 +262,17 @@
 						}
 					},
 					{
-						"id": "101",
+						"id": "97",
 						"name": "Materials and Supplies",
 						"gross_cost": {
 							"accounts": {
-								"2015": 261000,
+								"2015": 410650,
 								"2016": 410650
 							}
 						}
 					},
 					{
-						"id": "102",
-						"name": "Equipment",
-						"gross_cost": {
-							"accounts": {
-								"2015": 149650,
-								"2016": 0
-							}
-						}
-					},
-					{
-						"id": "103",
+						"id": "98",
 						"name": "Contributions, Indemnities, Refunds, Taxes",
 						"gross_cost": {
 							"accounts": {
@@ -332,7 +282,7 @@
 						}
 					},
 					{
-						"id": "104",
+						"id": "99",
 						"name": "Payments to Other Funds",
 						"gross_cost": {
 							"accounts": {
@@ -342,7 +292,7 @@
 						}
 					},
 					{
-						"id": "105",
+						"id": "100",
 						"name": "Advances & Other Misc Payments",
 						"gross_cost": {
 							"accounts": {
@@ -358,23 +308,23 @@
 				"name": "City Planning Commission",
 				"gross_cost": {
 					"accounts": {
-						"2015": 2372828,
+						"2015": 2379667,
 						"2016": 2429778
 					}
 				},
 				"children": [
 					{
-						"id": "106",
+						"id": "101",
 						"name": "Personal Services",
 						"gross_cost": {
 							"accounts": {
-								"2015": 2252584,
+								"2015": 2259423,
 								"2016": 2309534
 							}
 						}
 					},
 					{
-						"id": "107",
+						"id": "102",
 						"name": "Purchase of Services",
 						"gross_cost": {
 							"accounts": {
@@ -384,22 +334,12 @@
 						}
 					},
 					{
-						"id": "108",
+						"id": "103",
 						"name": "Materials and Supplies",
 						"gross_cost": {
 							"accounts": {
-								"2015": 30652,
+								"2015": 40652,
 								"2016": 40652
-							}
-						}
-					},
-					{
-						"id": "109",
-						"name": "Equipment",
-						"gross_cost": {
-							"accounts": {
-								"2015": 10000,
-								"2016": 0
 							}
 						}
 					}
@@ -410,23 +350,23 @@
 				"name": "City Representative",
 				"gross_cost": {
 					"accounts": {
-						"2015": 1019088,
+						"2015": 1029351,
 						"2016": 1033931
 					}
 				},
 				"children": [
 					{
-						"id": "110",
+						"id": "104",
 						"name": "Personal Services",
 						"gross_cost": {
 							"accounts": {
-								"2015": 403358,
+								"2015": 413621,
 								"2016": 418201
 							}
 						}
 					},
 					{
-						"id": "111",
+						"id": "105",
 						"name": "Purchase of Services",
 						"gross_cost": {
 							"accounts": {
@@ -436,22 +376,12 @@
 						}
 					},
 					{
-						"id": "112",
+						"id": "106",
 						"name": "Materials and Supplies",
 						"gross_cost": {
 							"accounts": {
-								"2015": 48000,
+								"2015": 54000,
 								"2016": 54000
-							}
-						}
-					},
-					{
-						"id": "113",
-						"name": "Equipment",
-						"gross_cost": {
-							"accounts": {
-								"2015": 6000,
-								"2016": 0
 							}
 						}
 					}
@@ -462,23 +392,23 @@
 				"name": "City Treasurer",
 				"gross_cost": {
 					"accounts": {
-						"2015": 920790,
+						"2015": 942687,
 						"2016": 1126357
 					}
 				},
 				"children": [
 					{
-						"id": "114",
+						"id": "107",
 						"name": "Personal Services",
 						"gross_cost": {
 							"accounts": {
-								"2015": 780122,
+								"2015": 802019,
 								"2016": 985689
 							}
 						}
 					},
 					{
-						"id": "115",
+						"id": "108",
 						"name": "Purchase of Services",
 						"gross_cost": {
 							"accounts": {
@@ -488,22 +418,12 @@
 						}
 					},
 					{
-						"id": "116",
+						"id": "109",
 						"name": "Materials and Supplies",
 						"gross_cost": {
 							"accounts": {
-								"2015": 21224,
+								"2015": 22224,
 								"2016": 22224
-							}
-						}
-					},
-					{
-						"id": "117",
-						"name": "Equipment",
-						"gross_cost": {
-							"accounts": {
-								"2015": 1000,
-								"2016": 0
 							}
 						}
 					}
@@ -514,23 +434,23 @@
 				"name": "Civil Service Commission",
 				"gross_cost": {
 					"accounts": {
-						"2015": 53011268,
+						"2015": 3589394,
 						"2016": 7084472
 					}
 				},
 				"children": [
 					{
-						"id": "118",
+						"id": "110",
 						"name": "Personal Services",
 						"gross_cost": {
 							"accounts": {
-								"2015": 143541,
+								"2015": 147633,
 								"2016": 147343
 							}
 						}
 					},
 					{
-						"id": "119",
+						"id": "111",
 						"name": "Purchase of Services",
 						"gross_cost": {
 							"accounts": {
@@ -540,31 +460,21 @@
 						}
 					},
 					{
-						"id": "120",
+						"id": "112",
 						"name": "Materials and Supplies",
 						"gross_cost": {
 							"accounts": {
-								"2015": 500,
+								"2015": 1094,
 								"2016": 1094
 							}
 						}
 					},
 					{
-						"id": "121",
-						"name": "Equipment",
-						"gross_cost": {
-							"accounts": {
-								"2015": 594,
-								"2016": 0
-							}
-						}
-					},
-					{
-						"id": "122",
+						"id": "113",
 						"name": "Advances & Other Misc Payments",
 						"gross_cost": {
 							"accounts": {
-								"2015": 52837133,
+								"2015": 3411167,
 								"2016": 6906535
 							}
 						}
@@ -576,23 +486,23 @@
 				"name": "Commerce",
 				"gross_cost": {
 					"accounts": {
-						"2015": 2750102,
+						"2015": 2785960,
 						"2016": 3903346
 					}
 				},
 				"children": [
 					{
-						"id": "123",
+						"id": "114",
 						"name": "Personal Services",
 						"gross_cost": {
 							"accounts": {
-								"2015": 1889967,
+								"2015": 1925825,
 								"2016": 1943211
 							}
 						}
 					},
 					{
-						"id": "124",
+						"id": "115",
 						"name": "Purchase of Services",
 						"gross_cost": {
 							"accounts": {
@@ -602,7 +512,7 @@
 						}
 					},
 					{
-						"id": "125",
+						"id": "116",
 						"name": "Materials and Supplies",
 						"gross_cost": {
 							"accounts": {
@@ -612,7 +522,7 @@
 						}
 					},
 					{
-						"id": "126",
+						"id": "117",
 						"name": "Contributions, Indemnities, Refunds, Taxes",
 						"gross_cost": {
 							"accounts": {
@@ -634,7 +544,7 @@
 				},
 				"children": [
 					{
-						"id": "127",
+						"id": "118",
 						"name": "Purchase of Services",
 						"gross_cost": {
 							"accounts": {
@@ -656,7 +566,7 @@
 				},
 				"children": [
 					{
-						"id": "128",
+						"id": "119",
 						"name": "Purchase of Services",
 						"gross_cost": {
 							"accounts": {
@@ -672,48 +582,38 @@
 				"name": "District Attorney",
 				"gross_cost": {
 					"accounts": {
-						"2015": 34082283,
+						"2015": 35583476,
 						"2016": 35482214
 					}
 				},
 				"children": [
 					{
-						"id": "129",
+						"id": "120",
 						"name": "Personal Services",
 						"gross_cost": {
 							"accounts": {
-								"2015": 31762490,
+								"2015": 32802968,
 								"2016": 32490021
 							}
 						}
 					},
 					{
-						"id": "130",
+						"id": "121",
 						"name": "Purchase of Services",
 						"gross_cost": {
 							"accounts": {
-								"2015": 1816172,
+								"2015": 2216172,
 								"2016": 2467172
 							}
 						}
 					},
 					{
-						"id": "131",
+						"id": "122",
 						"name": "Materials and Supplies",
 						"gross_cost": {
 							"accounts": {
-								"2015": 392205,
+								"2015": 564336,
 								"2016": 525021
-							}
-						}
-					},
-					{
-						"id": "132",
-						"name": "Equipment",
-						"gross_cost": {
-							"accounts": {
-								"2015": 111416,
-								"2016": 0
 							}
 						}
 					}
@@ -724,57 +624,47 @@
 				"name": "Finance",
 				"gross_cost": {
 					"accounts": {
-						"2015": 18852781,
+						"2015": 19223888,
 						"2016": 17233655
 					}
 				},
 				"children": [
 					{
-						"id": "133",
+						"id": "123",
 						"name": "Personal Services",
 						"gross_cost": {
 							"accounts": {
-								"2015": 8936046,
+								"2015": 8982153,
 								"2016": 8801920
 							}
 						}
 					},
 					{
-						"id": "134",
+						"id": "124",
 						"name": "Purchase of Services",
 						"gross_cost": {
 							"accounts": {
-								"2015": 5302479,
+								"2015": 5455961,
 								"2016": 4370961
 							}
 						}
 					},
 					{
-						"id": "135",
+						"id": "125",
 						"name": "Materials and Supplies",
 						"gross_cost": {
 							"accounts": {
-								"2015": 95158,
+								"2015": 110774,
 								"2016": 110774
 							}
 						}
 					},
 					{
-						"id": "136",
-						"name": "Equipment",
-						"gross_cost": {
-							"accounts": {
-								"2015": 15616,
-								"2016": 0
-							}
-						}
-					},
-					{
-						"id": "137",
+						"id": "126",
 						"name": "Contributions, Indemnities, Refunds, Taxes",
 						"gross_cost": {
 							"accounts": {
-								"2015": 4503482,
+								"2015": 4675000,
 								"2016": 3950000
 							}
 						}
@@ -792,7 +682,7 @@
 				},
 				"children": [
 					{
-						"id": "138",
+						"id": "127",
 						"name": "Contributions, Indemnities, Refunds, Taxes",
 						"gross_cost": {
 							"accounts": {
@@ -808,17 +698,17 @@
 				"name": "Finance - Employee Benefits",
 				"gross_cost": {
 					"accounts": {
-						"2015": 1817314257,
+						"2015": 1121659020,
 						"2016": 1172182395
 					}
 				},
 				"children": [
 					{
-						"id": "139",
+						"id": "128",
 						"name": "Personal Services",
 						"gross_cost": {
 							"accounts": {
-								"2015": 1817314257,
+								"2015": 1121659020,
 								"2016": 1172182395
 							}
 						}
@@ -836,7 +726,7 @@
 				},
 				"children": [
 					{
-						"id": "140",
+						"id": "129",
 						"name": "Contributions, Indemnities, Refunds, Taxes",
 						"gross_cost": {
 							"accounts": {
@@ -852,17 +742,17 @@
 				"name": "Finance - Indemnities",
 				"gross_cost": {
 					"accounts": {
-						"2015": 33660000,
+						"2015": 39660000,
 						"2016": 38000000
 					}
 				},
 				"children": [
 					{
-						"id": "141",
+						"id": "130",
 						"name": "Contributions, Indemnities, Refunds, Taxes",
 						"gross_cost": {
 							"accounts": {
-								"2015": 33660000,
+								"2015": 39660000,
 								"2016": 38000000
 							}
 						}
@@ -880,7 +770,7 @@
 				},
 				"children": [
 					{
-						"id": "142",
+						"id": "131",
 						"name": "Contributions, Indemnities, Refunds, Taxes",
 						"gross_cost": {
 							"accounts": {
@@ -902,7 +792,7 @@
 				},
 				"children": [
 					{
-						"id": "143",
+						"id": "132",
 						"name": "Contributions, Indemnities, Refunds, Taxes",
 						"gross_cost": {
 							"accounts": {
@@ -924,21 +814,11 @@
 				},
 				"children": [
 					{
-						"id": "144",
-						"name": "Contributions, Indemnities, Refunds, Taxes",
-						"gross_cost": {
-							"accounts": {
-								"2015": 171518,
-								"2016": 0
-							}
-						}
-					},
-					{
-						"id": "145",
+						"id": "133",
 						"name": "Purchase of Services",
 						"gross_cost": {
 							"accounts": {
-								"2015": 0,
+								"2015": 171518,
 								"2016": 171518
 							}
 						}
@@ -950,23 +830,23 @@
 				"name": "Fire",
 				"gross_cost": {
 					"accounts": {
-						"2015": 206759668,
+						"2015": 224332346,
 						"2016": 219082796
 					}
 				},
 				"children": [
 					{
-						"id": "146",
+						"id": "134",
 						"name": "Personal Services",
 						"gross_cost": {
 							"accounts": {
-								"2015": 182883661,
+								"2015": 200248739,
 								"2016": 196783581
 							}
 						}
 					},
 					{
-						"id": "147",
+						"id": "135",
 						"name": "Purchase of Services",
 						"gross_cost": {
 							"accounts": {
@@ -976,27 +856,17 @@
 						}
 					},
 					{
-						"id": "148",
+						"id": "136",
 						"name": "Materials and Supplies",
 						"gross_cost": {
 							"accounts": {
-								"2015": 5954414,
+								"2015": 10821014,
 								"2016": 7556014
 							}
 						}
 					},
 					{
-						"id": "149",
-						"name": "Equipment",
-						"gross_cost": {
-							"accounts": {
-								"2015": 4659000,
-								"2016": 0
-							}
-						}
-					},
-					{
-						"id": "150",
+						"id": "137",
 						"name": "Payments to Other Funds",
 						"gross_cost": {
 							"accounts": {
@@ -1012,23 +882,23 @@
 				"name": "First Judicial District",
 				"gross_cost": {
 					"accounts": {
-						"2015": 106251123,
+						"2015": 109459727,
 						"2016": 110255300
 					}
 				},
 				"children": [
 					{
-						"id": "151",
+						"id": "138",
 						"name": "Personal Services",
 						"gross_cost": {
 							"accounts": {
-								"2015": 93202681,
+								"2015": 96411285,
 								"2016": 97206858
 							}
 						}
 					},
 					{
-						"id": "152",
+						"id": "139",
 						"name": "Purchase of Services",
 						"gross_cost": {
 							"accounts": {
@@ -1038,22 +908,12 @@
 						}
 					},
 					{
-						"id": "153",
+						"id": "140",
 						"name": "Materials and Supplies",
 						"gross_cost": {
 							"accounts": {
-								"2015": 1870944,
+								"2015": 2391868,
 								"2016": 2391868
-							}
-						}
-					},
-					{
-						"id": "154",
-						"name": "Equipment",
-						"gross_cost": {
-							"accounts": {
-								"2015": 520924,
-								"2016": 0
 							}
 						}
 					}
@@ -1064,23 +924,23 @@
 				"name": "Fleet Management",
 				"gross_cost": {
 					"accounts": {
-						"2015": 59773114,
+						"2015": 60805155,
 						"2016": 61577500
 					}
 				},
 				"children": [
 					{
-						"id": "155",
+						"id": "141",
 						"name": "Personal Services",
 						"gross_cost": {
 							"accounts": {
-								"2015": 15740507,
+								"2015": 16772548,
 								"2016": 16544893
 							}
 						}
 					},
 					{
-						"id": "156",
+						"id": "142",
 						"name": "Purchase of Services",
 						"gross_cost": {
 							"accounts": {
@@ -1090,22 +950,12 @@
 						}
 					},
 					{
-						"id": "157",
+						"id": "143",
 						"name": "Materials and Supplies",
 						"gross_cost": {
 							"accounts": {
-								"2015": 26763211,
+								"2015": 34428211,
 								"2016": 35428211
-							}
-						}
-					},
-					{
-						"id": "158",
-						"name": "Equipment",
-						"gross_cost": {
-							"accounts": {
-								"2015": 7665000,
-								"2016": 0
 							}
 						}
 					}
@@ -1116,23 +966,23 @@
 				"name": "Free Library",
 				"gross_cost": {
 					"accounts": {
-						"2015": 38674193,
+						"2015": 40198080,
 						"2016": 41001988
 					}
 				},
 				"children": [
 					{
-						"id": "159",
+						"id": "144",
 						"name": "Personal Services",
 						"gross_cost": {
 							"accounts": {
-								"2015": 33919457,
+								"2015": 35443344,
 								"2016": 35777252
 							}
 						}
 					},
 					{
-						"id": "160",
+						"id": "145",
 						"name": "Purchase of Services",
 						"gross_cost": {
 							"accounts": {
@@ -1142,22 +992,12 @@
 						}
 					},
 					{
-						"id": "161",
+						"id": "146",
 						"name": "Materials and Supplies",
 						"gross_cost": {
 							"accounts": {
-								"2015": 1945796,
+								"2015": 2002659,
 								"2016": 2302659
-							}
-						}
-					},
-					{
-						"id": "162",
-						"name": "Equipment",
-						"gross_cost": {
-							"accounts": {
-								"2015": 56863,
-								"2016": 0
 							}
 						}
 					}
@@ -1168,23 +1008,23 @@
 				"name": "Historical Commission",
 				"gross_cost": {
 					"accounts": {
-						"2015": 412330,
+						"2015": 419781,
 						"2016": 424560
 					}
 				},
 				"children": [
 					{
-						"id": "163",
+						"id": "147",
 						"name": "Personal Services",
 						"gross_cost": {
 							"accounts": {
-								"2015": 410541,
+								"2015": 417992,
 								"2016": 422771
 							}
 						}
 					},
 					{
-						"id": "164",
+						"id": "148",
 						"name": "Purchase of Services",
 						"gross_cost": {
 							"accounts": {
@@ -1194,7 +1034,7 @@
 						}
 					},
 					{
-						"id": "165",
+						"id": "149",
 						"name": "Materials and Supplies",
 						"gross_cost": {
 							"accounts": {
@@ -1210,23 +1050,23 @@
 				"name": "Human Relations Commission",
 				"gross_cost": {
 					"accounts": {
-						"2015": 2099907,
+						"2015": 2116623,
 						"2016": 2147096
 					}
 				},
 				"children": [
 					{
-						"id": "166",
+						"id": "150",
 						"name": "Personal Services",
 						"gross_cost": {
 							"accounts": {
-								"2015": 2052219,
+								"2015": 2068935,
 								"2016": 2099408
 							}
 						}
 					},
 					{
-						"id": "167",
+						"id": "151",
 						"name": "Purchase of Services",
 						"gross_cost": {
 							"accounts": {
@@ -1236,22 +1076,12 @@
 						}
 					},
 					{
-						"id": "168",
+						"id": "152",
 						"name": "Materials and Supplies",
 						"gross_cost": {
 							"accounts": {
-								"2015": 12731,
+								"2015": 13031,
 								"2016": 13031
-							}
-						}
-					},
-					{
-						"id": "169",
-						"name": "Equipment",
-						"gross_cost": {
-							"accounts": {
-								"2015": 300,
-								"2016": 0
 							}
 						}
 					}
@@ -1262,48 +1092,38 @@
 				"name": "Human Services",
 				"gross_cost": {
 					"accounts": {
-						"2015": 99480256,
+						"2015": 102776689,
 						"2016": 102729321
 					}
 				},
 				"children": [
 					{
-						"id": "170",
+						"id": "153",
 						"name": "Personal Services",
 						"gross_cost": {
 							"accounts": {
-								"2015": 24339410,
+								"2015": 23817687,
 								"2016": 24637310
 							}
 						}
 					},
 					{
-						"id": "171",
+						"id": "154",
 						"name": "Purchase of Services",
 						"gross_cost": {
 							"accounts": {
-								"2015": 74127032,
+								"2015": 77931501,
 								"2016": 76779935
 							}
 						}
 					},
 					{
-						"id": "172",
+						"id": "155",
 						"name": "Materials and Supplies",
 						"gross_cost": {
 							"accounts": {
-								"2015": 672474,
+								"2015": 1027501,
 								"2016": 1312076
-							}
-						}
-					},
-					{
-						"id": "173",
-						"name": "Equipment",
-						"gross_cost": {
-							"accounts": {
-								"2015": 341340,
-								"2016": 0
 							}
 						}
 					}
@@ -1314,17 +1134,17 @@
 				"name": "L&I  - Board of Building Standards",
 				"gross_cost": {
 					"accounts": {
-						"2015": 73229,
+						"2015": 72792,
 						"2016": 73970
 					}
 				},
 				"children": [
 					{
-						"id": "174",
+						"id": "156",
 						"name": "Personal Services",
 						"gross_cost": {
 							"accounts": {
-								"2015": 73229,
+								"2015": 72792,
 								"2016": 73970
 							}
 						}
@@ -1336,23 +1156,23 @@
 				"name": "L&I  - Board of L&I Review",
 				"gross_cost": {
 					"accounts": {
-						"2015": 163628,
+						"2015": 168000,
 						"2016": 167790
 					}
 				},
 				"children": [
 					{
-						"id": "175",
+						"id": "157",
 						"name": "Personal Services",
 						"gross_cost": {
 							"accounts": {
-								"2015": 153192,
+								"2015": 157564,
 								"2016": 157354
 							}
 						}
 					},
 					{
-						"id": "176",
+						"id": "158",
 						"name": "Purchase of Services",
 						"gross_cost": {
 							"accounts": {
@@ -1368,23 +1188,23 @@
 				"name": "L&I  - Zoning Board of Adjustment",
 				"gross_cost": {
 					"accounts": {
-						"2015": 357397,
+						"2015": 378052,
 						"2016": 372290
 					}
 				},
 				"children": [
 					{
-						"id": "177",
+						"id": "159",
 						"name": "Personal Services",
 						"gross_cost": {
 							"accounts": {
-								"2015": 322856,
+								"2015": 343511,
 								"2016": 337749
 							}
 						}
 					},
 					{
-						"id": "178",
+						"id": "160",
 						"name": "Purchase of Services",
 						"gross_cost": {
 							"accounts": {
@@ -1400,23 +1220,23 @@
 				"name": "Labor Relations",
 				"gross_cost": {
 					"accounts": {
-						"2015": 627484,
+						"2015": 640379,
 						"2016": 572466
 					}
 				},
 				"children": [
 					{
-						"id": "179",
+						"id": "161",
 						"name": "Personal Services",
 						"gross_cost": {
 							"accounts": {
-								"2015": 616047,
+								"2015": 628942,
 								"2016": 559029
 							}
 						}
 					},
 					{
-						"id": "180",
+						"id": "162",
 						"name": "Purchase of Services",
 						"gross_cost": {
 							"accounts": {
@@ -1426,22 +1246,12 @@
 						}
 					},
 					{
-						"id": "181",
+						"id": "163",
 						"name": "Materials and Supplies",
 						"gross_cost": {
 							"accounts": {
-								"2015": 6560,
+								"2015": 8160,
 								"2016": 8160
-							}
-						}
-					},
-					{
-						"id": "182",
-						"name": "Equipment",
-						"gross_cost": {
-							"accounts": {
-								"2015": 1600,
-								"2016": 0
 							}
 						}
 					}
@@ -1452,48 +1262,38 @@
 				"name": "Law",
 				"gross_cost": {
 					"accounts": {
-						"2015": 13422633,
+						"2015": 16067698,
 						"2016": 14642276
 					}
 				},
 				"children": [
 					{
-						"id": "183",
+						"id": "164",
 						"name": "Personal Services",
 						"gross_cost": {
 							"accounts": {
-								"2015": 7163923,
+								"2015": 7378082,
 								"2016": 7383566
 							}
 						}
 					},
 					{
-						"id": "184",
+						"id": "165",
 						"name": "Purchase of Services",
 						"gross_cost": {
 							"accounts": {
-								"2015": 6010034,
+								"2015": 8440940,
 								"2016": 7010034
 							}
 						}
 					},
 					{
-						"id": "185",
+						"id": "166",
 						"name": "Materials and Supplies",
 						"gross_cost": {
 							"accounts": {
-								"2015": 211185,
+								"2015": 248676,
 								"2016": 248676
-							}
-						}
-					},
-					{
-						"id": "186",
-						"name": "Equipment",
-						"gross_cost": {
-							"accounts": {
-								"2015": 37491,
-								"2016": 0
 							}
 						}
 					}
@@ -1504,23 +1304,23 @@
 				"name": "Licenses and Inspections",
 				"gross_cost": {
 					"accounts": {
-						"2015": 27903338,
+						"2015": 28819158,
 						"2016": 31476558
 					}
 				},
 				"children": [
 					{
-						"id": "187",
+						"id": "167",
 						"name": "Personal Services",
 						"gross_cost": {
 							"accounts": {
-								"2015": 16877190,
+								"2015": 17793010,
 								"2016": 19770711
 							}
 						}
 					},
 					{
-						"id": "188",
+						"id": "168",
 						"name": "Purchase of Services",
 						"gross_cost": {
 							"accounts": {
@@ -1530,22 +1330,12 @@
 						}
 					},
 					{
-						"id": "189",
+						"id": "169",
 						"name": "Materials and Supplies",
 						"gross_cost": {
 							"accounts": {
-								"2015": 248388,
+								"2015": 983613,
 								"2016": 1443941
-							}
-						}
-					},
-					{
-						"id": "190",
-						"name": "Equipment",
-						"gross_cost": {
-							"accounts": {
-								"2015": 735225,
-								"2016": 0
 							}
 						}
 					}
@@ -1556,48 +1346,38 @@
 				"name": "Managing Director's Office",
 				"gross_cost": {
 					"accounts": {
-						"2015": 76560197,
+						"2015": 77971671,
 						"2016": 77603674
 					}
 				},
 				"children": [
 					{
-						"id": "191",
+						"id": "170",
 						"name": "Personal Services",
 						"gross_cost": {
 							"accounts": {
-								"2015": 16050903,
+								"2015": 16385926,
 								"2016": 16316293
 							}
 						}
 					},
 					{
-						"id": "192",
+						"id": "171",
 						"name": "Purchase of Services",
 						"gross_cost": {
 							"accounts": {
-								"2015": 59982475,
+								"2015": 60823926,
 								"2016": 60748402
 							}
 						}
 					},
 					{
-						"id": "193",
+						"id": "172",
 						"name": "Materials and Supplies",
 						"gross_cost": {
 							"accounts": {
-								"2015": 390575,
+								"2015": 761819,
 								"2016": 538979
-							}
-						}
-					},
-					{
-						"id": "194",
-						"name": "Equipment",
-						"gross_cost": {
-							"accounts": {
-								"2015": 136244,
-								"2016": 0
 							}
 						}
 					}
@@ -1608,23 +1388,23 @@
 				"name": "Mayor's Office",
 				"gross_cost": {
 					"accounts": {
-						"2015": 5241881,
+						"2015": 5353310,
 						"2016": 5206625
 					}
 				},
 				"children": [
 					{
-						"id": "195",
+						"id": "173",
 						"name": "Personal Services",
 						"gross_cost": {
 							"accounts": {
-								"2015": 4151380,
+								"2015": 4262809,
 								"2016": 4166124
 							}
 						}
 					},
 					{
-						"id": "196",
+						"id": "174",
 						"name": "Purchase of Services",
 						"gross_cost": {
 							"accounts": {
@@ -1634,22 +1414,12 @@
 						}
 					},
 					{
-						"id": "197",
+						"id": "175",
 						"name": "Materials and Supplies",
 						"gross_cost": {
 							"accounts": {
-								"2015": 47774,
+								"2015": 50165,
 								"2016": 50165
-							}
-						}
-					},
-					{
-						"id": "198",
-						"name": "Equipment",
-						"gross_cost": {
-							"accounts": {
-								"2015": 2391,
-								"2016": 0
 							}
 						}
 					}
@@ -1666,7 +1436,7 @@
 				},
 				"children": [
 					{
-						"id": "199",
+						"id": "176",
 						"name": "Contributions, Indemnities, Refunds, Taxes",
 						"gross_cost": {
 							"accounts": {
@@ -1679,26 +1449,48 @@
 			},
 			{
 				"id": "54",
+				"name": "Mayor's Office of Community Services (now CEO)",
+				"gross_cost": {
+					"accounts": {
+						"2015": 605000,
+						"2016": 605000
+					}
+				},
+				"children": [
+					{
+						"id": "177",
+						"name": "Purchase of Services",
+						"gross_cost": {
+							"accounts": {
+								"2015": 605000,
+								"2016": 605000
+							}
+						}
+					}
+				]
+			},
+			{
+				"id": "55",
 				"name": "Mayor's Office of Transportation & Utilities",
 				"gross_cost": {
 					"accounts": {
-						"2015": 788817,
+						"2015": 821442,
 						"2016": 734270
 					}
 				},
 				"children": [
 					{
-						"id": "200",
+						"id": "178",
 						"name": "Personal Services",
 						"gross_cost": {
 							"accounts": {
-								"2015": 498887,
+								"2015": 531512,
 								"2016": 474340
 							}
 						}
 					},
 					{
-						"id": "201",
+						"id": "179",
 						"name": "Purchase of Services",
 						"gross_cost": {
 							"accounts": {
@@ -1710,27 +1502,27 @@
 				]
 			},
 			{
-				"id": "55",
+				"id": "56",
 				"name": "Mural Arts Program",
 				"gross_cost": {
 					"accounts": {
-						"2015": 1451425,
+						"2015": 1463579,
 						"2016": 1646016
 					}
 				},
 				"children": [
 					{
-						"id": "202",
+						"id": "180",
 						"name": "Personal Services",
 						"gross_cost": {
 							"accounts": {
-								"2015": 449625,
+								"2015": 461779,
 								"2016": 464216
 							}
 						}
 					},
 					{
-						"id": "203",
+						"id": "181",
 						"name": "Purchase of Services",
 						"gross_cost": {
 							"accounts": {
@@ -1742,27 +1534,27 @@
 				]
 			},
 			{
-				"id": "56",
+				"id": "57",
 				"name": "Office of Arts and Culture",
 				"gross_cost": {
 					"accounts": {
-						"2015": 3971288,
+						"2015": 3972593,
 						"2016": 2872855
 					}
 				},
 				"children": [
 					{
-						"id": "204",
+						"id": "182",
 						"name": "Personal Services",
 						"gross_cost": {
 							"accounts": {
-								"2015": 199800,
+								"2015": 201105,
 								"2016": 201367
 							}
 						}
 					},
 					{
-						"id": "205",
+						"id": "183",
 						"name": "Purchase of Services",
 						"gross_cost": {
 							"accounts": {
@@ -1772,7 +1564,7 @@
 						}
 					},
 					{
-						"id": "206",
+						"id": "184",
 						"name": "Materials and Supplies",
 						"gross_cost": {
 							"accounts": {
@@ -1782,7 +1574,7 @@
 						}
 					},
 					{
-						"id": "207",
+						"id": "185",
 						"name": "Contributions, Indemnities, Refunds, Taxes",
 						"gross_cost": {
 							"accounts": {
@@ -1794,27 +1586,27 @@
 				]
 			},
 			{
-				"id": "57",
+				"id": "58",
 				"name": "Office of Behavioral Health and Intellectual disAbilities",
 				"gross_cost": {
 					"accounts": {
-						"2015": 13944680,
+						"2015": 13967356,
 						"2016": 13875576
 					}
 				},
 				"children": [
 					{
-						"id": "208",
+						"id": "186",
 						"name": "Personal Services",
 						"gross_cost": {
 							"accounts": {
-								"2015": 969170,
+								"2015": 991846,
 								"2016": 1000066
 							}
 						}
 					},
 					{
-						"id": "209",
+						"id": "187",
 						"name": "Purchase of Services",
 						"gross_cost": {
 							"accounts": {
@@ -1826,21 +1618,21 @@
 				]
 			},
 			{
-				"id": "58",
+				"id": "59",
 				"name": "Office of Housing and Community Development",
 				"gross_cost": {
 					"accounts": {
-						"2015": 3020000,
+						"2015": 2570000,
 						"2016": 2520000
 					}
 				},
 				"children": [
 					{
-						"id": "210",
+						"id": "188",
 						"name": "Purchase of Services",
 						"gross_cost": {
 							"accounts": {
-								"2015": 3020000,
+								"2015": 2570000,
 								"2016": 2520000
 							}
 						}
@@ -1848,27 +1640,27 @@
 				]
 			},
 			{
-				"id": "59",
+				"id": "60",
 				"name": "Office of Human Resources",
 				"gross_cost": {
 					"accounts": {
-						"2015": 6017301,
+						"2015": 6168002,
 						"2016": 6433623
 					}
 				},
 				"children": [
 					{
-						"id": "211",
+						"id": "189",
 						"name": "Personal Services",
 						"gross_cost": {
 							"accounts": {
-								"2015": 5145299,
+								"2015": 5296000,
 								"2016": 5399621
 							}
 						}
 					},
 					{
-						"id": "212",
+						"id": "190",
 						"name": "Purchase of Services",
 						"gross_cost": {
 							"accounts": {
@@ -1878,49 +1670,39 @@
 						}
 					},
 					{
-						"id": "213",
+						"id": "191",
 						"name": "Materials and Supplies",
 						"gross_cost": {
 							"accounts": {
-								"2015": 65582,
+								"2015": 69932,
 								"2016": 69932
-							}
-						}
-					},
-					{
-						"id": "214",
-						"name": "Equipment",
-						"gross_cost": {
-							"accounts": {
-								"2015": 4350,
-								"2016": 0
 							}
 						}
 					}
 				]
 			},
 			{
-				"id": "60",
+				"id": "61",
 				"name": "Office of Innovation and Technology",
 				"gross_cost": {
 					"accounts": {
-						"2015": 82192558,
+						"2015": 82088382,
 						"2016": 83882462
 					}
 				},
 				"children": [
 					{
-						"id": "215",
+						"id": "192",
 						"name": "Personal Services",
 						"gross_cost": {
 							"accounts": {
-								"2015": 19715777,
+								"2015": 19611601,
 								"2016": 19900681
 							}
 						}
 					},
 					{
-						"id": "216",
+						"id": "193",
 						"name": "Purchase of Services",
 						"gross_cost": {
 							"accounts": {
@@ -1930,49 +1712,39 @@
 						}
 					},
 					{
-						"id": "217",
+						"id": "194",
 						"name": "Materials and Supplies",
 						"gross_cost": {
 							"accounts": {
-								"2015": 1536653,
+								"2015": 8480497,
 								"2016": 9598351
-							}
-						}
-					},
-					{
-						"id": "218",
-						"name": "Equipment",
-						"gross_cost": {
-							"accounts": {
-								"2015": 6943844,
-								"2016": 0
 							}
 						}
 					}
 				]
 			},
 			{
-				"id": "61",
+				"id": "62",
 				"name": "Office of Property Assessment",
 				"gross_cost": {
 					"accounts": {
-						"2015": 14286177,
+						"2015": 13933748,
 						"2016": 13285146
 					}
 				},
 				"children": [
 					{
-						"id": "219",
+						"id": "195",
 						"name": "Personal Services",
 						"gross_cost": {
 							"accounts": {
-								"2015": 10717187,
+								"2015": 10364758,
 								"2016": 10424420
 							}
 						}
 					},
 					{
-						"id": "220",
+						"id": "196",
 						"name": "Purchase of Services",
 						"gross_cost": {
 							"accounts": {
@@ -1982,79 +1754,59 @@
 						}
 					},
 					{
-						"id": "221",
+						"id": "197",
 						"name": "Materials and Supplies",
 						"gross_cost": {
 							"accounts": {
-								"2015": 766600,
+								"2015": 794600,
 								"2016": 782600
-							}
-						}
-					},
-					{
-						"id": "222",
-						"name": "Equipment",
-						"gross_cost": {
-							"accounts": {
-								"2015": 28000,
-								"2016": 0
 							}
 						}
 					}
 				]
 			},
 			{
-				"id": "62",
+				"id": "63",
 				"name": "Office of Supportive Housing",
 				"gross_cost": {
 					"accounts": {
-						"2015": 43974069,
+						"2015": 45226928,
 						"2016": 45244382
 					}
 				},
 				"children": [
 					{
-						"id": "223",
+						"id": "198",
 						"name": "Personal Services",
 						"gross_cost": {
 							"accounts": {
-								"2015": 7980900,
+								"2015": 8263759,
 								"2016": 8281213
 							}
 						}
 					},
 					{
-						"id": "224",
+						"id": "199",
 						"name": "Purchase of Services",
 						"gross_cost": {
 							"accounts": {
-								"2015": 35616621,
+								"2015": 36586621,
 								"2016": 36586621
 							}
 						}
 					},
 					{
-						"id": "225",
+						"id": "200",
 						"name": "Materials and Supplies",
 						"gross_cost": {
 							"accounts": {
-								"2015": 162177,
+								"2015": 344127,
 								"2016": 344127
 							}
 						}
 					},
 					{
-						"id": "226",
-						"name": "Equipment",
-						"gross_cost": {
-							"accounts": {
-								"2015": 181950,
-								"2016": 0
-							}
-						}
-					},
-					{
-						"id": "227",
+						"id": "201",
 						"name": "Contributions, Indemnities, Refunds, Taxes",
 						"gross_cost": {
 							"accounts": {
@@ -2066,27 +1818,27 @@
 				]
 			},
 			{
-				"id": "63",
+				"id": "64",
 				"name": "Office of the Inspector General",
 				"gross_cost": {
 					"accounts": {
-						"2015": 1524569,
+						"2015": 1561422,
 						"2016": 1668811
 					}
 				},
 				"children": [
 					{
-						"id": "228",
+						"id": "202",
 						"name": "Personal Services",
 						"gross_cost": {
 							"accounts": {
-								"2015": 1326369,
+								"2015": 1363222,
 								"2016": 1470611
 							}
 						}
 					},
 					{
-						"id": "229",
+						"id": "203",
 						"name": "Purchase of Services",
 						"gross_cost": {
 							"accounts": {
@@ -2096,84 +1848,12 @@
 						}
 					},
 					{
-						"id": "230",
+						"id": "204",
 						"name": "Materials and Supplies",
 						"gross_cost": {
 							"accounts": {
-								"2015": 3125,
+								"2015": 5225,
 								"2016": 5225
-							}
-						}
-					},
-					{
-						"id": "231",
-						"name": "Equipment",
-						"gross_cost": {
-							"accounts": {
-								"2015": 2100,
-								"2016": 0
-							}
-						}
-					}
-				]
-			},
-			{
-				"id": "64",
-				"name": "Parks and Recreation",
-				"gross_cost": {
-					"accounts": {
-						"2015": 52591785,
-						"2016": 57711883
-					}
-				},
-				"children": [
-					{
-						"id": "232",
-						"name": "Personal Services",
-						"gross_cost": {
-							"accounts": {
-								"2015": 41280955,
-								"2016": 43429053
-							}
-						}
-					},
-					{
-						"id": "233",
-						"name": "Purchase of Services",
-						"gross_cost": {
-							"accounts": {
-								"2015": 6214525,
-								"2016": 9319525
-							}
-						}
-					},
-					{
-						"id": "234",
-						"name": "Materials and Supplies",
-						"gross_cost": {
-							"accounts": {
-								"2015": 2343460,
-								"2016": 2673805
-							}
-						}
-					},
-					{
-						"id": "235",
-						"name": "Equipment",
-						"gross_cost": {
-							"accounts": {
-								"2015": 250345,
-								"2016": 0
-							}
-						}
-					},
-					{
-						"id": "236",
-						"name": "Contributions, Indemnities, Refunds, Taxes",
-						"gross_cost": {
-							"accounts": {
-								"2015": 2502500,
-								"2016": 2289500
 							}
 						}
 					}
@@ -2181,26 +1861,78 @@
 			},
 			{
 				"id": "65",
+				"name": "Parks and Recreation",
+				"gross_cost": {
+					"accounts": {
+						"2015": 54095395,
+						"2016": 57711883
+					}
+				},
+				"children": [
+					{
+						"id": "205",
+						"name": "Personal Services",
+						"gross_cost": {
+							"accounts": {
+								"2015": 42617565,
+								"2016": 43429053
+							}
+						}
+					},
+					{
+						"id": "206",
+						"name": "Purchase of Services",
+						"gross_cost": {
+							"accounts": {
+								"2015": 6246525,
+								"2016": 9319525
+							}
+						}
+					},
+					{
+						"id": "207",
+						"name": "Materials and Supplies",
+						"gross_cost": {
+							"accounts": {
+								"2015": 2753805,
+								"2016": 2673805
+							}
+						}
+					},
+					{
+						"id": "208",
+						"name": "Contributions, Indemnities, Refunds, Taxes",
+						"gross_cost": {
+							"accounts": {
+								"2015": 2477500,
+								"2016": 2289500
+							}
+						}
+					}
+				]
+			},
+			{
+				"id": "66",
 				"name": "Police",
 				"gross_cost": {
 					"accounts": {
-						"2015": 592509659,
+						"2015": 613275530,
 						"2016": 642738856
 					}
 				},
 				"children": [
 					{
-						"id": "237",
+						"id": "209",
 						"name": "Personal Services",
 						"gross_cost": {
 							"accounts": {
-								"2015": 576129350,
+								"2015": 596213021,
 								"2016": 622058347
 							}
 						}
 					},
 					{
-						"id": "238",
+						"id": "210",
 						"name": "Purchase of Services",
 						"gross_cost": {
 							"accounts": {
@@ -2210,49 +1942,39 @@
 						}
 					},
 					{
-						"id": "239",
+						"id": "211",
 						"name": "Materials and Supplies",
 						"gross_cost": {
 							"accounts": {
-								"2015": 8546608,
+								"2015": 9799702,
 								"2016": 13417702
-							}
-						}
-					},
-					{
-						"id": "240",
-						"name": "Equipment",
-						"gross_cost": {
-							"accounts": {
-								"2015": 570894,
-								"2016": 0
 							}
 						}
 					}
 				]
 			},
 			{
-				"id": "66",
+				"id": "67",
 				"name": "Prisons",
 				"gross_cost": {
 					"accounts": {
-						"2015": 240801814,
+						"2015": 243521531,
 						"2016": 244896381
 					}
 				},
 				"children": [
 					{
-						"id": "241",
+						"id": "212",
 						"name": "Personal Services",
 						"gross_cost": {
 							"accounts": {
-								"2015": 129195262,
+								"2015": 131914979,
 								"2016": 133469579
 							}
 						}
 					},
 					{
-						"id": "242",
+						"id": "213",
 						"name": "Purchase of Services",
 						"gross_cost": {
 							"accounts": {
@@ -2262,27 +1984,17 @@
 						}
 					},
 					{
-						"id": "243",
+						"id": "214",
 						"name": "Materials and Supplies",
 						"gross_cost": {
 							"accounts": {
-								"2015": 4304128,
+								"2015": 5240173,
 								"2016": 4768744
 							}
 						}
 					},
 					{
-						"id": "244",
-						"name": "Equipment",
-						"gross_cost": {
-							"accounts": {
-								"2015": 936045,
-								"2016": 0
-							}
-						}
-					},
-					{
-						"id": "245",
+						"id": "215",
 						"name": "Contributions, Indemnities, Refunds, Taxes",
 						"gross_cost": {
 							"accounts": {
@@ -2294,27 +2006,27 @@
 				]
 			},
 			{
-				"id": "67",
+				"id": "68",
 				"name": "Procurement",
 				"gross_cost": {
 					"accounts": {
-						"2015": 4695453,
+						"2015": 4793879,
 						"2016": 4837672
 					}
 				},
 				"children": [
 					{
-						"id": "246",
+						"id": "216",
 						"name": "Personal Services",
 						"gross_cost": {
 							"accounts": {
-								"2015": 2330132,
+								"2015": 2428558,
 								"2016": 2472351
 							}
 						}
 					},
 					{
-						"id": "247",
+						"id": "217",
 						"name": "Purchase of Services",
 						"gross_cost": {
 							"accounts": {
@@ -2324,79 +2036,59 @@
 						}
 					},
 					{
-						"id": "248",
+						"id": "218",
 						"name": "Materials and Supplies",
 						"gross_cost": {
 							"accounts": {
-								"2015": 39554,
+								"2015": 49054,
 								"2016": 49054
-							}
-						}
-					},
-					{
-						"id": "249",
-						"name": "Equipment",
-						"gross_cost": {
-							"accounts": {
-								"2015": 9500,
-								"2016": 0
 							}
 						}
 					}
 				]
 			},
 			{
-				"id": "68",
+				"id": "69",
 				"name": "Public Health",
 				"gross_cost": {
 					"accounts": {
-						"2015": 115447367,
+						"2015": 116211670,
 						"2016": 116242446
 					}
 				},
 				"children": [
 					{
-						"id": "250",
+						"id": "219",
 						"name": "Personal Services",
 						"gross_cost": {
 							"accounts": {
-								"2015": 48493089,
+								"2015": 50107392,
 								"2016": 50298254
 							}
 						}
 					},
 					{
-						"id": "251",
+						"id": "220",
 						"name": "Purchase of Services",
 						"gross_cost": {
 							"accounts": {
-								"2015": 60963510,
+								"2015": 60113510,
 								"2016": 59953424
 							}
 						}
 					},
 					{
-						"id": "252",
+						"id": "221",
 						"name": "Materials and Supplies",
 						"gross_cost": {
 							"accounts": {
-								"2015": 5305674,
+								"2015": 5490768,
 								"2016": 5490768
 							}
 						}
 					},
 					{
-						"id": "253",
-						"name": "Equipment",
-						"gross_cost": {
-							"accounts": {
-								"2015": 185094,
-								"2016": 0
-							}
-						}
-					},
-					{
-						"id": "254",
+						"id": "222",
 						"name": "Payments to Other Funds",
 						"gross_cost": {
 							"accounts": {
@@ -2408,61 +2100,51 @@
 				]
 			},
 			{
-				"id": "69",
+				"id": "70",
 				"name": "Public Property",
 				"gross_cost": {
 					"accounts": {
-						"2015": 109214205,
+						"2015": 121344578,
 						"2016": 113610095
 					}
 				},
 				"children": [
 					{
-						"id": "255",
+						"id": "223",
 						"name": "Personal Services",
 						"gross_cost": {
 							"accounts": {
-								"2015": 8023182,
+								"2015": 8444555,
 								"2016": 8400083
 							}
 						}
 					},
 					{
-						"id": "256",
+						"id": "224",
 						"name": "Purchase of Services",
 						"gross_cost": {
 							"accounts": {
-								"2015": 77299591,
+								"2015": 77508591,
 								"2016": 80503771
 							}
 						}
 					},
 					{
-						"id": "257",
+						"id": "225",
 						"name": "Materials and Supplies",
 						"gross_cost": {
 							"accounts": {
-								"2015": 1201947,
+								"2015": 1338535,
 								"2016": 1338535
 							}
 						}
 					},
 					{
-						"id": "258",
-						"name": "Equipment",
-						"gross_cost": {
-							"accounts": {
-								"2015": 136588,
-								"2016": 0
-							}
-						}
-					},
-					{
-						"id": "259",
+						"id": "226",
 						"name": "Payments to Other Funds",
 						"gross_cost": {
 							"accounts": {
-								"2015": 22552897,
+								"2015": 34052897,
 								"2016": 23367706
 							}
 						}
@@ -2470,7 +2152,7 @@
 				]
 			},
 			{
-				"id": "70",
+				"id": "71",
 				"name": "Public Property - SEPTA Subsidy",
 				"gross_cost": {
 					"accounts": {
@@ -2480,7 +2162,7 @@
 				},
 				"children": [
 					{
-						"id": "260",
+						"id": "227",
 						"name": "Purchase of Services",
 						"gross_cost": {
 							"accounts": {
@@ -2492,27 +2174,27 @@
 				]
 			},
 			{
-				"id": "71",
+				"id": "72",
 				"name": "Records",
 				"gross_cost": {
 					"accounts": {
-						"2015": 4681789,
+						"2015": 4867565,
 						"2016": 4822825
 					}
 				},
 				"children": [
 					{
-						"id": "261",
+						"id": "228",
 						"name": "Personal Services",
 						"gross_cost": {
 							"accounts": {
-								"2015": 2997796,
+								"2015": 3183572,
 								"2016": 3058832
 							}
 						}
 					},
 					{
-						"id": "262",
+						"id": "229",
 						"name": "Purchase of Services",
 						"gross_cost": {
 							"accounts": {
@@ -2522,27 +2204,17 @@
 						}
 					},
 					{
-						"id": "263",
+						"id": "230",
 						"name": "Materials and Supplies",
 						"gross_cost": {
 							"accounts": {
-								"2015": 60502,
+								"2015": 143758,
 								"2016": 143758
 							}
 						}
 					},
 					{
-						"id": "264",
-						"name": "Equipment",
-						"gross_cost": {
-							"accounts": {
-								"2015": 83256,
-								"2016": 0
-							}
-						}
-					},
-					{
-						"id": "265",
+						"id": "231",
 						"name": "Contributions, Indemnities, Refunds, Taxes",
 						"gross_cost": {
 							"accounts": {
@@ -2554,27 +2226,27 @@
 				]
 			},
 			{
-				"id": "72",
+				"id": "73",
 				"name": "Register of Wills",
 				"gross_cost": {
 					"accounts": {
-						"2015": 3333341,
+						"2015": 3339606,
 						"2016": 3340862
 					}
 				},
 				"children": [
 					{
-						"id": "266",
+						"id": "232",
 						"name": "Personal Services",
 						"gross_cost": {
 							"accounts": {
-								"2015": 3224645,
+								"2015": 3230910,
 								"2016": 3232166
 							}
 						}
 					},
 					{
-						"id": "267",
+						"id": "233",
 						"name": "Purchase of Services",
 						"gross_cost": {
 							"accounts": {
@@ -2584,74 +2256,12 @@
 						}
 					},
 					{
-						"id": "268",
+						"id": "234",
 						"name": "Materials and Supplies",
 						"gross_cost": {
 							"accounts": {
-								"2015": 23850,
+								"2015": 33210,
 								"2016": 33210
-							}
-						}
-					},
-					{
-						"id": "269",
-						"name": "Equipment",
-						"gross_cost": {
-							"accounts": {
-								"2015": 9360,
-								"2016": 0
-							}
-						}
-					}
-				]
-			},
-			{
-				"id": "73",
-				"name": "Revenue",
-				"gross_cost": {
-					"accounts": {
-						"2015": 22437070,
-						"2016": 25771489
-					}
-				},
-				"children": [
-					{
-						"id": "270",
-						"name": "Personal Services",
-						"gross_cost": {
-							"accounts": {
-								"2015": 17764545,
-								"2016": 19617564
-							}
-						}
-					},
-					{
-						"id": "271",
-						"name": "Purchase of Services",
-						"gross_cost": {
-							"accounts": {
-								"2015": 4101449,
-								"2016": 5352949
-							}
-						}
-					},
-					{
-						"id": "272",
-						"name": "Materials and Supplies",
-						"gross_cost": {
-							"accounts": {
-								"2015": 526317,
-								"2016": 800976
-							}
-						}
-					},
-					{
-						"id": "273",
-						"name": "Equipment",
-						"gross_cost": {
-							"accounts": {
-								"2015": 44759,
-								"2016": 0
 							}
 						}
 					}
@@ -2659,26 +2269,68 @@
 			},
 			{
 				"id": "74",
+				"name": "Revenue",
+				"gross_cost": {
+					"accounts": {
+						"2015": 23538869,
+						"2016": 25771489
+					}
+				},
+				"children": [
+					{
+						"id": "235",
+						"name": "Personal Services",
+						"gross_cost": {
+							"accounts": {
+								"2015": 18166344,
+								"2016": 19617564
+							}
+						}
+					},
+					{
+						"id": "236",
+						"name": "Purchase of Services",
+						"gross_cost": {
+							"accounts": {
+								"2015": 4726449,
+								"2016": 5352949
+							}
+						}
+					},
+					{
+						"id": "237",
+						"name": "Materials and Supplies",
+						"gross_cost": {
+							"accounts": {
+								"2015": 646076,
+								"2016": 800976
+							}
+						}
+					}
+				]
+			},
+			{
+				"id": "75",
 				"name": "Sheriff",
 				"gross_cost": {
 					"accounts": {
-						"2015": 18494646,
+						"2015": 18566779,
 						"2016": 18212799
 					}
 				},
 				"children": [
 					{
-						"id": "274",
+						"id": "238",
 						"name": "Personal Services",
 						"gross_cost": {
 							"accounts": {
-								"2015": 17032412,
+								"2015": 17104545,
 								"2016": 17104325
 							}
 						}
 					},
 					{
-						"id": "275",
+						"id": "239",
 						"name": "Purchase of Services",
 						"gross_cost": {
 							"accounts": {
@@ -2688,39 +2340,29 @@
 						}
 					},
 					{
-						"id": "276",
+						"id": "240",
 						"name": "Materials and Supplies",
 						"gross_cost": {
 							"accounts": {
-								"2015": 433237,
+								"2015": 471647,
 								"2016": 393207
-							}
-						}
-					},
-					{
-						"id": "277",
-						"name": "Equipment",
-						"gross_cost": {
-							"accounts": {
-								"2015": 38410,
-								"2016": 0
 							}
 						}
 					}
 				]
 			},
 			{
-				"id": "75",
+				"id": "76",
 				"name": "Sinking Fund Commission (Debt Service)",
 				"gross_cost": {
 					"accounts": {
-						"2015": 247795565,
+						"2015": 245068442,
 						"2016": 245945126
 					}
 				},
 				"children": [
 					{
-						"id": "278",
+						"id": "241",
 						"name": "Purchase of Services",
 						"gross_cost": {
 							"accounts": {
@@ -2730,11 +2372,11 @@
 						}
 					},
 					{
-						"id": "279",
+						"id": "242",
 						"name": "Debt Service",
 						"gross_cost": {
 							"accounts": {
-								"2015": 136578259,
+								"2015": 133851136,
 								"2016": 141398213
 							}
 						}
@@ -2742,27 +2384,27 @@
 				]
 			},
 			{
-				"id": "76",
+				"id": "77",
 				"name": "Streets",
 				"gross_cost": {
 					"accounts": {
-						"2015": 117613424,
+						"2015": 124751276,
 						"2016": 125406720
 					}
 				},
 				"children": [
 					{
-						"id": "280",
+						"id": "243",
 						"name": "Personal Services",
 						"gross_cost": {
 							"accounts": {
-								"2015": 67466836,
+								"2015": 74264688,
 								"2016": 72724132
 							}
 						}
 					},
 					{
-						"id": "281",
+						"id": "244",
 						"name": "Purchase of Services",
 						"gross_cost": {
 							"accounts": {
@@ -2772,27 +2414,17 @@
 						}
 					},
 					{
-						"id": "282",
+						"id": "245",
 						"name": "Materials and Supplies",
 						"gross_cost": {
 							"accounts": {
-								"2015": 3379739,
+								"2015": 3809962,
 								"2016": 3809962
 							}
 						}
 					},
 					{
-						"id": "283",
-						"name": "Equipment",
-						"gross_cost": {
-							"accounts": {
-								"2015": 430223,
-								"2016": 0
-							}
-						}
-					},
-					{
-						"id": "284",
+						"id": "246",
 						"name": "Contributions, Indemnities, Refunds, Taxes",
 						"gross_cost": {
 							"accounts": {
@@ -2800,31 +2432,41 @@
 								"2016": 53171
 							}
 						}
+					},
+					{
+						"id": "247",
+						"name": "Payments to Other Funds",
+						"gross_cost": {
+							"accounts": {
+								"2015": 340000,
+								"2016": 0
+							}
+						}
 					}
 				]
 			},
 			{
-				"id": "77",
+				"id": "78",
 				"name": "Youth Commission",
 				"gross_cost": {
 					"accounts": {
-						"2015": 140080,
+						"2015": 142296,
 						"2016": 142740
 					}
 				},
 				"children": [
 					{
-						"id": "285",
+						"id": "248",
 						"name": "Personal Services",
 						"gross_cost": {
 							"accounts": {
-								"2015": 90000,
+								"2015": 92216,
 								"2016": 92660
 							}
 						}
 					},
 					{
-						"id": "286",
+						"id": "249",
 						"name": "Purchase of Services",
 						"gross_cost": {
 							"accounts": {
@@ -2834,44 +2476,12 @@
 						}
 					},
 					{
-						"id": "287",
+						"id": "250",
 						"name": "Materials and Supplies",
 						"gross_cost": {
 							"accounts": {
-								"2015": 2580,
+								"2015": 4080,
 								"2016": 4080
-							}
-						}
-					},
-					{
-						"id": "288",
-						"name": "Equipment",
-						"gross_cost": {
-							"accounts": {
-								"2015": 1500,
-								"2016": 0
-							}
-						}
-					}
-				]
-			},
-			{
-				"id": "78",
-				"name": "Mayor's Office of Community Services (now CEO)",
-				"gross_cost": {
-					"accounts": {
-						"2015": 0,
-						"2016": 605000
-					}
-				},
-				"children": [
-					{
-						"id": "289",
-						"name": "Purchase of Services",
-						"gross_cost": {
-							"accounts": {
-								"2015": 0,
-								"2016": 605000
 							}
 						}
 					}
@@ -2888,7 +2498,7 @@
 				},
 				"children": [
 					{
-						"id": "290",
+						"id": "251",
 						"name": "Personal Services",
 						"gross_cost": {
 							"accounts": {
@@ -2898,7 +2508,7 @@
 						}
 					},
 					{
-						"id": "291",
+						"id": "252",
 						"name": "Purchase of Services",
 						"gross_cost": {
 							"accounts": {
@@ -2908,7 +2518,7 @@
 						}
 					},
 					{
-						"id": "292",
+						"id": "253",
 						"name": "Materials and Supplies",
 						"gross_cost": {
 							"accounts": {
@@ -2926,13 +2536,13 @@
 		"name": "Grants Revenue Fund",
 		"gross_cost": {
 			"accounts": {
-				"2015": 1502482000,
+				"2015": 1273444855,
 				"2016": 1558634000
 			}
 		},
 		"children": [
 			{
-				"id": "315",
+				"id": "274",
 				"name": "Auditing",
 				"gross_cost": {
 					"accounts": {
@@ -2942,31 +2552,21 @@
 				},
 				"children": [
 					{
-						"id": "344",
-						"name": "Purchase of Services",
-						"gross_cost": {
-							"accounts": {
-								"2015": 169999,
-								"2016": 0
-							}
-						}
-					},
-					{
-						"id": "345",
+						"id": "302",
 						"name": "Materials and Supplies",
 						"gross_cost": {
 							"accounts": {
-								"2015": 50000,
+								"2015": 74999,
 								"2016": 74999
 							}
 						}
 					},
 					{
-						"id": "346",
+						"id": "303",
 						"name": "Equipment",
 						"gross_cost": {
 							"accounts": {
-								"2015": 30000,
+								"2015": 175000,
 								"2016": 175000
 							}
 						}
@@ -2974,7 +2574,7 @@
 				]
 			},
 			{
-				"id": "316",
+				"id": "275",
 				"name": "City Commissioners",
 				"gross_cost": {
 					"accounts": {
@@ -2984,7 +2584,7 @@
 				},
 				"children": [
 					{
-						"id": "347",
+						"id": "304",
 						"name": "Personal Services",
 						"gross_cost": {
 							"accounts": {
@@ -2994,7 +2594,7 @@
 						}
 					},
 					{
-						"id": "348",
+						"id": "305",
 						"name": "Purchase of Services",
 						"gross_cost": {
 							"accounts": {
@@ -3004,7 +2604,7 @@
 						}
 					},
 					{
-						"id": "349",
+						"id": "306",
 						"name": "Materials and Supplies",
 						"gross_cost": {
 							"accounts": {
@@ -3014,7 +2614,7 @@
 						}
 					},
 					{
-						"id": "350",
+						"id": "307",
 						"name": "Equipment",
 						"gross_cost": {
 							"accounts": {
@@ -3026,37 +2626,37 @@
 				]
 			},
 			{
-				"id": "317",
+				"id": "276",
 				"name": "City Planning Commission",
 				"gross_cost": {
 					"accounts": {
-						"2015": 611573,
+						"2015": 762573,
 						"2016": 1432067
 					}
 				},
 				"children": [
 					{
-						"id": "351",
+						"id": "308",
 						"name": "Personal Services",
 						"gross_cost": {
 							"accounts": {
-								"2015": 120747,
+								"2015": 121867,
 								"2016": 475261
 							}
 						}
 					},
 					{
-						"id": "352",
+						"id": "309",
 						"name": "Purchase of Services",
 						"gross_cost": {
 							"accounts": {
-								"2015": 490508,
+								"2015": 640388,
 								"2016": 955206
 							}
 						}
 					},
 					{
-						"id": "353",
+						"id": "310",
 						"name": "Payments to Other Funds",
 						"gross_cost": {
 							"accounts": {
@@ -3068,83 +2668,83 @@
 				]
 			},
 			{
-				"id": "318",
-				"name": "Commerce",
+				"id": "277",
+				"name": "City Representative",
 				"gross_cost": {
 					"accounts": {
-						"2015": 12574316,
-						"2016": 0
+						"2015": 14220068,
+						"2016": 10861802
 					}
 				},
 				"children": [
 					{
-						"id": "354",
+						"id": "311",
 						"name": "Personal Services",
 						"gross_cost": {
 							"accounts": {
-								"2015": 34814,
-								"2016": 0
+								"2015": 49814,
+								"2016": 49814
 							}
 						}
 					},
 					{
-						"id": "355",
+						"id": "312",
 						"name": "Purchase of Services",
 						"gross_cost": {
 							"accounts": {
-								"2015": 12539502,
-								"2016": 0
+								"2015": 14170254,
+								"2016": 10811988
 							}
 						}
 					}
 				]
 			},
 			{
-				"id": "319",
+				"id": "278",
 				"name": "District Attorney",
 				"gross_cost": {
 					"accounts": {
-						"2015": 17644412,
+						"2015": 16930781,
 						"2016": 16710342
 					}
 				},
 				"children": [
 					{
-						"id": "356",
+						"id": "313",
 						"name": "Personal Services",
 						"gross_cost": {
 							"accounts": {
-								"2015": 15774000,
+								"2015": 15387445,
 								"2016": 15475000
 							}
 						}
 					},
 					{
-						"id": "357",
+						"id": "314",
 						"name": "Purchase of Services",
 						"gross_cost": {
 							"accounts": {
-								"2015": 1736412,
+								"2015": 1436968,
 								"2016": 1124880
 							}
 						}
 					},
 					{
-						"id": "358",
+						"id": "315",
 						"name": "Materials and Supplies",
 						"gross_cost": {
 							"accounts": {
-								"2015": 31000,
+								"2015": 17050,
 								"2016": 26000
 							}
 						}
 					},
 					{
-						"id": "359",
+						"id": "316",
 						"name": "Equipment",
 						"gross_cost": {
 							"accounts": {
-								"2015": 103000,
+								"2015": 89318,
 								"2016": 84462
 							}
 						}
@@ -3152,73 +2752,51 @@
 				]
 			},
 			{
-				"id": "320",
-				"name": "Finance",
-				"gross_cost": {
-					"accounts": {
-						"2015": 200000311,
-						"2016": 0
-					}
-				},
-				"children": [
-					{
-						"id": "360",
-						"name": "Advances & Other Misc Payments",
-						"gross_cost": {
-							"accounts": {
-								"2015": 200000311,
-								"2016": 0
-							}
-						}
-					}
-				]
-			},
-			{
-				"id": "321",
+				"id": "279",
 				"name": "Fire",
 				"gross_cost": {
 					"accounts": {
-						"2015": 15464293,
+						"2015": 11246995,
 						"2016": 11248691
 					}
 				},
 				"children": [
 					{
-						"id": "361",
+						"id": "317",
 						"name": "Personal Services",
 						"gross_cost": {
 							"accounts": {
-								"2015": 12091000,
+								"2015": 9490300,
 								"2016": 9491996
 							}
 						}
 					},
 					{
-						"id": "362",
+						"id": "318",
 						"name": "Purchase of Services",
 						"gross_cost": {
 							"accounts": {
-								"2015": 1590480,
+								"2015": 1388014,
 								"2016": 1388014
 							}
 						}
 					},
 					{
-						"id": "363",
+						"id": "319",
 						"name": "Materials and Supplies",
 						"gross_cost": {
 							"accounts": {
-								"2015": 1357813,
+								"2015": 223348,
 								"2016": 223348
 							}
 						}
 					},
 					{
-						"id": "364",
+						"id": "320",
 						"name": "Equipment",
 						"gross_cost": {
 							"accounts": {
-								"2015": 425000,
+								"2015": 145333,
 								"2016": 145333
 							}
 						}
@@ -3226,51 +2804,51 @@
 				]
 			},
 			{
-				"id": "322",
+				"id": "280",
 				"name": "First Judicial District",
 				"gross_cost": {
 					"accounts": {
-						"2015": 48833436,
+						"2015": 44123248,
 						"2016": 58306929
 					}
 				},
 				"children": [
 					{
-						"id": "365",
+						"id": "321",
 						"name": "Personal Services",
 						"gross_cost": {
 							"accounts": {
-								"2015": 39196921,
+								"2015": 37300895,
 								"2016": 50715911
 							}
 						}
 					},
 					{
-						"id": "366",
+						"id": "322",
 						"name": "Purchase of Services",
 						"gross_cost": {
 							"accounts": {
-								"2015": 8845627,
+								"2015": 6015231,
 								"2016": 6775539
 							}
 						}
 					},
 					{
-						"id": "367",
+						"id": "323",
 						"name": "Materials and Supplies",
 						"gross_cost": {
 							"accounts": {
-								"2015": 489397,
+								"2015": 491231,
 								"2016": 491967
 							}
 						}
 					},
 					{
-						"id": "368",
+						"id": "324",
 						"name": "Equipment",
 						"gross_cost": {
 							"accounts": {
-								"2015": 301491,
+								"2015": 315891,
 								"2016": 323512
 							}
 						}
@@ -3278,51 +2856,51 @@
 				]
 			},
 			{
-				"id": "323",
+				"id": "281",
 				"name": "Free Library",
 				"gross_cost": {
 					"accounts": {
-						"2015": 8523461,
+						"2015": 7937368,
 						"2016": 8514044
 					}
 				},
 				"children": [
 					{
-						"id": "369",
+						"id": "325",
 						"name": "Personal Services",
 						"gross_cost": {
 							"accounts": {
-								"2015": 1660751,
+								"2015": 1125717,
 								"2016": 1226084
 							}
 						}
 					},
 					{
-						"id": "370",
+						"id": "326",
 						"name": "Purchase of Services",
 						"gross_cost": {
 							"accounts": {
-								"2015": 3544688,
+								"2015": 3655600,
 								"2016": 3921223
 							}
 						}
 					},
 					{
-						"id": "371",
+						"id": "327",
 						"name": "Materials and Supplies",
 						"gross_cost": {
 							"accounts": {
-								"2015": 3150447,
+								"2015": 3020807,
 								"2016": 3221883
 							}
 						}
 					},
 					{
-						"id": "372",
+						"id": "328",
 						"name": "Equipment",
 						"gross_cost": {
 							"accounts": {
-								"2015": 167575,
+								"2015": 135244,
 								"2016": 144854
 							}
 						}
@@ -3330,51 +2908,51 @@
 				]
 			},
 			{
-				"id": "324",
+				"id": "282",
 				"name": "Human Services",
 				"gross_cost": {
 					"accounts": {
-						"2015": 559112040,
+						"2015": 571292534,
 						"2016": 570828973
 					}
 				},
 				"children": [
 					{
-						"id": "373",
+						"id": "329",
 						"name": "Personal Services",
 						"gross_cost": {
 							"accounts": {
-								"2015": 113396741,
+								"2015": 111014684,
 								"2016": 116949046
 							}
 						}
 					},
 					{
-						"id": "374",
+						"id": "330",
 						"name": "Purchase of Services",
 						"gross_cost": {
 							"accounts": {
-								"2015": 443660994,
+								"2015": 458262753,
 								"2016": 451172464
 							}
 						}
 					},
 					{
-						"id": "375",
+						"id": "331",
 						"name": "Materials and Supplies",
 						"gross_cost": {
 							"accounts": {
-								"2015": 1426457,
+								"2015": 1328710,
 								"2016": 1337197
 							}
 						}
 					},
 					{
-						"id": "376",
+						"id": "332",
 						"name": "Equipment",
 						"gross_cost": {
 							"accounts": {
-								"2015": 627848,
+								"2015": 686387,
 								"2016": 1370266
 							}
 						}
@@ -3382,7 +2960,29 @@
 				]
 			},
 			{
-				"id": "325",
+				"id": "283",
+				"name": "Law",
+				"gross_cost": {
+					"accounts": {
+						"2015": 3085,
+						"2016": 0
+					}
+				},
+				"children": [
+					{
+						"id": "333",
+						"name": "Purchase of Services",
+						"gross_cost": {
+							"accounts": {
+								"2015": 3085,
+								"2016": 0
+							}
+						}
+					}
+				]
+			},
+			{
+				"id": "284",
 				"name": "Licenses and Inspections",
 				"gross_cost": {
 					"accounts": {
@@ -3392,7 +2992,7 @@
 				},
 				"children": [
 					{
-						"id": "377",
+						"id": "334",
 						"name": "Purchase of Services",
 						"gross_cost": {
 							"accounts": {
@@ -3404,51 +3004,51 @@
 				]
 			},
 			{
-				"id": "326",
+				"id": "285",
 				"name": "Managing Director's Office",
 				"gross_cost": {
 					"accounts": {
-						"2015": 4971329,
+						"2015": 6203542,
 						"2016": 6268585
 					}
 				},
 				"children": [
 					{
-						"id": "378",
+						"id": "335",
 						"name": "Personal Services",
 						"gross_cost": {
 							"accounts": {
-								"2015": 1623174,
+								"2015": 2008338,
 								"2016": 1864474
 							}
 						}
 					},
 					{
-						"id": "379",
+						"id": "336",
 						"name": "Purchase of Services",
 						"gross_cost": {
 							"accounts": {
-								"2015": 3011529,
+								"2015": 3820431,
 								"2016": 4021103
 							}
 						}
 					},
 					{
-						"id": "380",
+						"id": "337",
 						"name": "Materials and Supplies",
 						"gross_cost": {
 							"accounts": {
-								"2015": 210578,
+								"2015": 174878,
 								"2016": 183113
 							}
 						}
 					},
 					{
-						"id": "381",
+						"id": "338",
 						"name": "Equipment",
 						"gross_cost": {
 							"accounts": {
-								"2015": 126048,
+								"2015": 199895,
 								"2016": 199895
 							}
 						}
@@ -3456,7 +3056,7 @@
 				]
 			},
 			{
-				"id": "327",
+				"id": "286",
 				"name": "Mayor's Office",
 				"gross_cost": {
 					"accounts": {
@@ -3466,7 +3066,7 @@
 				},
 				"children": [
 					{
-						"id": "382",
+						"id": "339",
 						"name": "Personal Services",
 						"gross_cost": {
 							"accounts": {
@@ -3476,7 +3076,7 @@
 						}
 					},
 					{
-						"id": "383",
+						"id": "340",
 						"name": "Purchase of Services",
 						"gross_cost": {
 							"accounts": {
@@ -3486,7 +3086,7 @@
 						}
 					},
 					{
-						"id": "384",
+						"id": "341",
 						"name": "Materials and Supplies",
 						"gross_cost": {
 							"accounts": {
@@ -3496,7 +3096,7 @@
 						}
 					},
 					{
-						"id": "385",
+						"id": "342",
 						"name": "Equipment",
 						"gross_cost": {
 							"accounts": {
@@ -3508,51 +3108,51 @@
 				]
 			},
 			{
-				"id": "328",
+				"id": "287",
 				"name": "Mayor's Office of Community Services (now CEO)",
 				"gross_cost": {
 					"accounts": {
-						"2015": 16810562,
+						"2015": 12739511,
 						"2016": 15924390
 					}
 				},
 				"children": [
 					{
-						"id": "386",
+						"id": "343",
 						"name": "Personal Services",
 						"gross_cost": {
 							"accounts": {
-								"2015": 2785226,
+								"2015": 2240514,
 								"2016": 2800644
 							}
 						}
 					},
 					{
-						"id": "387",
+						"id": "344",
 						"name": "Purchase of Services",
 						"gross_cost": {
 							"accounts": {
-								"2015": 13924299,
+								"2015": 10460497,
 								"2016": 13075621
 							}
 						}
 					},
 					{
-						"id": "388",
+						"id": "345",
 						"name": "Materials and Supplies",
 						"gross_cost": {
 							"accounts": {
-								"2015": 45938,
+								"2015": 10500,
 								"2016": 13125
 							}
 						}
 					},
 					{
-						"id": "389",
+						"id": "346",
 						"name": "Equipment",
 						"gross_cost": {
 							"accounts": {
-								"2015": 55099,
+								"2015": 28000,
 								"2016": 35000
 							}
 						}
@@ -3560,17 +3160,17 @@
 				]
 			},
 			{
-				"id": "329",
+				"id": "288",
 				"name": "Mayor's Office of Transportation & Utilities",
 				"gross_cost": {
 					"accounts": {
-						"2015": 1143534,
+						"2015": 825935,
 						"2016": 1828518
 					}
 				},
 				"children": [
 					{
-						"id": "390",
+						"id": "347",
 						"name": "Personal Services",
 						"gross_cost": {
 							"accounts": {
@@ -3580,21 +3180,21 @@
 						}
 					},
 					{
-						"id": "391",
+						"id": "348",
 						"name": "Purchase of Services",
 						"gross_cost": {
 							"accounts": {
-								"2015": 1016224,
+								"2015": 698435,
 								"2016": 1698435
 							}
 						}
 					},
 					{
-						"id": "392",
+						"id": "349",
 						"name": "Materials and Supplies",
 						"gross_cost": {
 							"accounts": {
-								"2015": 2310,
+								"2015": 2500,
 								"2016": 2500
 							}
 						}
@@ -3602,37 +3202,37 @@
 				]
 			},
 			{
-				"id": "330",
+				"id": "289",
 				"name": "Office of Behavioral Health and Intellectual disAbilities",
 				"gross_cost": {
 					"accounts": {
-						"2015": 254866618,
+						"2015": 243745007,
 						"2016": 254797914
 					}
 				},
 				"children": [
 					{
-						"id": "393",
+						"id": "350",
 						"name": "Personal Services",
 						"gross_cost": {
 							"accounts": {
-								"2015": 21639389,
+								"2015": 22243030,
 								"2016": 23142889
 							}
 						}
 					},
 					{
-						"id": "394",
+						"id": "351",
 						"name": "Purchase of Services",
 						"gross_cost": {
 							"accounts": {
-								"2015": 232798628,
+								"2015": 221073234,
 								"2016": 231221587
 							}
 						}
 					},
 					{
-						"id": "395",
+						"id": "352",
 						"name": "Materials and Supplies",
 						"gross_cost": {
 							"accounts": {
@@ -3642,7 +3242,7 @@
 						}
 					},
 					{
-						"id": "396",
+						"id": "353",
 						"name": "Equipment",
 						"gross_cost": {
 							"accounts": {
@@ -3652,11 +3252,11 @@
 						}
 					},
 					{
-						"id": "397",
+						"id": "354",
 						"name": "Payments to Other Funds",
 						"gross_cost": {
 							"accounts": {
-								"2015": 71411,
+								"2015": 71553,
 								"2016": 76248
 							}
 						}
@@ -3664,7 +3264,7 @@
 				]
 			},
 			{
-				"id": "331",
+				"id": "290",
 				"name": "Office of Housing and Community Development",
 				"gross_cost": {
 					"accounts": {
@@ -3674,7 +3274,7 @@
 				},
 				"children": [
 					{
-						"id": "398",
+						"id": "355",
 						"name": "Purchase of Services",
 						"gross_cost": {
 							"accounts": {
@@ -3686,31 +3286,41 @@
 				]
 			},
 			{
-				"id": "332",
+				"id": "291",
 				"name": "Office of Innovation and Technology",
 				"gross_cost": {
 					"accounts": {
-						"2015": 44880234,
+						"2015": 44935311,
 						"2016": 45670534
 					}
 				},
 				"children": [
 					{
-						"id": "399",
+						"id": "356",
 						"name": "Purchase of Services",
 						"gross_cost": {
 							"accounts": {
-								"2015": 385000,
+								"2015": 576661,
 								"2016": 967655
 							}
 						}
 					},
 					{
-						"id": "400",
+						"id": "357",
+						"name": "Equipment",
+						"gross_cost": {
+							"accounts": {
+								"2015": 66420,
+								"2016": 0
+							}
+						}
+					},
+					{
+						"id": "358",
 						"name": "Payments to Other Funds",
 						"gross_cost": {
 							"accounts": {
-								"2015": 44495234,
+								"2015": 44292230,
 								"2016": 44702879
 							}
 						}
@@ -3718,41 +3328,41 @@
 				]
 			},
 			{
-				"id": "333",
+				"id": "292",
 				"name": "Office of Supportive Housing",
 				"gross_cost": {
 					"accounts": {
-						"2015": 48224530,
+						"2015": 46524247,
 						"2016": 46554054
 					}
 				},
 				"children": [
 					{
-						"id": "401",
+						"id": "359",
 						"name": "Personal Services",
 						"gross_cost": {
 							"accounts": {
-								"2015": 598320,
+								"2015": 614129,
 								"2016": 710423
 							}
 						}
 					},
 					{
-						"id": "402",
+						"id": "360",
 						"name": "Purchase of Services",
 						"gross_cost": {
 							"accounts": {
-								"2015": 46419917,
+								"2015": 45022629,
 								"2016": 44956142
 							}
 						}
 					},
 					{
-						"id": "403",
+						"id": "361",
 						"name": "Materials and Supplies",
 						"gross_cost": {
 							"accounts": {
-								"2015": 1206293,
+								"2015": 887489,
 								"2016": 887489
 							}
 						}
@@ -3760,21 +3370,31 @@
 				]
 			},
 			{
-				"id": "334",
+				"id": "293",
 				"name": "Office of the Inspector General",
 				"gross_cost": {
 					"accounts": {
-						"2015": 13884,
+						"2015": 5884,
 						"2016": 0
 					}
 				},
 				"children": [
 					{
-						"id": "404",
+						"id": "362",
 						"name": "Purchase of Services",
 						"gross_cost": {
 							"accounts": {
-								"2015": 13884,
+								"2015": 4884,
+								"2016": 0
+							}
+						}
+					},
+					{
+						"id": "363",
+						"name": "Materials and Supplies",
+						"gross_cost": {
+							"accounts": {
+								"2015": 1000,
 								"2016": 0
 							}
 						}
@@ -3782,61 +3402,61 @@
 				]
 			},
 			{
-				"id": "335",
+				"id": "294",
 				"name": "Parks and Recreation",
 				"gross_cost": {
 					"accounts": {
-						"2015": 11099603,
+						"2015": 11283134,
 						"2016": 11274929
 					}
 				},
 				"children": [
 					{
-						"id": "405",
+						"id": "364",
 						"name": "Personal Services",
 						"gross_cost": {
 							"accounts": {
-								"2015": 2942099,
+								"2015": 3902439,
 								"2016": 3836352
 							}
 						}
 					},
 					{
-						"id": "406",
+						"id": "365",
 						"name": "Purchase of Services",
 						"gross_cost": {
 							"accounts": {
-								"2015": 1841812,
+								"2015": 892836,
 								"2016": 922703
 							}
 						}
 					},
 					{
-						"id": "407",
+						"id": "366",
 						"name": "Materials and Supplies",
 						"gross_cost": {
 							"accounts": {
-								"2015": 6260692,
+								"2015": 6311248,
 								"2016": 6335874
 							}
 						}
 					},
 					{
-						"id": "408",
+						"id": "367",
 						"name": "Equipment",
 						"gross_cost": {
 							"accounts": {
-								"2015": 55000,
+								"2015": 66611,
 								"2016": 70000
 							}
 						}
 					},
 					{
-						"id": "409",
+						"id": "368",
 						"name": "Contributions, Indemnities, Refunds, Taxes",
 						"gross_cost": {
 							"accounts": {
-								"2015": 0,
+								"2015": 110000,
 								"2016": 110000
 							}
 						}
@@ -3844,51 +3464,51 @@
 				]
 			},
 			{
-				"id": "336",
+				"id": "295",
 				"name": "Police",
 				"gross_cost": {
 					"accounts": {
-						"2015": 25967085,
+						"2015": 12389875,
 						"2016": 26929241
 					}
 				},
 				"children": [
 					{
-						"id": "410",
+						"id": "369",
 						"name": "Personal Services",
 						"gross_cost": {
 							"accounts": {
-								"2015": 7047374,
+								"2015": 3942201,
 								"2016": 6249926
 							}
 						}
 					},
 					{
-						"id": "411",
+						"id": "370",
 						"name": "Purchase of Services",
 						"gross_cost": {
 							"accounts": {
-								"2015": 6300270,
+								"2015": 3744799,
 								"2016": 6276769
 							}
 						}
 					},
 					{
-						"id": "412",
+						"id": "371",
 						"name": "Materials and Supplies",
 						"gross_cost": {
 							"accounts": {
-								"2015": 4955161,
+								"2015": 3041023,
 								"2016": 6040694
 							}
 						}
 					},
 					{
-						"id": "413",
+						"id": "372",
 						"name": "Equipment",
 						"gross_cost": {
 							"accounts": {
-								"2015": 7664280,
+								"2015": 1661852,
 								"2016": 8361852
 							}
 						}
@@ -3896,7 +3516,7 @@
 				]
 			},
 			{
-				"id": "337",
+				"id": "296",
 				"name": "Prisons",
 				"gross_cost": {
 					"accounts": {
@@ -3906,7 +3526,7 @@
 				},
 				"children": [
 					{
-						"id": "414",
+						"id": "373",
 						"name": "Purchase of Services",
 						"gross_cost": {
 							"accounts": {
@@ -3918,61 +3538,61 @@
 				]
 			},
 			{
-				"id": "338",
+				"id": "297",
 				"name": "Public Health",
 				"gross_cost": {
 					"accounts": {
-						"2015": 79514657,
+						"2015": 76049635,
 						"2016": 74681174
 					}
 				},
 				"children": [
 					{
-						"id": "415",
+						"id": "374",
 						"name": "Personal Services",
 						"gross_cost": {
 							"accounts": {
-								"2015": 15778185,
+								"2015": 14703459,
 								"2016": 15358732
 							}
 						}
 					},
 					{
-						"id": "416",
+						"id": "375",
 						"name": "Purchase of Services",
 						"gross_cost": {
 							"accounts": {
-								"2015": 61182597,
+								"2015": 58966822,
 								"2016": 56755608
 							}
 						}
 					},
 					{
-						"id": "417",
+						"id": "376",
 						"name": "Materials and Supplies",
 						"gross_cost": {
 							"accounts": {
-								"2015": 1225620,
+								"2015": 1115308,
 								"2016": 1059693
 							}
 						}
 					},
 					{
-						"id": "418",
+						"id": "377",
 						"name": "Equipment",
 						"gross_cost": {
 							"accounts": {
-								"2015": 595840,
+								"2015": 543691,
 								"2016": 641586
 							}
 						}
 					},
 					{
-						"id": "419",
+						"id": "378",
 						"name": "Payments to Other Funds",
 						"gross_cost": {
 							"accounts": {
-								"2015": 732415,
+								"2015": 720355,
 								"2016": 865555
 							}
 						}
@@ -3980,7 +3600,7 @@
 				]
 			},
 			{
-				"id": "339",
+				"id": "298",
 				"name": "Revenue",
 				"gross_cost": {
 					"accounts": {
@@ -3990,7 +3610,7 @@
 				},
 				"children": [
 					{
-						"id": "420",
+						"id": "379",
 						"name": "Purchase of Services",
 						"gross_cost": {
 							"accounts": {
@@ -4002,7 +3622,7 @@
 				]
 			},
 			{
-				"id": "340",
+				"id": "299",
 				"name": "Streets",
 				"gross_cost": {
 					"accounts": {
@@ -4012,7 +3632,7 @@
 				},
 				"children": [
 					{
-						"id": "421",
+						"id": "380",
 						"name": "Personal Services",
 						"gross_cost": {
 							"accounts": {
@@ -4022,31 +3642,31 @@
 						}
 					},
 					{
-						"id": "422",
+						"id": "381",
 						"name": "Purchase of Services",
 						"gross_cost": {
 							"accounts": {
-								"2015": 25449000,
+								"2015": 25454519,
 								"2016": 31905144
 							}
 						}
 					},
 					{
-						"id": "423",
+						"id": "382",
 						"name": "Materials and Supplies",
 						"gross_cost": {
 							"accounts": {
-								"2015": 1804000,
+								"2015": 1899856,
 								"2016": 1849856
 							}
 						}
 					},
 					{
-						"id": "424",
+						"id": "383",
 						"name": "Equipment",
 						"gross_cost": {
 							"accounts": {
-								"2015": 2305000,
+								"2015": 2203625,
 								"2016": 1755000
 							}
 						}
@@ -4054,39 +3674,7 @@
 				]
 			},
 			{
-				"id": "341",
-				"name": "City Representative",
-				"gross_cost": {
-					"accounts": {
-						"2015": 0,
-						"2016": 10861802
-					}
-				},
-				"children": [
-					{
-						"id": "425",
-						"name": "Personal Services",
-						"gross_cost": {
-							"accounts": {
-								"2015": 0,
-								"2016": 49814
-							}
-						}
-					},
-					{
-						"id": "426",
-						"name": "Purchase of Services",
-						"gross_cost": {
-							"accounts": {
-								"2015": 0,
-								"2016": 10811988
-							}
-						}
-					}
-				]
-			},
-			{
-				"id": "342",
+				"id": "300",
 				"name": "Finance - Provision for Other Grants",
 				"gross_cost": {
 					"accounts": {
@@ -4096,7 +3684,7 @@
 				},
 				"children": [
 					{
-						"id": "427",
+						"id": "384",
 						"name": "Advances & Other Misc Payments",
 						"gross_cost": {
 							"accounts": {
@@ -4108,7 +3696,7 @@
 				]
 			},
 			{
-				"id": "343",
+				"id": "301",
 				"name": "Office of Sustainability",
 				"gross_cost": {
 					"accounts": {
@@ -4118,7 +3706,7 @@
 				},
 				"children": [
 					{
-						"id": "428",
+						"id": "385",
 						"name": "Personal Services",
 						"gross_cost": {
 							"accounts": {
@@ -4136,33 +3724,33 @@
 		"name": "Health Choices Behavioral Health Fund",
 		"gross_cost": {
 			"accounts": {
-				"2015": 932552000,
+				"2015": 860554339,
 				"2016": 961552000
 			}
 		},
 		"children": [
 			{
-				"id": "309",
+				"id": "268",
 				"name": "Office of Behavioral Health and Intellectual disAbilities",
 				"gross_cost": {
 					"accounts": {
-						"2015": 932552000,
+						"2015": 860554339,
 						"2016": 961552000
 					}
 				},
 				"children": [
 					{
-						"id": "310",
+						"id": "269",
 						"name": "Purchase of Services",
 						"gross_cost": {
 							"accounts": {
-								"2015": 930952000,
+								"2015": 858954339,
 								"2016": 960002000
 							}
 						}
 					},
 					{
-						"id": "311",
+						"id": "270",
 						"name": "Equipment",
 						"gross_cost": {
 							"accounts": {
@@ -4172,7 +3760,7 @@
 						}
 					},
 					{
-						"id": "312",
+						"id": "271",
 						"name": "Payments to Other Funds",
 						"gross_cost": {
 							"accounts": {
@@ -4190,75 +3778,77 @@
 		"name": "Water Fund",
 		"gross_cost": {
 			"accounts": {
-				"2015": 736214000,
+				"2015": 719079662,
 				"2016": 767314000
 			}
 		},
 		"children": [
 			{
-				"id": "458",
-				"name": "Finance",
+				"id": "412",
+				"name": "Finance - Employee Benefits",
 				"gross_cost": {
 					"accounts": {
-						"2015": 116699610,
-						"2016": 0
+						"2015": 106820209,
+						"2016": 110915262
 					}
 				},
 				"children": [
 					{
-						"id": "471",
+						"id": "424",
 						"name": "Personal Services",
 						"gross_cost": {
 							"accounts": {
-								"2015": 99690012,
-								"2016": 0
-							}
-						}
-					},
-					{
-						"id": "472",
-						"name": "Contributions, Indemnities, Refunds, Taxes",
-						"gross_cost": {
-							"accounts": {
-								"2015": 6500000,
-								"2016": 0
-							}
-						}
-					},
-					{
-						"id": "473",
-						"name": "Advances & Other Misc Payments",
-						"gross_cost": {
-							"accounts": {
-								"2015": 10509598,
-								"2016": 0
+								"2015": 106820209,
+								"2016": 110915262
 							}
 						}
 					}
 				]
 			},
 			{
-				"id": "459",
+				"id": "413",
+				"name": "Finance - Indemnities",
+				"gross_cost": {
+					"accounts": {
+						"2015": 6500000,
+						"2016": 6500000
+					}
+				},
+				"children": [
+					{
+						"id": "425",
+						"name": "Contributions, Indemnities, Refunds, Taxes",
+						"gross_cost": {
+							"accounts": {
+								"2015": 6500000,
+								"2016": 6500000
+							}
+						}
+					}
+				]
+			},
+			{
+				"id": "414",
 				"name": "Fleet Management",
 				"gross_cost": {
 					"accounts": {
-						"2015": 8513898,
+						"2015": 8732957,
 						"2016": 8732957
 					}
 				},
 				"children": [
 					{
-						"id": "474",
+						"id": "426",
 						"name": "Personal Services",
 						"gross_cost": {
 							"accounts": {
-								"2015": 2750258,
+								"2015": 2969317,
 								"2016": 2969317
 							}
 						}
 					},
 					{
-						"id": "475",
+						"id": "427",
 						"name": "Purchase of Services",
 						"gross_cost": {
 							"accounts": {
@@ -4268,7 +3858,7 @@
 						}
 					},
 					{
-						"id": "476",
+						"id": "428",
 						"name": "Materials and Supplies",
 						"gross_cost": {
 							"accounts": {
@@ -4278,7 +3868,7 @@
 						}
 					},
 					{
-						"id": "477",
+						"id": "429",
 						"name": "Equipment",
 						"gross_cost": {
 							"accounts": {
@@ -4290,27 +3880,27 @@
 				]
 			},
 			{
-				"id": "460",
+				"id": "415",
 				"name": "Law",
 				"gross_cost": {
 					"accounts": {
-						"2015": 3166711,
+						"2015": 3240830,
 						"2016": 3240830
 					}
 				},
 				"children": [
 					{
-						"id": "478",
+						"id": "430",
 						"name": "Personal Services",
 						"gross_cost": {
 							"accounts": {
-								"2015": 2432087,
+								"2015": 2506206,
 								"2016": 2506206
 							}
 						}
 					},
 					{
-						"id": "479",
+						"id": "431",
 						"name": "Purchase of Services",
 						"gross_cost": {
 							"accounts": {
@@ -4320,7 +3910,7 @@
 						}
 					},
 					{
-						"id": "480",
+						"id": "432",
 						"name": "Materials and Supplies",
 						"gross_cost": {
 							"accounts": {
@@ -4330,7 +3920,7 @@
 						}
 					},
 					{
-						"id": "481",
+						"id": "433",
 						"name": "Equipment",
 						"gross_cost": {
 							"accounts": {
@@ -4342,7 +3932,7 @@
 				]
 			},
 			{
-				"id": "461",
+				"id": "416",
 				"name": "Mayor's Office of Transportation & Utilities",
 				"gross_cost": {
 					"accounts": {
@@ -4352,7 +3942,7 @@
 				},
 				"children": [
 					{
-						"id": "482",
+						"id": "434",
 						"name": "Personal Services",
 						"gross_cost": {
 							"accounts": {
@@ -4364,27 +3954,27 @@
 				]
 			},
 			{
-				"id": "462",
+				"id": "417",
 				"name": "Office of Innovation and Technology",
 				"gross_cost": {
 					"accounts": {
-						"2015": 19110663,
+						"2015": 18648226,
 						"2016": 22996936
 					}
 				},
 				"children": [
 					{
-						"id": "483",
+						"id": "435",
 						"name": "Personal Services",
 						"gross_cost": {
 							"accounts": {
-								"2015": 5741795,
+								"2015": 5279358,
 								"2016": 6265289
 							}
 						}
 					},
 					{
-						"id": "484",
+						"id": "436",
 						"name": "Purchase of Services",
 						"gross_cost": {
 							"accounts": {
@@ -4394,21 +3984,21 @@
 						}
 					},
 					{
-						"id": "485",
+						"id": "437",
 						"name": "Materials and Supplies",
 						"gross_cost": {
 							"accounts": {
-								"2015": 216200,
+								"2015": 383200,
 								"2016": 216200
 							}
 						}
 					},
 					{
-						"id": "486",
+						"id": "438",
 						"name": "Equipment",
 						"gross_cost": {
 							"accounts": {
-								"2015": 1601450,
+								"2015": 1434450,
 								"2016": 1808950
 							}
 						}
@@ -4416,21 +4006,21 @@
 				]
 			},
 			{
-				"id": "463",
+				"id": "418",
 				"name": "Procurement",
 				"gross_cost": {
 					"accounts": {
-						"2015": 69028,
+						"2015": 77383,
 						"2016": 77383
 					}
 				},
 				"children": [
 					{
-						"id": "487",
+						"id": "439",
 						"name": "Personal Services",
 						"gross_cost": {
 							"accounts": {
-								"2015": 69028,
+								"2015": 77383,
 								"2016": 77383
 							}
 						}
@@ -4438,7 +4028,7 @@
 				]
 			},
 			{
-				"id": "464",
+				"id": "419",
 				"name": "Public Property",
 				"gross_cost": {
 					"accounts": {
@@ -4448,7 +4038,7 @@
 				},
 				"children": [
 					{
-						"id": "488",
+						"id": "440",
 						"name": "Purchase of Services",
 						"gross_cost": {
 							"accounts": {
@@ -4460,61 +4050,61 @@
 				]
 			},
 			{
-				"id": "465",
+				"id": "420",
 				"name": "Revenue",
 				"gross_cost": {
 					"accounts": {
-						"2015": 15473348,
+						"2015": 15477114,
 						"2016": 16269239
 					}
 				},
 				"children": [
 					{
-						"id": "489",
+						"id": "441",
 						"name": "Personal Services",
 						"gross_cost": {
 							"accounts": {
-								"2015": 10582948,
+								"2015": 10771283,
 								"2016": 11138839
 							}
 						}
 					},
 					{
-						"id": "490",
+						"id": "442",
 						"name": "Purchase of Services",
 						"gross_cost": {
 							"accounts": {
-								"2015": 4244480,
+								"2015": 4225017,
 								"2016": 4484480
 							}
 						}
 					},
 					{
-						"id": "491",
+						"id": "443",
 						"name": "Materials and Supplies",
 						"gross_cost": {
 							"accounts": {
-								"2015": 514485,
+								"2015": 321430,
 								"2016": 514485
 							}
 						}
 					},
 					{
-						"id": "492",
+						"id": "444",
 						"name": "Equipment",
 						"gross_cost": {
 							"accounts": {
-								"2015": 126435,
+								"2015": 157542,
 								"2016": 126435
 							}
 						}
 					},
 					{
-						"id": "493",
+						"id": "445",
 						"name": "Contributions, Indemnities, Refunds, Taxes",
 						"gross_cost": {
 							"accounts": {
-								"2015": 5000,
+								"2015": 1842,
 								"2016": 5000
 							}
 						}
@@ -4522,21 +4112,21 @@
 				]
 			},
 			{
-				"id": "466",
+				"id": "421",
 				"name": "Sinking Fund Commission (Debt Service)",
 				"gross_cost": {
 					"accounts": {
-						"2015": 213189924,
+						"2015": 206318138,
 						"2016": 227139336
 					}
 				},
 				"children": [
 					{
-						"id": "494",
+						"id": "446",
 						"name": "Debt Service",
 						"gross_cost": {
 							"accounts": {
-								"2015": 213189924,
+								"2015": 206318138,
 								"2016": 227139336
 							}
 						}
@@ -4544,123 +4134,79 @@
 				]
 			},
 			{
-				"id": "467",
+				"id": "422",
 				"name": "Water",
 				"gross_cost": {
 					"accounts": {
-						"2015": 355800013,
+						"2015": 349074000,
 						"2016": 367167000
 					}
 				},
 				"children": [
 					{
-						"id": "495",
+						"id": "447",
 						"name": "Personal Services",
 						"gross_cost": {
 							"accounts": {
-								"2015": 94878263,
+								"2015": 99000000,
 								"2016": 102961600
 							}
 						}
 					},
 					{
-						"id": "496",
+						"id": "448",
 						"name": "Purchase of Services",
 						"gross_cost": {
 							"accounts": {
-								"2015": 146093400,
+								"2015": 139146900,
 								"2016": 151645200
 							}
 						}
 					},
 					{
-						"id": "497",
+						"id": "449",
 						"name": "Materials and Supplies",
 						"gross_cost": {
 							"accounts": {
-								"2015": 45096500,
+								"2015": 42117600,
 								"2016": 44061850
 							}
 						}
 					},
 					{
-						"id": "498",
+						"id": "450",
 						"name": "Equipment",
 						"gross_cost": {
 							"accounts": {
-								"2015": 2666850,
+								"2015": 2168500,
 								"2016": 3398350
 							}
 						}
 					},
 					{
-						"id": "499",
-						"name": "Contributions, Indemnities, Refunds, Taxes",
+						"id": "451",
+						"name": "Payments to Other Funds",
 						"gross_cost": {
 							"accounts": {
-								"2015": 100000,
-								"2016": 100000
+								"2015": 66641000,
+								"2016": 65000000
 							}
 						}
 					},
 					{
-						"id": "500",
-						"name": "Payments to Other Funds",
-						"gross_cost": {
-							"accounts": {
-								"2015": 66965000,
-								"2016": 65000000
-							}
-						}
-					}
-				]
-			},
-			{
-				"id": "468",
-				"name": "Finance - Employee Benefits",
-				"gross_cost": {
-					"accounts": {
-						"2015": 0,
-						"2016": 110915262
-					}
-				},
-				"children": [
-					{
-						"id": "501",
-						"name": "Personal Services",
-						"gross_cost": {
-							"accounts": {
-								"2015": 0,
-								"2016": 110915262
-							}
-						}
-					}
-				]
-			},
-			{
-				"id": "469",
-				"name": "Finance - Indemnities",
-				"gross_cost": {
-					"accounts": {
-						"2015": 0,
-						"2016": 6500000
-					}
-				},
-				"children": [
-					{
-						"id": "502",
+						"id": "452",
 						"name": "Contributions, Indemnities, Refunds, Taxes",
 						"gross_cost": {
 							"accounts": {
 								"2015": 0,
-								"2016": 6500000
+								"2016": 100000
 							}
 						}
 					}
 				]
 			},
 			{
-				"id": "470",
+				"id": "423",
 				"name": "Office of Sustainability",
 				"gross_cost": {
 					"accounts": {
@@ -4670,7 +4216,7 @@
 				},
 				"children": [
 					{
-						"id": "503",
+						"id": "453",
 						"name": "Personal Services",
 						"gross_cost": {
 							"accounts": {
@@ -4680,7 +4226,7 @@
 						}
 					},
 					{
-						"id": "504",
+						"id": "454",
 						"name": "Purchase of Services",
 						"gross_cost": {
 							"accounts": {
@@ -4698,33 +4244,33 @@
 		"name": "Aviation Fund",
 		"gross_cost": {
 			"accounts": {
-				"2015": 449853000,
+				"2015": 427587043,
 				"2016": 440383000
 			}
 		},
 		"children": [
 			{
-				"id": "507",
+				"id": "457",
 				"name": "Aviation",
 				"gross_cost": {
 					"accounts": {
-						"2015": 168722666,
+						"2015": 168324000,
 						"2016": 183445841
 					}
 				},
 				"children": [
 					{
-						"id": "520",
+						"id": "470",
 						"name": "Personal Services",
 						"gross_cost": {
 							"accounts": {
-								"2015": 42616666,
+								"2015": 42218000,
 								"2016": 46218000
 							}
 						}
 					},
 					{
-						"id": "521",
+						"id": "471",
 						"name": "Purchase of Services",
 						"gross_cost": {
 							"accounts": {
@@ -4734,7 +4280,7 @@
 						}
 					},
 					{
-						"id": "522",
+						"id": "472",
 						"name": "Materials and Supplies",
 						"gross_cost": {
 							"accounts": {
@@ -4744,7 +4290,7 @@
 						}
 					},
 					{
-						"id": "523",
+						"id": "473",
 						"name": "Equipment",
 						"gross_cost": {
 							"accounts": {
@@ -4754,7 +4300,7 @@
 						}
 					},
 					{
-						"id": "524",
+						"id": "474",
 						"name": "Contributions, Indemnities, Refunds, Taxes",
 						"gross_cost": {
 							"accounts": {
@@ -4764,7 +4310,7 @@
 						}
 					},
 					{
-						"id": "525",
+						"id": "475",
 						"name": "Payments to Other Funds",
 						"gross_cost": {
 							"accounts": {
@@ -4776,27 +4322,17 @@
 				]
 			},
 			{
-				"id": "508",
+				"id": "458",
 				"name": "Finance",
 				"gross_cost": {
 					"accounts": {
-						"2015": 64208921,
+						"2015": 4146000,
 						"2016": 4146000
 					}
 				},
 				"children": [
 					{
-						"id": "526",
-						"name": "Personal Services",
-						"gross_cost": {
-							"accounts": {
-								"2015": 52448607,
-								"2016": 0
-							}
-						}
-					},
-					{
-						"id": "527",
+						"id": "476",
 						"name": "Purchase of Services",
 						"gross_cost": {
 							"accounts": {
@@ -4804,31 +4340,55 @@
 								"2016": 4146000
 							}
 						}
-					},
+					}
+				]
+			},
+			{
+				"id": "459",
+				"name": "Finance - Employee Benefits",
+				"gross_cost": {
+					"accounts": {
+						"2015": 54880201,
+						"2016": 57194271
+					}
+				},
+				"children": [
 					{
-						"id": "528",
-						"name": "Materials and Supplies",
+						"id": "477",
+						"name": "Personal Services",
 						"gross_cost": {
 							"accounts": {
-								"2015": 2512000,
-								"2016": 0
-							}
-						}
-					},
-					{
-						"id": "529",
-						"name": "Advances & Other Misc Payments",
-						"gross_cost": {
-							"accounts": {
-								"2015": 5102314,
-								"2016": 0
+								"2015": 54880201,
+								"2016": 57194271
 							}
 						}
 					}
 				]
 			},
 			{
-				"id": "509",
+				"id": "460",
+				"name": "Finance - Indemnities",
+				"gross_cost": {
+					"accounts": {
+						"2015": 2512000,
+						"2016": 2512000
+					}
+				},
+				"children": [
+					{
+						"id": "478",
+						"name": "Contributions, Indemnities, Refunds, Taxes",
+						"gross_cost": {
+							"accounts": {
+								"2015": 2512000,
+								"2016": 2512000
+							}
+						}
+					}
+				]
+			},
+			{
+				"id": "461",
 				"name": "Fire",
 				"gross_cost": {
 					"accounts": {
@@ -4838,7 +4398,7 @@
 				},
 				"children": [
 					{
-						"id": "530",
+						"id": "479",
 						"name": "Personal Services",
 						"gross_cost": {
 							"accounts": {
@@ -4848,7 +4408,7 @@
 						}
 					},
 					{
-						"id": "531",
+						"id": "480",
 						"name": "Purchase of Services",
 						"gross_cost": {
 							"accounts": {
@@ -4858,7 +4418,7 @@
 						}
 					},
 					{
-						"id": "532",
+						"id": "481",
 						"name": "Materials and Supplies",
 						"gross_cost": {
 							"accounts": {
@@ -4868,7 +4428,7 @@
 						}
 					},
 					{
-						"id": "533",
+						"id": "482",
 						"name": "Equipment",
 						"gross_cost": {
 							"accounts": {
@@ -4878,7 +4438,7 @@
 						}
 					},
 					{
-						"id": "534",
+						"id": "483",
 						"name": "Payments to Other Funds",
 						"gross_cost": {
 							"accounts": {
@@ -4890,27 +4450,27 @@
 				]
 			},
 			{
-				"id": "510",
+				"id": "462",
 				"name": "Fleet Management",
 				"gross_cost": {
 					"accounts": {
-						"2015": 8163658,
+						"2015": 8245188,
 						"2016": 8245188
 					}
 				},
 				"children": [
 					{
-						"id": "535",
+						"id": "484",
 						"name": "Personal Services",
 						"gross_cost": {
 							"accounts": {
-								"2015": 1282658,
+								"2015": 1364188,
 								"2016": 1364188
 							}
 						}
 					},
 					{
-						"id": "536",
+						"id": "485",
 						"name": "Purchase of Services",
 						"gross_cost": {
 							"accounts": {
@@ -4920,21 +4480,21 @@
 						}
 					},
 					{
-						"id": "537",
+						"id": "486",
 						"name": "Materials and Supplies",
 						"gross_cost": {
 							"accounts": {
-								"2015": 1253000,
+								"2015": 1453000,
 								"2016": 1453000
 							}
 						}
 					},
 					{
-						"id": "538",
+						"id": "487",
 						"name": "Equipment",
 						"gross_cost": {
 							"accounts": {
-								"2015": 5040000,
+								"2015": 4840000,
 								"2016": 4840000
 							}
 						}
@@ -4942,27 +4502,27 @@
 				]
 			},
 			{
-				"id": "511",
+				"id": "463",
 				"name": "Law",
 				"gross_cost": {
 					"accounts": {
-						"2015": 1974039,
+						"2015": 2020599,
 						"2016": 2020599
 					}
 				},
 				"children": [
 					{
-						"id": "539",
+						"id": "488",
 						"name": "Personal Services",
 						"gross_cost": {
 							"accounts": {
-								"2015": 1517243,
+								"2015": 1563803,
 								"2016": 1563803
 							}
 						}
 					},
 					{
-						"id": "540",
+						"id": "489",
 						"name": "Purchase of Services",
 						"gross_cost": {
 							"accounts": {
@@ -4972,7 +4532,7 @@
 						}
 					},
 					{
-						"id": "541",
+						"id": "490",
 						"name": "Materials and Supplies",
 						"gross_cost": {
 							"accounts": {
@@ -4982,7 +4542,7 @@
 						}
 					},
 					{
-						"id": "542",
+						"id": "491",
 						"name": "Equipment",
 						"gross_cost": {
 							"accounts": {
@@ -4994,7 +4554,7 @@
 				]
 			},
 			{
-				"id": "512",
+				"id": "464",
 				"name": "Mayor's Office of Transportation & Utilities",
 				"gross_cost": {
 					"accounts": {
@@ -5004,7 +4564,7 @@
 				},
 				"children": [
 					{
-						"id": "543",
+						"id": "492",
 						"name": "Personal Services",
 						"gross_cost": {
 							"accounts": {
@@ -5016,27 +4576,27 @@
 				]
 			},
 			{
-				"id": "513",
+				"id": "465",
 				"name": "Office of Innovation and Technology",
 				"gross_cost": {
 					"accounts": {
-						"2015": 8664087,
+						"2015": 8571315,
 						"2016": 9620048
 					}
 				},
 				"children": [
 					{
-						"id": "544",
+						"id": "493",
 						"name": "Personal Services",
 						"gross_cost": {
 							"accounts": {
-								"2015": 333070,
+								"2015": 240298,
 								"2016": 297690
 							}
 						}
 					},
 					{
-						"id": "545",
+						"id": "494",
 						"name": "Purchase of Services",
 						"gross_cost": {
 							"accounts": {
@@ -5046,7 +4606,7 @@
 						}
 					},
 					{
-						"id": "546",
+						"id": "495",
 						"name": "Equipment",
 						"gross_cost": {
 							"accounts": {
@@ -5058,41 +4618,41 @@
 				]
 			},
 			{
-				"id": "514",
+				"id": "466",
 				"name": "Police",
 				"gross_cost": {
 					"accounts": {
-						"2015": 14834353,
+						"2015": 15240464,
 						"2016": 15782387
 					}
 				},
 				"children": [
 					{
-						"id": "547",
+						"id": "496",
 						"name": "Personal Services",
 						"gross_cost": {
 							"accounts": {
-								"2015": 14679353,
+								"2015": 15071064,
 								"2016": 15611887
 							}
 						}
 					},
 					{
-						"id": "548",
+						"id": "497",
 						"name": "Purchase of Services",
 						"gross_cost": {
 							"accounts": {
-								"2015": 77500,
+								"2015": 77000,
 								"2016": 77500
 							}
 						}
 					},
 					{
-						"id": "549",
+						"id": "498",
 						"name": "Materials and Supplies",
 						"gross_cost": {
 							"accounts": {
-								"2015": 77500,
+								"2015": 92400,
 								"2016": 93000
 							}
 						}
@@ -5100,7 +4660,7 @@
 				]
 			},
 			{
-				"id": "515",
+				"id": "467",
 				"name": "Public Property",
 				"gross_cost": {
 					"accounts": {
@@ -5110,21 +4670,11 @@
 				},
 				"children": [
 					{
-						"id": "550",
-						"name": "Personal Services",
-						"gross_cost": {
-							"accounts": {
-								"2015": 26900000,
-								"2016": 0
-							}
-						}
-					},
-					{
-						"id": "551",
+						"id": "499",
 						"name": "Purchase of Services",
 						"gross_cost": {
 							"accounts": {
-								"2015": 0,
+								"2015": 26900000,
 								"2016": 26900000
 							}
 						}
@@ -5132,21 +4682,21 @@
 				]
 			},
 			{
-				"id": "516",
+				"id": "468",
 				"name": "Sinking Fund Commission (Debt Service)",
 				"gross_cost": {
 					"accounts": {
-						"2015": 149463357,
+						"2015": 129825357,
 						"2016": 123505128
 					}
 				},
 				"children": [
 					{
-						"id": "552",
+						"id": "500",
 						"name": "Debt Service",
 						"gross_cost": {
 							"accounts": {
-								"2015": 149463357,
+								"2015": 129825357,
 								"2016": 123505128
 							}
 						}
@@ -5154,51 +4704,7 @@
 				]
 			},
 			{
-				"id": "517",
-				"name": "Finance - Employee Benefits",
-				"gross_cost": {
-					"accounts": {
-						"2015": 0,
-						"2016": 57194271
-					}
-				},
-				"children": [
-					{
-						"id": "553",
-						"name": "Personal Services",
-						"gross_cost": {
-							"accounts": {
-								"2015": 0,
-								"2016": 57194271
-							}
-						}
-					}
-				]
-			},
-			{
-				"id": "518",
-				"name": "Finance - Indemnities",
-				"gross_cost": {
-					"accounts": {
-						"2015": 0,
-						"2016": 2512000
-					}
-				},
-				"children": [
-					{
-						"id": "554",
-						"name": "Contributions, Indemnities, Refunds, Taxes",
-						"gross_cost": {
-							"accounts": {
-								"2015": 0,
-								"2016": 2512000
-							}
-						}
-					}
-				]
-			},
-			{
-				"id": "519",
+				"id": "469",
 				"name": "Office of Sustainability",
 				"gross_cost": {
 					"accounts": {
@@ -5208,7 +4714,7 @@
 				},
 				"children": [
 					{
-						"id": "555",
+						"id": "501",
 						"name": "Personal Services",
 						"gross_cost": {
 							"accounts": {
@@ -5218,7 +4724,7 @@
 						}
 					},
 					{
-						"id": "556",
+						"id": "502",
 						"name": "Purchase of Services",
 						"gross_cost": {
 							"accounts": {
@@ -5236,27 +4742,27 @@
 		"name": "Acute Care Hospital Assessment Fund",
 		"gross_cost": {
 			"accounts": {
-				"2015": 162573000,
+				"2015": 160607232,
 				"2016": 163166000
 			}
 		},
 		"children": [
 			{
-				"id": "557",
+				"id": "503",
 				"name": "Finance",
 				"gross_cost": {
 					"accounts": {
-						"2015": 336320,
+						"2015": 75000,
 						"2016": 75000
 					}
 				},
 				"children": [
 					{
-						"id": "561",
+						"id": "507",
 						"name": "Personal Services",
 						"gross_cost": {
 							"accounts": {
-								"2015": 336320,
+								"2015": 75000,
 								"2016": 75000
 							}
 						}
@@ -5264,27 +4770,49 @@
 				]
 			},
 			{
-				"id": "558",
+				"id": "504",
+				"name": "Finance - Employee Benefits",
+				"gross_cost": {
+					"accounts": {
+						"2015": 261320,
+						"2016": 268077
+					}
+				},
+				"children": [
+					{
+						"id": "508",
+						"name": "Personal Services",
+						"gross_cost": {
+							"accounts": {
+								"2015": 261320,
+								"2016": 268077
+							}
+						}
+					}
+				]
+			},
+			{
+				"id": "505",
 				"name": "Public Health",
 				"gross_cost": {
 					"accounts": {
-						"2015": 162191680,
+						"2015": 160225912,
 						"2016": 162777923
 					}
 				},
 				"children": [
 					{
-						"id": "562",
+						"id": "509",
 						"name": "Personal Services",
 						"gross_cost": {
 							"accounts": {
-								"2015": 4828785,
+								"2015": 3362517,
 								"2016": 5058008
 							}
 						}
 					},
 					{
-						"id": "563",
+						"id": "510",
 						"name": "Purchase of Services",
 						"gross_cost": {
 							"accounts": {
@@ -5294,31 +4822,31 @@
 						}
 					},
 					{
-						"id": "564",
+						"id": "511",
 						"name": "Materials and Supplies",
 						"gross_cost": {
 							"accounts": {
-								"2015": 6280,
+								"2015": 5500,
 								"2016": 21000
 							}
 						}
 					},
 					{
-						"id": "565",
+						"id": "512",
 						"name": "Equipment",
 						"gross_cost": {
 							"accounts": {
-								"2015": 5000,
+								"2015": 6280,
 								"2016": 60000
 							}
 						}
 					},
 					{
-						"id": "566",
+						"id": "513",
 						"name": "Payments to Other Funds",
 						"gross_cost": {
 							"accounts": {
-								"2015": 2000000,
+								"2015": 1500000,
 								"2016": 2000000
 							}
 						}
@@ -5326,7 +4854,7 @@
 				]
 			},
 			{
-				"id": "559",
+				"id": "506",
 				"name": "Revenue",
 				"gross_cost": {
 					"accounts": {
@@ -5336,7 +4864,7 @@
 				},
 				"children": [
 					{
-						"id": "567",
+						"id": "514",
 						"name": "Personal Services",
 						"gross_cost": {
 							"accounts": {
@@ -5346,54 +4874,22 @@
 						}
 					},
 					{
-						"id": "568",
-						"name": "Materials and Supplies",
-						"gross_cost": {
-							"accounts": {
-								"2015": 5000,
-								"2016": 10000
-							}
-						}
-					},
-					{
-						"id": "569",
-						"name": "Equipment",
-						"gross_cost": {
-							"accounts": {
-								"2015": 10000,
-								"2016": 0
-							}
-						}
-					},
-					{
-						"id": "570",
+						"id": "515",
 						"name": "Purchase of Services",
 						"gross_cost": {
 							"accounts": {
-								"2015": 0,
+								"2015": 5000,
 								"2016": 5000
 							}
 						}
-					}
-				]
-			},
-			{
-				"id": "560",
-				"name": "Finance - Employee Benefits",
-				"gross_cost": {
-					"accounts": {
-						"2015": 0,
-						"2016": 268077
-					}
-				},
-				"children": [
+					},
 					{
-						"id": "571",
-						"name": "Personal Services",
+						"id": "516",
+						"name": "Materials and Supplies",
 						"gross_cost": {
 							"accounts": {
-								"2015": 0,
-								"2016": 268077
+								"2015": 10000,
+								"2016": 10000
 							}
 						}
 					}
@@ -5406,13 +4902,13 @@
 		"name": "Community Development Fund",
 		"gross_cost": {
 			"accounts": {
-				"2015": 84447000,
+				"2015": 64447000,
 				"2016": 94161000
 			}
 		},
 		"children": [
 			{
-				"id": "429",
+				"id": "386",
 				"name": "City Planning Commission",
 				"gross_cost": {
 					"accounts": {
@@ -5422,7 +4918,7 @@
 				},
 				"children": [
 					{
-						"id": "437",
+						"id": "393",
 						"name": "Personal Services",
 						"gross_cost": {
 							"accounts": {
@@ -5434,7 +4930,7 @@
 				]
 			},
 			{
-				"id": "430",
+				"id": "387",
 				"name": "Commerce",
 				"gross_cost": {
 					"accounts": {
@@ -5444,7 +4940,7 @@
 				},
 				"children": [
 					{
-						"id": "438",
+						"id": "394",
 						"name": "Personal Services",
 						"gross_cost": {
 							"accounts": {
@@ -5454,7 +4950,7 @@
 						}
 					},
 					{
-						"id": "439",
+						"id": "395",
 						"name": "Purchase of Services",
 						"gross_cost": {
 							"accounts": {
@@ -5464,7 +4960,7 @@
 						}
 					},
 					{
-						"id": "440",
+						"id": "396",
 						"name": "Materials and Supplies",
 						"gross_cost": {
 							"accounts": {
@@ -5474,7 +4970,7 @@
 						}
 					},
 					{
-						"id": "441",
+						"id": "397",
 						"name": "Equipment",
 						"gross_cost": {
 							"accounts": {
@@ -5486,39 +4982,29 @@
 				]
 			},
 			{
-				"id": "431",
-				"name": "Finance",
+				"id": "388",
+				"name": "Finance - Employee Benefits",
 				"gross_cost": {
 					"accounts": {
-						"2015": 24107582,
-						"2016": 0
+						"2015": 4107582,
+						"2016": 4236559
 					}
 				},
 				"children": [
 					{
-						"id": "442",
+						"id": "398",
 						"name": "Personal Services",
 						"gross_cost": {
 							"accounts": {
 								"2015": 4107582,
-								"2016": 0
-							}
-						}
-					},
-					{
-						"id": "443",
-						"name": "Advances & Other Misc Payments",
-						"gross_cost": {
-							"accounts": {
-								"2015": 20000000,
-								"2016": 0
+								"2016": 4236559
 							}
 						}
 					}
 				]
 			},
 			{
-				"id": "432",
+				"id": "389",
 				"name": "Law",
 				"gross_cost": {
 					"accounts": {
@@ -5528,7 +5014,7 @@
 				},
 				"children": [
 					{
-						"id": "444",
+						"id": "399",
 						"name": "Personal Services",
 						"gross_cost": {
 							"accounts": {
@@ -5540,7 +5026,7 @@
 				]
 			},
 			{
-				"id": "433",
+				"id": "390",
 				"name": "Licenses and Inspections",
 				"gross_cost": {
 					"accounts": {
@@ -5550,7 +5036,7 @@
 				},
 				"children": [
 					{
-						"id": "445",
+						"id": "400",
 						"name": "Personal Services",
 						"gross_cost": {
 							"accounts": {
@@ -5562,7 +5048,7 @@
 				]
 			},
 			{
-				"id": "434",
+				"id": "391",
 				"name": "Office of Housing and Community Development",
 				"gross_cost": {
 					"accounts": {
@@ -5572,7 +5058,7 @@
 				},
 				"children": [
 					{
-						"id": "446",
+						"id": "401",
 						"name": "Personal Services",
 						"gross_cost": {
 							"accounts": {
@@ -5582,7 +5068,7 @@
 						}
 					},
 					{
-						"id": "447",
+						"id": "402",
 						"name": "Purchase of Services",
 						"gross_cost": {
 							"accounts": {
@@ -5592,7 +5078,7 @@
 						}
 					},
 					{
-						"id": "448",
+						"id": "403",
 						"name": "Materials and Supplies",
 						"gross_cost": {
 							"accounts": {
@@ -5602,7 +5088,7 @@
 						}
 					},
 					{
-						"id": "449",
+						"id": "404",
 						"name": "Equipment",
 						"gross_cost": {
 							"accounts": {
@@ -5612,7 +5098,7 @@
 						}
 					},
 					{
-						"id": "450",
+						"id": "405",
 						"name": "Payments to Other Funds",
 						"gross_cost": {
 							"accounts": {
@@ -5624,29 +5110,7 @@
 				]
 			},
 			{
-				"id": "435",
-				"name": "Finance - Employee Benefits",
-				"gross_cost": {
-					"accounts": {
-						"2015": 0,
-						"2016": 4236559
-					}
-				},
-				"children": [
-					{
-						"id": "451",
-						"name": "Personal Services",
-						"gross_cost": {
-							"accounts": {
-								"2015": 0,
-								"2016": 4236559
-							}
-						}
-					}
-				]
-			},
-			{
-				"id": "436",
+				"id": "392",
 				"name": "Finance - Provision for Other Grants",
 				"gross_cost": {
 					"accounts": {
@@ -5656,7 +5120,7 @@
 				},
 				"children": [
 					{
-						"id": "452",
+						"id": "406",
 						"name": "Advances & Other Misc Payments",
 						"gross_cost": {
 							"accounts": {
@@ -5680,7 +5144,7 @@
 		},
 		"children": [
 			{
-				"id": "313",
+				"id": "272",
 				"name": "Commerce",
 				"gross_cost": {
 					"accounts": {
@@ -5690,7 +5154,7 @@
 				},
 				"children": [
 					{
-						"id": "314",
+						"id": "273",
 						"name": "Contributions, Indemnities, Refunds, Taxes",
 						"gross_cost": {
 							"accounts": {
@@ -5708,27 +5172,27 @@
 		"name": "Water Residual Fund",
 		"gross_cost": {
 			"accounts": {
-				"2015": 29194000,
+				"2015": 47784000,
 				"2016": 34724000
 			}
 		},
 		"children": [
 			{
-				"id": "505",
+				"id": "455",
 				"name": "Water",
 				"gross_cost": {
 					"accounts": {
-						"2015": 29194000,
+						"2015": 47784000,
 						"2016": 34724000
 					}
 				},
 				"children": [
 					{
-						"id": "506",
+						"id": "456",
 						"name": "Payments to Other Funds",
 						"gross_cost": {
 							"accounts": {
-								"2015": 29194000,
+								"2015": 47784000,
 								"2016": 34724000
 							}
 						}
@@ -5742,55 +5206,55 @@
 		"name": "Special Gasoline Tax Fund",
 		"gross_cost": {
 			"accounts": {
-				"2015": 27400000,
+				"2015": 27740000,
 				"2016": 29500000
 			}
 		},
 		"children": [
 			{
-				"id": "299",
-				"name": "Finance",
+				"id": "260",
+				"name": "Finance - Employee Benefits",
 				"gross_cost": {
 					"accounts": {
 						"2015": 1000000,
-						"2016": 0
+						"2016": 1000000
 					}
 				},
 				"children": [
 					{
-						"id": "302",
+						"id": "262",
 						"name": "Personal Services",
 						"gross_cost": {
 							"accounts": {
 								"2015": 1000000,
-								"2016": 0
+								"2016": 1000000
 							}
 						}
 					}
 				]
 			},
 			{
-				"id": "300",
+				"id": "261",
 				"name": "Streets",
 				"gross_cost": {
 					"accounts": {
-						"2015": 26400000,
+						"2015": 26740000,
 						"2016": 28500000
 					}
 				},
 				"children": [
 					{
-						"id": "303",
+						"id": "263",
 						"name": "Personal Services",
 						"gross_cost": {
 							"accounts": {
-								"2015": 3000000,
+								"2015": 3340000,
 								"2016": 3000000
 							}
 						}
 					},
 					{
-						"id": "304",
+						"id": "264",
 						"name": "Purchase of Services",
 						"gross_cost": {
 							"accounts": {
@@ -5800,7 +5264,7 @@
 						}
 					},
 					{
-						"id": "305",
+						"id": "265",
 						"name": "Materials and Supplies",
 						"gross_cost": {
 							"accounts": {
@@ -5810,7 +5274,7 @@
 						}
 					},
 					{
-						"id": "306",
+						"id": "266",
 						"name": "Equipment",
 						"gross_cost": {
 							"accounts": {
@@ -5820,34 +5284,12 @@
 						}
 					},
 					{
-						"id": "307",
+						"id": "267",
 						"name": "Payments to Other Funds",
 						"gross_cost": {
 							"accounts": {
 								"2015": 15000,
 								"2016": 15000
-							}
-						}
-					}
-				]
-			},
-			{
-				"id": "301",
-				"name": "Finance - Employee Benefits",
-				"gross_cost": {
-					"accounts": {
-						"2015": 0,
-						"2016": 1000000
-					}
-				},
-				"children": [
-					{
-						"id": "308",
-						"name": "Personal Services",
-						"gross_cost": {
-							"accounts": {
-								"2015": 0,
-								"2016": 1000000
 							}
 						}
 					}
@@ -5866,7 +5308,7 @@
 		},
 		"children": [
 			{
-				"id": "455",
+				"id": "409",
 				"name": "Office of Housing and Community Development",
 				"gross_cost": {
 					"accounts": {
@@ -5876,7 +5318,7 @@
 				},
 				"children": [
 					{
-						"id": "456",
+						"id": "410",
 						"name": "Personal Services",
 						"gross_cost": {
 							"accounts": {
@@ -5886,7 +5328,7 @@
 						}
 					},
 					{
-						"id": "457",
+						"id": "411",
 						"name": "Purchase of Services",
 						"gross_cost": {
 							"accounts": {
@@ -5904,43 +5346,43 @@
 		"name": "Undistributed Pension Funds",
 		"gross_cost": {
 			"accounts": {
-				"2015": 8776000,
+				"2015": 12414667,
 				"2016": 9971000
 			}
 		},
 		"children": [
 			{
-				"id": "572",
+				"id": "517",
 				"name": "Pensions & Retirement",
 				"gross_cost": {
 					"accounts": {
-						"2015": 8776000,
+						"2015": 12414667,
 						"2016": 9971000
 					}
 				},
 				"children": [
 					{
-						"id": "573",
+						"id": "518",
 						"name": "Personal Services",
 						"gross_cost": {
 							"accounts": {
-								"2015": 6681000,
+								"2015": 7058000,
 								"2016": 7170000
 							}
 						}
 					},
 					{
-						"id": "574",
+						"id": "519",
 						"name": "Purchase of Services",
 						"gross_cost": {
 							"accounts": {
-								"2015": 1832000,
+								"2015": 5093667,
 								"2016": 2538000
 							}
 						}
 					},
 					{
-						"id": "575",
+						"id": "520",
 						"name": "Materials and Supplies",
 						"gross_cost": {
 							"accounts": {
@@ -5950,7 +5392,7 @@
 						}
 					},
 					{
-						"id": "576",
+						"id": "521",
 						"name": "Equipment",
 						"gross_cost": {
 							"accounts": {
@@ -5960,7 +5402,7 @@
 						}
 					},
 					{
-						"id": "577",
+						"id": "522",
 						"name": "Payments to Other Funds",
 						"gross_cost": {
 							"accounts": {
@@ -5984,7 +5426,7 @@
 		},
 		"children": [
 			{
-				"id": "453",
+				"id": "407",
 				"name": "Sinking Fund Commission (Debt Service)",
 				"gross_cost": {
 					"accounts": {
@@ -5994,7 +5436,7 @@
 				},
 				"children": [
 					{
-						"id": "454",
+						"id": "408",
 						"name": "Purchase of Services",
 						"gross_cost": {
 							"accounts": {
@@ -6018,7 +5460,7 @@
 		},
 		"children": [
 			{
-				"id": "293",
+				"id": "254",
 				"name": "Streets",
 				"gross_cost": {
 					"accounts": {
@@ -6028,7 +5470,7 @@
 				},
 				"children": [
 					{
-						"id": "294",
+						"id": "255",
 						"name": "Personal Services",
 						"gross_cost": {
 							"accounts": {
@@ -6038,7 +5480,7 @@
 						}
 					},
 					{
-						"id": "295",
+						"id": "256",
 						"name": "Purchase of Services",
 						"gross_cost": {
 							"accounts": {
@@ -6048,7 +5490,7 @@
 						}
 					},
 					{
-						"id": "296",
+						"id": "257",
 						"name": "Materials and Supplies",
 						"gross_cost": {
 							"accounts": {
@@ -6058,7 +5500,7 @@
 						}
 					},
 					{
-						"id": "297",
+						"id": "258",
 						"name": "Equipment",
 						"gross_cost": {
 							"accounts": {
@@ -6068,7 +5510,7 @@
 						}
 					},
 					{
-						"id": "298",
+						"id": "259",
 						"name": "Payments to Other Funds",
 						"gross_cost": {
 							"accounts": {
