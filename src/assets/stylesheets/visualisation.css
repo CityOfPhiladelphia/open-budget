@@ -37,7 +37,7 @@ h1 {
   line-height: 41px; }
 
 h2 {
-  font-size: 20px;
+  font-size: 18px;
   line-height: 30px; }
 
 header.site-header {
@@ -52,6 +52,9 @@ header.site-header {
   header.site-header .pagetitle {
     display: inline;
     vertical-align: middle; }
+  header.site-header .nav {
+    margin-top: 15px;
+    margin-bottom: 0; }
 
 .divider {
   width: 100%;

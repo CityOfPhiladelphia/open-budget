@@ -12,7 +12,7 @@
     <link href="assets/stylesheets/application.css" media="all" rel="stylesheet" type="text/css" />
     <link href="assets/stylesheets/visualisation.css" media="all" rel="stylesheet" type="text/css" />
     <!-- endbuild -->
-    <link rel="icon" href="favicon.ico" type="image/x-icon">
+    <link rel="icon" href="assets/images/favicon.ico" type="image/x-icon">
 
   </head>
   <body>
@@ -39,6 +39,10 @@
           <!--<form class="search">
             <input type="text" placeholder="What are you looking for?"><input type="submit">
           </form>-->
+          <ul class="nav nav-pills pull-right" role="navigation">
+            <li><a href="#" class="toggle-faq">Frequently Asked Questions</a></li>
+            <li><a href="http://cityofphiladelphia.github.io/open-budget-explorer/">Advanced Visualization</a></li>
+          </ul>
         </div>
       </div>
     </header>
@@ -102,7 +106,7 @@
             <div class="col-md-12">
               <h1>Frequently Asked Questions</h1>
 
-              <a href="javascript:$('#application, #faq').toggle();" class="toggle-faq"><span class="glyphicon glyphicon-chevron-left"></span> Back to visualization</a>
+              <a href="#" class="toggle-faq"><span class="glyphicon glyphicon-chevron-left"></span> Back to visualization</a>
               <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Estne, quaeso, inquam, sitienti in bibendo voluptas? Et non ex maxima parte de tota iudicabis? Atqui, inquam, Cato, si istud optinueris, traducas me ad te totum licebit. Venit ad extremum; Quae autem natura suae primae institutionis oblita est? </p>
 
               <h3>Ille vero, si insipiens-quo certe, quoniam tyrannus -, numquam beatus;</h3>
@@ -133,7 +137,7 @@
       <a href="http://www.phila.gov">City of Philadelphia</a>
     </div>
     <div class="col-md-3 feedback">
-      <a href="#">Feedback</a>
+      <a class="lightbox-50598915288168" style="cursor:pointer;color:white;text-decoration:none;">Feedback</a>
     </div>
     <div class="col-md-6">
       <nav>
@@ -159,5 +163,24 @@
     <script src="assets/javascripts/visualisation.js"></script>
     <script src="assets/javascripts/init.js"></script>
     <!-- endbuild -->
+    <script src="//d2g9qbzl5h49rh.cloudfront.net/static/feedback2.js?3.2.5854">
+      var JFL_50598915288168 = new JotformFeedback({
+      formId:'50598915288168',
+      base:'http://jotform.us/',
+      windowTitle:'Give us your feedback',
+      background:'#027EA4',
+      fontColor:'#FFFFFF',
+      type:1,
+      height:500,
+      width:420,
+      openOnLoad:false
+      });
+    </script>
+    <script>
+      $('.toggle-faq').click(function(e) {
+        $('#application, #faq').toggle();
+        e.preventDefault();
+      })
+    </script>
 </body>
 </html>
