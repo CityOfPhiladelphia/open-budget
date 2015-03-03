@@ -2101,7 +2101,7 @@
 			},
 			{
 				"id": "69",
-				"name": "Public Property",
+				"name": "Public Property (Excluding SEPTA Subsidy)",
 				"gross_cost": {
 					"accounts": {
 						"2015": 121344578,
@@ -4029,7 +4029,7 @@
 			},
 			{
 				"id": "418",
-				"name": "Public Property",
+				"name": "Public Property (Excluding SEPTA Subsidy)",
 				"gross_cost": {
 					"accounts": {
 						"2015": 3959919,
@@ -4661,7 +4661,7 @@
 			},
 			{
 				"id": "466",
-				"name": "Public Property",
+				"name": "Public Property (Excluding SEPTA Subsidy)",
 				"gross_cost": {
 					"accounts": {
 						"2015": 26900000,
