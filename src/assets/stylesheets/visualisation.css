@@ -1,11 +1,9 @@
-@import url('//fonts.googleapis.com/css?family=Montserrat:400,700|Open+Sans:400,700');
 html, body {
   width: 100%;
   height: 100%;
   margin: 0;
   padding: 0;
-  overflow: hidden;
-  font-family: 'Open Sans', 'Arial', sans-serif; }
+  overflow: hidden; }
 
 /* Necessary for Sticky footer */
 html {
@@ -18,49 +16,8 @@ html {
 #faq {
   display: none; }
 
-a {
-  color: #027ea4;
-  font-weight: 700; }
-  a:hover {
-    color: #353535;
-    text-decoration: none; }
-
-h1, h2 {
-  font-weight: normal;
-  color: #000000;
-  margin: 0;
-  font-family: 'Montserrat', 'Tahoma', sans-serif;
-  text-transform: uppercase; }
-
-h1 {
-  font-size: 30px;
-  line-height: 41px; }
-
-h2 {
-  font-size: 18px;
-  line-height: 30px; }
-
-header.site-header {
-  padding: 0 15px; }
-  header.site-header a:hover .logo, header.site-header a:active .logo {
-    opacity: .7;
-    transition: opacity 300ms ease-out; }
-  header.site-header .logo {
-    height: 75px;
-    width: auto;
-    margin-right: 20px; }
-  header.site-header .pagetitle {
-    display: inline;
-    vertical-align: middle; }
-  header.site-header .nav {
-    margin-top: 15px;
-    margin-bottom: 0; }
-
-.divider {
-  width: 100%;
-  background: #027ea4;
-  height: 10px;
-  padding-top: 10px; }
+.row {
+  max-width: 100%; }
 
 #tooltip {
   font-size: 12px;
@@ -90,7 +47,7 @@ header.site-header {
   right:0;*/
   z-index: 2;
   padding: 0 20px;
-  box-shadow: 0 0 20px 1px #ddd;
+  box-shadow: 0 10px 20px 1px #ddd;
   background-color: #fff;
   height: 100%;
   overflow-y: scroll;
@@ -146,36 +103,6 @@ header.site-header {
       -moz-hyphens: auto;
       hyphens: auto; }
 
-footer.site-footer {
-  position: absolute;
-  bottom: 0;
-  width: 100%;
-  height: 30px;
-  padding: 5 20px;
-  font-size: rem-calc(13);
-  background: #027ea4;
-  text-transform: uppercase;
-  margin-top: rem-calc(16);
-  color: #fff; }
-  footer.site-footer .feedback {
-    text-align: center; }
-  footer.site-footer ul.list-inline {
-    float: right;
-    font-size: rem-calc(13);
-    margin: 0;
-    padding: 0; }
-  footer.site-footer li {
-    margin: 0;
-    padding: 0 0 0 10px; }
-    footer.site-footer li:first-child {
-      padding: 0; }
-  footer.site-footer a:link, footer.site-footer a:visited {
-    color: #fff; }
-  footer.site-footer a:hover, footer.site-footer a:active {
-    color: #353535; }
-  footer.site-footer p {
-    margin: 0; }
-
 svg#canvas {
   /*position:absolute;
   top:0;
@@ -194,7 +121,6 @@ svg#canvas {
     pointer-events: none; }
   svg#canvas text {
     text-transform: uppercase;
-    font-family: 'Open Sans', 'Arial', sans-serif;
     font-weight: bold;
     opacity: 0.6;
     text-shadow: white 0 1px 0;
@@ -202,7 +128,7 @@ svg#canvas {
     svg#canvas text.headline {
       opacity: 1;
       fill: #737373;
-      font-size: 40px;
+      font-size: 30px;
       text-transform: none; }
   svg#canvas circle {
     -webkit-transform: translateZ(0);
@@ -250,3 +176,36 @@ svg#canvas {
     #not-supported .message .try {
       font-size: 10px;
       cursor: pointer; }
+
+a.button {
+  width: 100%; }
+
+table thead, table tfoot {
+  background-color: transparent; }
+
+/*from the applicaiton.scss file*/
+.brand {
+  float: left;
+  padding-right: 8px; }
+
+ul.nav {
+  list-style: none;
+  margin: 0 0 2em;
+  padding: 0; }
+
+ul.nav li {
+  display: inline; }
+
+#flash_notice, #flash_alert {
+  padding: 5px 8px;
+  margin: 10px 0; }
+
+#flash_notice {
+  background-color: #CFC;
+  border: solid 1px #6C6; }
+
+#flash_alert {
+  background-color: #FCC;
+  border: solid 1px #C66; }
+
+/*# sourceMappingURL=visualisation.css.map */

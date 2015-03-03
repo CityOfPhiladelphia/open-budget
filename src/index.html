@@ -7,8 +7,8 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
     <meta name="description" content="An Open Budget visualized in circles, playful and easy to use.">
     <meta name="apple-mobile-web-app-capable" content="yes">
+    <link href="http://cityofphiladelphia.github.io/patterns/dist/0.1.1/css/patterns.css" media="all" rel="stylesheet" type="text/css" />
     <!-- build:css assets/stylesheets/main.min.css -->
-    <link href="../node_modules/bootstrap/dist/css/bootstrap.min.css" media="all" rel="stylesheet" type="text/css" />
     <link href="assets/stylesheets/application.css" media="all" rel="stylesheet" type="text/css" />
     <link href="assets/stylesheets/visualisation.css" media="all" rel="stylesheet" type="text/css" />
     <!-- endbuild -->
@@ -26,39 +26,35 @@
     })(window,document,'script','dataLayer','GTM-MC6CR2');</script>
     <!-- End Google Tag Manager -->
 
-<div class="container-full">
+<div id="page" class="container-full">
     <header class="site-header" role="banner">
       <div class="row">
-        <div class="small-12 medium-7 column">
+        <div class="small-24 medium-14 column">
           <a href="index.html">
             <img src="assets/images/city-of-philadelphia-logo.png" class="logo" alt="City of Philadelphia">
           </a>
           <h1 class="pagetitle">Open Budget</h1>
         </div>
-        <div class="small-12 medium-5 column">
-          <!--<form class="search">
-            <input type="text" placeholder="What are you looking for?"><input type="submit">
-          </form>-->
-          <ul class="nav nav-pills pull-right" role="navigation">
-            <li><a href="#" class="toggle-faq">Frequently Asked Questions</a></li>
-            <li><a href="http://cityofphiladelphia.github.io/open-budget-explorer/">Advanced Visualization</a></li>
+        <div class="small-24 medium-8 column">
+            <a href="#" class="toggle-faq button">Frequently Asked Questions</a>
+            <a class="button icon alternate" href="http://cityofphiladelphia.github.io/open-budget-explorer/">Advanced Visualization<i class="fa fa-external"></a>
           </ul>
         </div>
       </div>
     </header>
     <div class="row">
-      <div class="small-12 column">
+      <div class="small-24 column">
         <div class="divider"></div>
       </div>
     </div>
     <div id="application" class="row">
-        <div class="medium-7 column">
+        <div class="medium-14 column">
             <svg id="canvas">
                 <defs>
                 </defs>
             </svg>
         </div>
-        <div class="medium-5 column">
+        <div class="medium-10 column">
           <div id="sidebar">
 
             <!--<div id="search">
@@ -103,7 +99,7 @@
     </div>
     <div id="faq" class="container">
         <div class="row">
-            <div class="medium-12 column">
+            <div class="medium-24 column">
               <h1>Frequently Asked Questions</h1>
 
               <a href="#" class="toggle-faq"><span class="glyphicon glyphicon-chevron-left"></span> Back to visualization</a>
@@ -133,15 +129,15 @@
 </div>
 <footer class="footer site-footer" role="contentinfo">
   <div class="row">
-    <div class="medium-3 column">
+    <div class="medium-6 column">
       <a href="http://www.phila.gov">City of Philadelphia</a>
     </div>
-    <div class="medium-3 column feedback">
+    <div class="medium-6 column feedback">
       <a class="lightbox-50598915288168" style="cursor:pointer;color:white;text-decoration:none;">Feedback</a>
     </div>
-    <div class="medium-6 column">
+    <div class="medium-12 column">
       <nav>
-        <ul class="list-inline">
+        <ul class="inline-list">
           <li><a href="https://github.com/CityOfPhiladelphia/open-budget-data-transformer/tree/master/data" target="_blank">Download Data</a></li>
         </ul>
       </nav>

@@ -12,16 +12,16 @@ var dir = {
 };
 
 /**
- * Main execution
- */
+* Main execution
+*/
 gulp.task('default', ['clean'], function() {
-	gulp.start('usemin', 'images', 'data', 'fonts');
+	gulp.start('usemin', 'images', 'data');
 });
 
 /**
- * Usemin
- * A multi-task - parses HTML docs and applies supplied functions to any defined JS/CSS blocks
- */
+* Usemin
+* A multi-task - parses HTML docs and applies supplied functions to any defined JS/CSS blocks
+*/
 gulp.task('usemin', function() {
 	return gulp.src(dir.dev + '*.html')
 		.pipe(usemin({
@@ -35,36 +35,28 @@ gulp.task('usemin', function() {
 });
 
 /**
- * Images
- * Copies images directory to production folder
- */
+* Images
+* Copies images directory to production folder
+*/
 gulp.task("images", function() {
-    return gulp.src(dir.dev + "assets/images/**/*")
-        .pipe(gulp.dest(dir.prod + "assets/images"));
+		return gulp.src(dir.dev + "assets/images/**/*")
+				.pipe(gulp.dest(dir.prod + "assets/images"));
 });
 
 /**
- * Data
- * Copies data directory to production folder
- */
+* Data
+* Copies data directory to production folder
+*/
 gulp.task("data", function() {
-    return gulp.src(dir.dev + "data/**/*")
-        .pipe(gulp.dest(dir.prod + "data"));
+		return gulp.src(dir.dev + "data/**/*")
+				.pipe(gulp.dest(dir.prod + "data"));
 });
 
-/**
- * Fonts
- * Copies bootstrap/fonts directory to production folder
- */
-gulp.task("fonts", function() {
-    return gulp.src(dir.vendor + "bootstrap/dist/fonts/**/*")
-        .pipe(gulp.dest(dir.prod + "assets/fonts"));
-});
 
 /**
- * Clean
- * Cleans out the prod/build directory for a new compile
- */
+* Clean
+* Cleans out the prod/build directory for a new compile
+*/
 gulp.task('clean', function(cb) {
 	return del(dir.prod, cb);
 });

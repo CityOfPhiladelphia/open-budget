@@ -1,13 +1,9 @@
-@import url('//fonts.googleapis.com/css?family=Montserrat:400,700|Open+Sans:400,700');
-
 $ben-franklin-blue:#027ea4;
 $whitesmoke:#edf4f7;
 $mine-shaft:#353535;
 $black:#000000;
 $white:#fff;
 $svgBgColor:$white;//#f9f9f9;
-$primary-font:'Open Sans', 'Arial', sans-serif;
-$secondary-font:'Montserrat', 'Tahoma', sans-serif;
 
 @mixin letterpress {
   text-shadow:white 0 1px 0;
@@ -28,7 +24,6 @@ html, body {
   margin:0;
   padding:0;
   overflow:hidden;
-  font-family:$primary-font;
 }
 
 /* Necessary for Sticky footer */
@@ -44,61 +39,8 @@ html {
 #faq {
   display: none;
 }
-
-a {
-  color:$ben-franklin-blue;
-  font-weight: 700;
-  &:hover {
-    color:$mine-shaft;
-    text-decoration: none;
-  }
-}
-
-h1, h2 {
-  font-weight:normal;
-  color:$black;
-  margin:0;
-  font-family: $secondary-font;
-  text-transform: uppercase;
-}
-
-h1 {
-  font-size:30px;
-  line-height:41px;
-}
-
-h2 {
-  font-size:18px;
-  line-height:30px;
-}
-
-header.site-header {
-  padding: 0 15px;
-
-  a:hover .logo, a:active .logo {
-    opacity:.7;
-    transition: opacity 300ms ease-out;
-  }
-  .logo {
-    height: 75px;
-    width: auto;
-    margin-right: 20px;
-  }
-  .pagetitle {
-    display: inline;
-    vertical-align: middle;
-  }
-  .nav {
-    margin-top: 15px;
-    margin-bottom: 0;
-  }
-}
-
-.divider {
-  width: 100%;
-  background: $ben-franklin-blue;
-  height: 10px;
-  padding-top: 10px;
+.row {
+  max-width:100%;
 }
 
 #tooltip {
@@ -139,7 +81,7 @@ $sidebarMaxWidth:500px;
 
   padding:0 20px;
 
-  box-shadow:0 0 20px 1px #ddd;
+  box-shadow:0 10px 20px 1px #ddd;
   background-color:#fff;
 
   height:100%;
@@ -236,46 +178,6 @@ $sidebarMaxWidth:500px;
 
 }
 
-footer.site-footer {
-  position: absolute;
-  bottom: 0;
-  width: 100%;
-  height: 30px;
-  padding: 5 20px;
-
-  font-size:rem-calc(13);
-  background: $ben-franklin-blue;
-  text-transform: uppercase;
-  margin-top:rem-calc(16);
-  color:$white;
-
-  .feedback {
-    text-align: center;
-  }
-  ul.list-inline {
-    float: right;
-    font-size:rem-calc(13);
-    margin:0;
-    padding:0;
-  }
-  li{
-    margin:0;
-    padding:0 0 0 10px;
-    &:first-child{
-      padding:0;
-    }
-  }
-  a:link, a:visited {
-    color:$white;
-  }
-  a:hover, a:active{
-    color:$mine-shaft;
-  }
-  p{
-    margin:0;
-  }
-}
-
 svg#canvas {
   /*position:absolute;
   top:0;
@@ -306,7 +208,6 @@ svg#canvas {
 
   text {
     text-transform:uppercase;
-    font-family:$primary-font;
     font-weight:bold;
 
     opacity:0.6;
@@ -388,3 +289,35 @@ svg#canvas {
     }
   }
 }
+a.button {
+  width:100%;
+}
+
+table thead, table tfoot {
+  background-color: transparent;
+}
+
+/*from the applicaiton.scss file*/
+.brand {
+  float: left;
+  padding-right: 8px; }
+
+ul.nav {
+  list-style: none;
+  margin: 0 0 2em;
+  padding: 0; }
+
+ul.nav li {
+  display: inline; }
+
+#flash_notice, #flash_alert {
+  padding: 5px 8px;
+  margin: 10px 0; }
+
+#flash_notice {
+  background-color: #CFC;
+  border: solid 1px #6C6; }
+
+#flash_alert {
+  background-color: #FCC;
+  border: solid 1px #C66; }
