@@ -126,6 +126,14 @@ header.site-header {
       font-weight: bold; }
   #sidebar table {
     margin-top: 20px;
+    /*.name {
+      word-break:break-all;
+      word-break:break-word;
+
+      -webkit-hyphens:auto;
+      -moz-hyphens:auto;
+      hyphens:auto;
+    }*/
     margin-bottom: 150px; }
     #sidebar table .value, #sidebar table .value2, #sidebar table .diff {
       text-align: right; }
@@ -139,12 +147,6 @@ header.site-header {
       font-weight: bold; }
     #sidebar table.table-hover tbody tr:hover td, #sidebar table.table-hover tbody tr.hover td {
       background-color: #edf4f7; }
-    #sidebar table .name {
-      word-break: break-all;
-      word-break: break-word;
-      -webkit-hyphens: auto;
-      -moz-hyphens: auto;
-      hyphens: auto; }
 
 footer.site-footer {
   position: absolute;
