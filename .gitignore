@@ -14,3 +14,6 @@
 /log/*.log
 /tmp
 node_modules
+
+#Ignore debug log
+npm-debug.log

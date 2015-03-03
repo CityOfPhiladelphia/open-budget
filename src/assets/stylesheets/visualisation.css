@@ -177,11 +177,37 @@ svg#canvas {
       font-size: 10px;
       cursor: pointer; }
 
-a.button {
-  width: 100%; }
+.app .top-nav {
+  text-align: right;
+  margin-top: 4px; }
+  @media only screen and (max-width: 40em) {
+    .app .top-nav {
+      text-align: left; }
+      .app .top-nav .button {
+        margin: .5em 0; } }
+.app h1.page-title {
+  color: #353535;
+  display: inline-block;
+  border-left: 1px solid #353535;
+  padding: 5px 0 0px 13px;
+  margin: 0px 0px 2px 16px;
+  position: relative;
+  top: 11px; }
+  @media only screen and (max-width: 40em) {
+    .app h1.page-title {
+      top: 0;
+      border: none;
+      display: block;
+      margin: 0;
+      padding: 0; } }
 
 table thead, table tfoot {
   background-color: transparent; }
+
+footer.site-footer {
+  position: absolute;
+  bottom: 0;
+  width: 100%; }
 
 /*from the applicaiton.scss file*/
 .brand {
