@@ -712,7 +712,7 @@
         "stuffedChildrenRadius": 94.47263472473429
       },
       {
-        "name": "Public Property",
+        "name": "Public Property (Excluding SEPTA Subsidy)",
         "value": 113610095,
         "value2": 121344578,
         "diff": -6.37,
@@ -9090,7 +9090,7 @@
         "stuffedChildrenRadius": 39.915917149299915
       },
       {
-        "name": "Public Property",
+        "name": "Public Property (Excluding SEPTA Subsidy)",
         "value": 4042633,
         "value2": 3959919,
         "diff": 2.09,
@@ -9697,7 +9697,7 @@
         "stuffedChildrenRadius": 167.51109751834903
       },
       {
-        "name": "Public Property",
+        "name": "Public Property (Excluding SEPTA Subsidy)",
         "value": 26900000,
         "value2": 26900000,
         "diff": 0,
