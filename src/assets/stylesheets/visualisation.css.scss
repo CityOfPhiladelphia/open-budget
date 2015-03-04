@@ -1,4 +1,5 @@
 $ben-franklin-blue:#027ea4;
+$bell-yellow:#f2ba13;
 $whitesmoke:#edf4f7;
 $mine-shaft:#353535;
 $black:#000000;
@@ -341,10 +342,6 @@ abbr{
   overflow-x: hidden;
   overflow-y: auto;
   height:80%;
-
-  &.small{
-    background: #fafafa;
-  }
 }
 
 /*from the applicaiton.scss file*/
@@ -373,4 +370,13 @@ ul.nav li {
   border: solid 1px #C66; }
 
 .tooltip{
-    background:$mine-shaft !important;  }
+    background:$mine-shaft !important;
+    }
+
+.browsehappy{
+  background:$bell-yellow;
+  width:100%;
+  position:absolute;
+  top:0;
+  padding:20px;
+}

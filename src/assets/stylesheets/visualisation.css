@@ -215,8 +215,6 @@ abbr {
   overflow-x: hidden;
   overflow-y: auto;
   height: 80%; }
-  .reveal-modal.open.small {
-    background: #fafafa; }
 
 /*from the applicaiton.scss file*/
 .brand {
@@ -245,5 +243,12 @@ ul.nav li {
 
 .tooltip {
   background: #353535 !important; }
+
+.browsehappy {
+  background: #f2ba13;
+  width: 100%;
+  position: absolute;
+  top: 0;
+  padding: 20px; }
 
 /*# sourceMappingURL=visualisation.css.map */
