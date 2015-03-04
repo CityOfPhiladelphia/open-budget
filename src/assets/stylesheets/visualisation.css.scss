@@ -127,6 +127,7 @@ $sidebarMaxWidth:500px;
       &::after{
         color:#000;
         content: "  / ";
+	margin-right: 3px;
       }
       &:last-child::after{
         content: "";

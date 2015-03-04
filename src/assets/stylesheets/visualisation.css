@@ -76,7 +76,8 @@ html {
       font-size: 90%; }
       #sidebar .breadcrumb li::after {
         color: #000;
-        content: "  / "; }
+        content: "  / ";
+        margin-right: 3px; }
       #sidebar .breadcrumb li:last-child::after {
         content: ""; }
   #sidebar table {
