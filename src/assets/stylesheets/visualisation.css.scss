@@ -43,26 +43,6 @@ html {
   max-width:100%;
 }
 
-.tooltip {
-  font-size:12px;
-  position:absolute;
-  padding:5px;
-  z-index:100000;
-
-  div {
-    color:#fff;
-    padding:5px 8px 4px 8px;
-    text-align:center;
-    border-radius:3px;
-    -moz-border-radius:3px;
-    -webkit-border-radius:3px;
-
-    span {
-      font-weight:bold;
-    }
-  }
-}
-
 $sidebarMaxWidth:500px;
 
 /*#sidebar, #footer {
@@ -70,6 +50,10 @@ $sidebarMaxWidth:500px;
   width:20%;
   max-width:$sidebarMaxWidth;
 }*/
+
+#sidebar-parent, #application, #page {
+  height:100%;
+}
 
 #sidebar {
   /*position:absolute;
@@ -131,6 +115,19 @@ $sidebarMaxWidth:500px;
 
     li:last-child {
       font-weight:bold;
+      color:#000;
+    }
+    li{
+      display: inline-block;
+      color:$ben-franklin-blue;
+      font-size:90%;
+      &::after{
+        color:#000;
+        content: "  / ";
+      }
+      &:last-child::after{
+        content: "";
+      }
     }
   }
 
@@ -379,3 +376,6 @@ ul.nav li {
 #flash_alert {
   background-color: #FCC;
   border: solid 1px #C66; }
+
+.tooltip{
+    background:$mine-shaft !important;  }

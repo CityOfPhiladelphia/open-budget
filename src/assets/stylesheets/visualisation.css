@@ -19,26 +19,14 @@ html {
 .row {
   max-width: 100%; }
 
-.tooltip {
-  font-size: 12px;
-  position: absolute;
-  padding: 5px;
-  z-index: 100000; }
-  .tooltip div {
-    color: #fff;
-    padding: 5px 8px 4px 8px;
-    text-align: center;
-    border-radius: 3px;
-    -moz-border-radius: 3px;
-    -webkit-border-radius: 3px; }
-    .tooltip div span {
-      font-weight: bold; }
-
 /*#sidebar, #footer {
   min-width:400px;
   width:20%;
   max-width:$sidebarMaxWidth;
 }*/
+#sidebar-parent, #application, #page {
+  height: 100%; }
+
 #sidebar {
   /*position:absolute;
   top:0;
@@ -78,7 +66,17 @@ html {
     #sidebar .breadcrumb li:only-child {
       display: none; }
     #sidebar .breadcrumb li:last-child {
-      font-weight: bold; }
+      font-weight: bold;
+      color: #000; }
+    #sidebar .breadcrumb li {
+      display: inline-block;
+      color: #027ea4;
+      font-size: 90%; }
+      #sidebar .breadcrumb li::after {
+        color: #000;
+        content: "  / "; }
+      #sidebar .breadcrumb li:last-child::after {
+        content: ""; }
   #sidebar table {
     border: none;
     margin-top: 20px;
@@ -247,5 +245,8 @@ ul.nav li {
 #flash_alert {
   background-color: #FCC;
   border: solid 1px #C66; }
+
+.tooltip {
+  background: #353535 !important; }
 
 /*# sourceMappingURL=visualisation.css.map */

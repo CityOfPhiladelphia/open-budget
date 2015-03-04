@@ -16,5 +16,6 @@ $(function() {
     else {
         init();
     }
-    $(document).foundation();
 });
+
+$(document).foundation();
