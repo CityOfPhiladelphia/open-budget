@@ -25,7 +25,6 @@ $ git subtree push --prefix dist origin gh-pages
 - Underscore.js
 - d3.js
 - Foundation 5
-- Bootstrap 3
 - jQuery
 
 ## Data Format
