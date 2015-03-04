@@ -105,7 +105,7 @@
       <a href="http://www.phila.gov">City of Philadelphia</a>
     </div>
     <div class="medium-6 column feedback">
-      <a href="#" class="lightbox-50598915288168" style="cursor:pointer;color:white;text-decoration:none;height:auto;top:10%;">Feedback</a>
+      <a href="#" data-reveal-id="feedback-form">Feedback</a>
     </div>
     <div class="medium-12 column">
       <nav>
@@ -212,6 +212,10 @@
 
   <a class="close-reveal-modal">&#215;</a>
 </div>
+<div class="reveal-modal small" id="feedback-form" tabindex="-1" role="dialog" aria-labelledby="Leave Feedback" aria-hidden="true" data-reveal>
+  <script type="text/javascript" src="http://form.jotform.us/jsform/50598915288168"></script>
+  <a class="close-reveal-modal">&#215;</a>
+</div>
 
     <script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
     <!-- build:js assets/javascripts/main.min.js -->
@@ -227,19 +231,6 @@
     <script src="assets/javascripts/visualisation.js"></script>
     <script src="assets/javascripts/init.js"></script>
     <!-- endbuild -->
-    <script src="//d2g9qbzl5h49rh.cloudfront.net/static/feedback2.js?3.2.5854">
-      var JFL_50598915288168 = new JotformFeedback({
-      formId:'50598915288168',
-      base:'http://jotform.us/',
-      windowTitle:'Give us your feedback',
-      background:'#027EA4',
-      fontColor:'#FFFFFF',
-      type:1,
-      height:400,
-      width:420,
-      openOnLoad:false
-      });
-    </script>
     <script>
     /*
       $('.toggle-faq').click(function(e) {

@@ -220,6 +220,8 @@ abbr {
   overflow-x: hidden;
   overflow-y: auto;
   height: 80%; }
+  .reveal-modal.open.small {
+    background: #fafafa; }
 
 /*from the applicaiton.scss file*/
 .brand {

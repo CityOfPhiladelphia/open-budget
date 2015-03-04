@@ -350,6 +350,10 @@ abbr{
   overflow-x: hidden;
   overflow-y: auto;
   height:80%;
+
+  &.small{
+    background: #fafafa;
+  }
 }
 
 /*from the applicaiton.scss file*/
