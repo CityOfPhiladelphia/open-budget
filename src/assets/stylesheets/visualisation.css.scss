@@ -117,7 +117,7 @@ header.site-header {
     -moz-border-radius:3px;
     -webkit-border-radius:3px;
 
-    span {
+    pan {
       font-weight:bold;
     }
   }
@@ -130,6 +130,11 @@ $sidebarMaxWidth:500px;
   width:20%;
   max-width:$sidebarMaxWidth;
 }*/
+
+/* Yay IE compatibility is fun! */
+.container-full, #application, #sidebar-parent {
+    height: 100%;
+}
 
 #sidebar {
   /*position:absolute;

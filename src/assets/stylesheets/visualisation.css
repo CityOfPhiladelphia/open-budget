@@ -76,7 +76,7 @@ header.site-header {
     border-radius: 3px;
     -moz-border-radius: 3px;
     -webkit-border-radius: 3px; }
-    #tooltip div span {
+    #tooltip div pan {
       font-weight: bold; }
 
 /*#sidebar, #footer {
@@ -84,6 +84,10 @@ header.site-header {
   width:20%;
   max-width:$sidebarMaxWidth;
 }*/
+/* Yay IE compatibility is fun! */
+.container-full, #application, #sidebar-parent {
+  height: 100%; }
+
 #sidebar {
   /*position:absolute;
   top:0;
@@ -126,14 +130,6 @@ header.site-header {
       font-weight: bold; }
   #sidebar table {
     margin-top: 20px;
-    /*.name {
-      word-break:break-all;
-      word-break:break-word;
-
-      -webkit-hyphens:auto;
-      -moz-hyphens:auto;
-      hyphens:auto;
-    }*/
     margin-bottom: 150px; }
     #sidebar table .value, #sidebar table .value2, #sidebar table .diff {
       text-align: right; }
