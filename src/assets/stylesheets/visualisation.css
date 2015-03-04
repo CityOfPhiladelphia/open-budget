@@ -56,7 +56,8 @@ html {
       #sidebar #search label i {
         opacity: 0.8; }
   #sidebar table {
-    opacity: 0; }
+    opacity: 0;
+    table-layout: fixed; }
   #sidebar .breadcrumb {
     margin-top: 20px;
     margin-bottom: -20px;
@@ -250,5 +251,3 @@ ul.nav li {
   position: absolute;
   top: 0;
   padding: 20px; }
-
-/*# sourceMappingURL=visualisation.css.map */

@@ -101,6 +101,7 @@ $sidebarMaxWidth:500px;
   // initially hidden
   table {
     opacity:0;
+    table-layout:fixed;
   }
 
   .breadcrumb {
