@@ -62,7 +62,8 @@ html {
     margin-bottom: -20px;
     padding: 8px;
     background-color: transparent;
-    font-size: 16px; }
+    font-size: 16px;
+    margin-left: 0; }
     #sidebar .breadcrumb li:only-child {
       display: none; }
     #sidebar .breadcrumb li:last-child {
@@ -99,12 +100,6 @@ html {
       font-weight: bold; }
     #sidebar table.table-hover tbody tr:hover td, #sidebar table.table-hover tbody tr.hover td {
       background-color: #edf4f7; }
-    #sidebar table .name {
-      word-break: break-all;
-      word-break: break-word;
-      -webkit-hyphens: auto;
-      -moz-hyphens: auto;
-      hyphens: auto; }
 
 svg#canvas {
   /*position:absolute;

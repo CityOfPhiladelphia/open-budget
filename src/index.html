@@ -12,6 +12,9 @@
     <link href="assets/stylesheets/visualisation.css" media="all" rel="stylesheet" type="text/css" />
     <!-- endbuild -->
     <link rel="icon" href="assets/images/favicon.ico" type="image/x-icon">
+    <!--[if lte IE 8]>
+      <p class="browsehappy alert">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
+    <![endif]-->
 
   </head>
   <body>
@@ -26,6 +29,7 @@
     <!-- End Google Tag Manager -->
 
 <div id="page" class="app">
+  <span data-tooltip aria-haspopup="true" class="has-tip" title="Tooltips are awesome, you should totally use them!">extended information</span>
     <header class="site-header" role="banner">
       <div class="row">
         <div class="small-24 medium-14 column">
@@ -76,8 +80,8 @@
                     </tr>
                     <tr class="compare">
                         <th class="name"></th>
-                        <th class="value2"><abbr data-tooltip aria-haspopup="true" class="has-tip tip-top" title="Fiscal Year 2015 (Current Estimate)">FY 2015</abbr></th>
-                        <th class="diff hidden-md hidden-sm hidden-xs"></th>
+                        <th class="value2"><span data-tooltip data-options="append_to:table" aria-haspopup="true" class="has-tip tip-top" title="Fiscal Year 2015 (Current Estimate)">FY 2015</span></th>
+                        <th class="diff show-for-large-up"></th>
                         <th class="value"><abbr data-tooltip aria-haspopup="true" class="has-tip tip-top" title="Fiscal Year 2016 (Proposed)"><span>FY 2016</span></abbr></th>
                     </tr>
                 </thead>
@@ -90,7 +94,7 @@
                     <tr class="compare">
                         <td class="name"></td>
                         <td class="value2"></td>
-                        <td class="diff hidden-md hidden-sm hidden-xs"></td>
+                        <td class="diff show-for-large-up"></td>
                         <td class="value"></td>
                     </tr>
                 </tbody>
@@ -223,12 +227,12 @@
     <script src="assets/javascripts/setup.js"></script>
     <script src="../node_modules/underscore/underscore-min.js"></script>
     <script src="../node_modules/d3/d3.min.js"></script>
-    <script src="../node_modules/foundation/js/foundation/foundation.js"></script>
-    <script src="../node_modules/foundation/js/foundation/foundation.tooltips.js"></script>
-    <script src="../node_modules/foundation/js/foundation/foundation.reveal.js"></script>
     <script src="assets/javascripts/table.js"></script>
     <script src="assets/javascripts/nodes.js"></script>
     <script src="assets/javascripts/visualisation.js"></script>
+    <script src="../node_modules/foundation/js/foundation/foundation.js"></script>
+    <script src="../node_modules/foundation/js/foundation/foundation.tooltips.js"></script>
+    <script src="../node_modules/foundation/js/foundation/foundation.reveal.js"></script>
     <script src="assets/javascripts/init.js"></script>
     <!-- endbuild -->
     <script>
