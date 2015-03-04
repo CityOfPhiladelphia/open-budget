@@ -30,3 +30,4 @@ $ git subtree push --prefix dist origin gh-pages
 ## Data Format
 <!--* See the [open-budget-data-transformer](https://github.com/CityOfPhiladelphia/open-budget-data-transformer) repo -->
 * See the parent repo's [Data Format](https://github.com/tpreusse/open-budget/wiki/Data-Format) documentation
+* We built a data transformer to go along with this and will be publishing the source code shortly
