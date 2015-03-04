@@ -20,3 +20,8 @@ $(function() {
 
 $(document).foundation();
 $('abbr').foundation('tooltip');
+$(document).ajaxStart(function() {
+        NProgress.start();
+}).ajaxStop(function() {
+	NProgress.done();
+});
