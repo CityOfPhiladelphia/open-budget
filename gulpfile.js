@@ -15,7 +15,7 @@ var dir = {
  * Main execution
  */
 gulp.task('default', ['clean'], function() {
-	gulp.start('usemin', 'images', 'data', 'fonts');
+	gulp.start('usemin', 'images', 'data');
 });
 
 /**
@@ -50,15 +50,6 @@ gulp.task("images", function() {
 gulp.task("data", function() {
     return gulp.src(dir.dev + "data/**/*")
         .pipe(gulp.dest(dir.prod + "data"));
-});
-
-/**
- * Fonts
- * Copies bootstrap/fonts directory to production folder
- */
-gulp.task("fonts", function() {
-    return gulp.src(dir.vendor + "bootstrap/dist/fonts/**/*")
-        .pipe(gulp.dest(dir.prod + "assets/fonts"));
 });
 
 /**
