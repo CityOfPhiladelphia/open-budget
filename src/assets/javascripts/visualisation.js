@@ -166,7 +166,7 @@ $(function() {
             },
             labelFontSize: 15,
             resize: function(svgSizeCallback) {
-                svgWidth = $svg.parent().width();// - $sidebar.outerWidth();
+                svgWidth = $svg.parent().outerWidth();// - $sidebar.outerWidth();
                 svgHeight = $body.height() - $header.height() - $divider.height() - $footer.height();
 
                 if(typeof svgSizeCallback == 'function') {
