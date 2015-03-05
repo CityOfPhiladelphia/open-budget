@@ -5,7 +5,10 @@ $(function() {
         var $window = $(window),
             $svg = $('svg#canvas'),
             $sidebar = $('#sidebar'),
-            $body = $('body');
+	    $body = $('body'),
+	    $header = $('.site-header'),
+	    $divider = $('.site-header-divider'),
+	    $footer = $('.site-footer');
 
         var svg = d3.select('body').select('svg#canvas'),
             defs = svg.select('defs'),
@@ -163,8 +166,8 @@ $(function() {
             },
             labelFontSize: 15,
             resize: function(svgSizeCallback) {
-                svgWidth = $body.width() - $sidebar.outerWidth();
-                svgHeight = $body.height();
+                svgWidth = $svg.parent().width();// - $sidebar.outerWidth();
+                svgHeight = $body.height() - $header.height() - $divider.height() - $footer.height();
 
                 if(typeof svgSizeCallback == 'function') {
                     svgSizeCallback();
@@ -462,7 +465,7 @@ $(function() {
 
                 // curLevel.circles.each(function(d) { d.fixed = true; });
 
-                var newRadius = (Math.min(svgWidth, svgHeight) / 2) - 250;
+                var newRadius = (Math.min(svgWidth, svgHeight) / 2) - 150;
                 var unscaledRadius = d.unscaledRadius;
                 var scaleFactor = newRadius / unscaledRadius;
 
