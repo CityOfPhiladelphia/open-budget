@@ -189,7 +189,7 @@ OpenBudget.nodes = (function() {
 
             var colorScale = d3.scale.linear()
                 .domain([-20, 0, 20]).clamp(true)
-                .range(['rgb(230,20,20)', 'rgb(255,255,230)', 'rgb(20,230,20)']);
+                .range(['rgb(228,0,43)', 'rgb(219,225,227)', 'rgb(181,189,0)']);
                 //.range(['rgb(255,77,77)', 'rgb(255,255,230)', 'rgb(77,255,77)']);
 
             _.each(nodes, function(d) {
