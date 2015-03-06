@@ -25,3 +25,11 @@ $(document).ajaxStart(function() {
 }).ajaxStop(function() {
 	NProgress.done();
 });
+
+$(document).ready(function() {
+    $('#toggle').click(function(e) {
+        $('#sidebar-parent').toggle();
+        $(e.currentTarget).text($(e.currentTarget).text() === 'Visualization' ? 'Table' : 'Visualization');
+        e.preventDefault();
+    })
+})

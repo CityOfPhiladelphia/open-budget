@@ -211,6 +211,13 @@ footer.site-footer {
   bottom: 0;
   width: 100%; }
 
+footer.toggle-footer {
+  height: 50px; }
+  footer.toggle-footer #toggle {
+    display: block;
+    line-height: 50px;
+    font-size: 150%; }
+
 abbr {
   font-size: 100%; }
 

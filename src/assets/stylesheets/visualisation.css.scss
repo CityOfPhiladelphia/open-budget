@@ -336,6 +336,16 @@ footer.site-footer{
   width:100%;
 }
 
+footer.toggle-footer {
+  height: 50px;
+
+  #toggle {
+    display: block;
+    line-height: 50px;
+    font-size: 150%;
+  }
+}
+
 abbr{
   font-size:100%;
 }
