@@ -412,7 +412,7 @@ $(function() {
                 }
 
                 theLevel.circles.on('click', level.zoomIn);
-                theLevel.circles.on('touchend', level.zoomIn);
+                //theLevel.circles.on('touchend', level.zoomIn);
             },
             pop: function() {
                 var levelId = level.stack.pop();
@@ -465,7 +465,7 @@ $(function() {
 
                 // curLevel.circles.each(function(d) { d.fixed = true; });
 
-                var newRadius = (Math.min(svgWidth, svgHeight) / 2) - 150;
+                var newRadius = Math.min(svgWidth, svgHeight) / 3;
                 var unscaledRadius = d.unscaledRadius;
                 var scaleFactor = newRadius / unscaledRadius;
 
@@ -553,10 +553,10 @@ $(function() {
                 var newActiveParent = newLevel.nodes[0].parent,
                     scaleFactor;
                 if(newActiveParent) {
-                    scaleFactor = ((Math.min(svgWidth, svgHeight) / 2) - 200) / newActiveParent.unscaledRadius;
+                    scaleFactor = (Math.min(svgWidth, svgHeight) / 3) / newActiveParent.unscaledRadius;
                 }
                 else {
-                    scaleFactor = 1.5;
+                    scaleFactor = 2;
                 }
                 nodes.setRadiusScaleFactor(scaleFactor);
                 nodes.calculateRadius();
@@ -669,7 +669,7 @@ $(function() {
 
                 // zoom out
                 svg.on('click', level.zoomOut);
-                svg.on('touchend', level.zoomOut);
+                //svg.on('touchend', level.zoomOut);
 
                 OpenBudget.track('Visualisation', 'initialized', undefined, undefined, true);
             });

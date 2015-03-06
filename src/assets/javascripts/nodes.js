@@ -125,7 +125,7 @@ OpenBudget.nodes = (function() {
         surplusNode;*/
 
     var radiusScale = d3.scale.sqrt(),
-        radiusScaleFactor = 1.5;
+        radiusScaleFactor = 2;
 
 
     var stuffForce = d3.layout.force()
