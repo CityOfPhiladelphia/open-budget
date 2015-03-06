@@ -61,6 +61,10 @@ $sidebarMaxWidth:500px;
   height:100%;
 }
 
+#sidebar-parent {
+  z-index: 1;
+}
+
 #sidebar {
   /*position:absolute;
   top:0;
@@ -344,6 +348,10 @@ svg#canvas {
 
 table thead, table tfoot {
   background-color: transparent;
+}
+
+footer {
+  z-index: 2;
 }
 
 footer.site-footer{
