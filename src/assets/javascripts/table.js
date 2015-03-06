@@ -108,7 +108,7 @@ $(function() {
                                 $tr.attr('id', 'tr-'+dataSet.id);
                                 $tr.find('.name').text(dataSet.name);
                                 $tr.find('.value').text(formatCHF(d.value));
-                                $tr.find('.diff').text(formatDiffPercent(dataSet.nodes[type].diff)+'%').css('color', d.stroke).attr('data-toggle', 'tooltip').attr('data-container', 'body').attr('title', 'Percent Change between FY15 and FY16');
+                                $tr.find('.diff').empty().append($('<abbr/>').text(formatDiffPercent(dataSet.nodes[type].diff)+'%').css('color', d.stroke).attr('data-tooltip', '').attr('aria-haspopup', 'true').attr('title', 'Percent Change between FY15 and FY16'));
                                 $tr.find('.value2').text(formatCHF(d.value2));
                                 $tBody.append($tr);
                             });
