@@ -19,6 +19,10 @@ html {
 .row {
   max-width: 100%; }
 
+.logo.show-for-small-only {
+  padding: 10px;
+  padding-right: 0; }
+
 /*#sidebar, #footer {
   min-width:400px;
   width:20%;
@@ -38,6 +42,9 @@ html {
   height: 100%;
   overflow-y: scroll;
   -webkit-overflow-scrolling: touch; }
+  @media only screen and (max-width: 40em) {
+    #sidebar {
+      padding: 0; } }
   #sidebar #search {
     display: block;
     margin: 20px auto 0;
@@ -65,6 +72,9 @@ html {
     background-color: transparent;
     font-size: 16px;
     margin-left: 0; }
+    @media only screen and (max-width: 40em) {
+      #sidebar .breadcrumb {
+        margin-top: 0; } }
     #sidebar .breadcrumb li:only-child {
       display: none; }
     #sidebar .breadcrumb li:last-child {
@@ -130,6 +140,9 @@ svg#canvas {
       fill: #737373;
       font-size: 30px;
       text-transform: none; }
+      @media only screen and (max-width: 40em) {
+        svg#canvas text.headline {
+          font-size: 20px; } }
   svg#canvas circle {
     -webkit-transform: translateZ(0);
     -o-transform: translateZ(0);

@@ -44,6 +44,11 @@ html {
   max-width:100%;
 }
 
+.logo.show-for-small-only {
+  padding: 10px;
+  padding-right: 0;
+}
+
 $sidebarMaxWidth:500px;
 
 /*#sidebar, #footer {
@@ -71,6 +76,9 @@ $sidebarMaxWidth:500px;
   overflow-y:scroll;
   -webkit-overflow-scrolling: touch;
 
+  @media only screen and (max-width: 40em) {
+    padding: 0;
+  }
 
   #search {
     display:block;
@@ -112,6 +120,10 @@ $sidebarMaxWidth:500px;
     font-size:16px;
     margin-left: 0;
 
+    @media only screen and (max-width: 40em) {
+      margin-top: 0;
+    }
+
     li:only-child {
       display: none;
     }
@@ -127,7 +139,7 @@ $sidebarMaxWidth:500px;
       &::after{
         color:#000;
         content: "  / ";
-	margin-right: 3px;
+        margin-right: 3px;
       }
       &:last-child::after{
         content: "";
@@ -219,6 +231,10 @@ svg#canvas {
       fill:darken($svgBgColor, 55%);
       font-size:30px;
       text-transform:none;
+
+      @media only screen and (max-width: 40em) {
+        font-size: 20px;
+      }
     }
   }
 
