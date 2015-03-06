@@ -314,14 +314,14 @@ svg#canvas {
     position: relative;
     top: 11px;
 
-    @media only screen and (max-width: 40em) {
+    /*@media only screen and (max-width: 40em) {
       top:0;
       border:none;
       display:block;
       margin:0;
       padding:0;
 
-    }
+    }*/
   }
 
 }

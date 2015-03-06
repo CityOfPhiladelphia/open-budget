@@ -27,16 +27,16 @@
     <!-- End Google Tag Manager -->
 
 <div id="page" class="app">
-    <div data-alert class="alert-box warning hide-for-medium-up">This application is optimized for larger screens. We're <a href="https://github.com/CityOfPhiladelphia/open-budget/milestones/Mobile" target="_blank">still working</a> on mobile support.</div>
     <header class="site-header" role="banner">
       <div class="row">
         <div class="small-24 medium-14 column">
           <a href="index.html">
-            <img src="assets/images/city-of-philadelphia-logo.png" class="logo" alt="City of Philadelphia">
+            <img src="assets/images/city-of-philadelphia-logo.png" class="logo show-for-medium-up" alt="City of Philadelphia">
+            <img src="assets/images/city-of-philadelphia-logo-small.png" class="logo show-for-small-only" alt="City of Philadelphia">
           </a>
           <h1 class="page-title">Open Budget</h1>
         </div>
-        <div class="small-24 medium-10 column top-nav">
+        <div class="medium-10 column show-for-medium-up top-nav">
           <ul class="inline-list" role="navigation">
             <li><a href="#" data-reveal-id="about" class="button">About</a></li>
             <li><a href="#" data-reveal-id="process" class="button">Budget Process</a></li>
@@ -51,13 +51,7 @@
       </div>
     </div>
     <div id="application" class="row">
-        <div class="medium-14 column">
-            <svg id="canvas">
-                <defs>
-                </defs>
-            </svg>
-        </div>
-        <div id="sidebar-parent" class="medium-10 column">
+        <div id="sidebar-parent" class="small-24 medium-10 medium-push-14 column">
           <div id="sidebar">
 
             <!--<div id="search">
@@ -99,9 +93,15 @@
             </table>
           </div>
         </div>
+        <div id="svg-parent" class="small-24 medium-14 medium-pull-10 column">
+            <svg id="canvas">
+                <defs>
+                </defs>
+            </svg>
+        </div>
     </div>
 </div>
-<footer class="footer site-footer" role="contentinfo">
+<footer class="footer site-footer show-for-medium-up" role="contentinfo">
   <div class="row">
     <div class="medium-6 column">
       <a href="http://www.phila.gov">City of Philadelphia</a>
