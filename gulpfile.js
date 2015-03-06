@@ -26,7 +26,8 @@ gulp.task('usemin', function() {
 	return gulp.src(dir.dev + '*.html')
 		.pipe(usemin({
 			css: [minifyCss(), 'concat'],
-			js: [uglify()],
+			js_vendor: [uglify()],
+			js_app: [uglify()],
 			html: [minifyHtml({
 				conditionals: true
 			})]
