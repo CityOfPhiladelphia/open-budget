@@ -1989,7 +1989,7 @@
 						"gross_cost": {
 							"accounts": {
 								"2015": 5240173,
-								"2016": 4768744
+								"2016": 4773744
 							}
 						}
 					},
@@ -1999,7 +1999,7 @@
 						"gross_cost": {
 							"accounts": {
 								"2015": 1301757,
-								"2016": 1306757
+								"2016": 1301757
 							}
 						}
 					}
@@ -2101,7 +2101,7 @@
 			},
 			{
 				"id": "69",
-				"name": "Public Property (Excluding SEPTA Subsidy)",
+				"name": "Public Property",
 				"gross_cost": {
 					"accounts": {
 						"2015": 121344578,
@@ -2669,7 +2669,7 @@
 			},
 			{
 				"id": "276",
-				"name": "City Representative",
+				"name": "Commerce",
 				"gross_cost": {
 					"accounts": {
 						"2015": 14220068,
@@ -4029,7 +4029,7 @@
 			},
 			{
 				"id": "418",
-				"name": "Public Property (Excluding SEPTA Subsidy)",
+				"name": "Public Property",
 				"gross_cost": {
 					"accounts": {
 						"2015": 3959919,
@@ -4661,7 +4661,7 @@
 			},
 			{
 				"id": "466",
-				"name": "Public Property (Excluding SEPTA Subsidy)",
+				"name": "Public Property",
 				"gross_cost": {
 					"accounts": {
 						"2015": 26900000,
