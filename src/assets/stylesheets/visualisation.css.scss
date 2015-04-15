@@ -409,9 +409,25 @@ ul.nav li {
   background-color: #FCC;
   border: solid 1px #C66; }
 
-.tooltip{
-    background:$mine-shaft !important;
+#tooltip {
+  font-size:12px;
+  position:absolute;
+  padding:5px;
+  z-index:100000;
+  background:$mine-shaft !important;
+
+  div {
+    color:#fff;
+    padding:5px 8px 4px 8px;
+    border-radius:3px;
+    -moz-border-radius:3px;
+    -webkit-border-radius:3px;
+
+    span {
+      font-weight:bold;
     }
+  }
+}
 
 .browsehappy{
   background:$bell-yellow;

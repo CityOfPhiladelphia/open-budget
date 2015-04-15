@@ -272,8 +272,20 @@ ul.nav li {
   background-color: #FCC;
   border: solid 1px #C66; }
 
-.tooltip {
+#tooltip {
+  font-size: 12px;
+  position: absolute;
+  padding: 5px;
+  z-index: 100000;
   background: #353535 !important; }
+  #tooltip div {
+    color: #fff;
+    padding: 5px 8px 4px 8px;
+    border-radius: 3px;
+    -moz-border-radius: 3px;
+    -webkit-border-radius: 3px; }
+    #tooltip div span {
+      font-weight: bold; }
 
 .browsehappy {
   background: #f2ba13;
