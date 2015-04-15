@@ -111,7 +111,7 @@ $(function() {
                                 $tr.find('.value').text(formatCHF(d.value));
                                 $tr.find('.diff').text(formatDiffPercent(dataSet.nodes[type].diff)+'%').css('color', d.stroke).attr('data-toggle', 'tooltip').attr('data-container', 'body').attr('title', 'Percent Change between FY15 and FY16');
                                 $tr.find('.value2').text(formatCHF(d.value2));
-                                $tr.find('.proportion').text(formatProportionPercent(dataSet.nodes[type].proportion)+'%').attr('data-toggle', 'tooltip').attr('data-container', 'body').attr('title', 'Percentage of whole');
+                                //$tr.find('.proportion').text(formatProportionPercent(dataSet.nodes[type].proportion)+'%').attr('data-toggle', 'tooltip').attr('data-container', 'body').attr('title', 'Percentage of whole');
                                 $tBody.append($tr);
                             });
 
@@ -136,9 +136,9 @@ $(function() {
                             }
                             
                             // Hide proportion on initial view
-                            if(firstDataSet.nodes[type].depth === 0) {
+                            /*if(firstDataSet.nodes[type].depth === 0) {
                                  $table.find('.proportion').attr('style', 'display: none !important');
-                            }
+                            }*/
 
                             createBreadcrumbItem(firstDataSet.nodes[type].parent);
 
