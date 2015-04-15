@@ -60,6 +60,13 @@ OpenBudget.nodes = (function() {
         var diff = value - value2;
         return d3.round(diff / (value2 / 100), 2);
     };
+    
+    var proportionPercent = function(value, parentValue) {
+         if(!parentValue) {
+              return 100;
+         }
+         return d3.round(value / parentValue * 100, 2);
+    };
 
     var createNode = function(key, datum, parent) {
         if(!parent) return;
@@ -74,6 +81,7 @@ OpenBudget.nodes = (function() {
             'value': values.value,
             'value2': values.value2,
             'diff': diffPercent(values.value, values.value2),
+            'proportion': parent.value !== undefined ? proportionPercent(values.value, parent.value) : null,
             'type': type,
             'depth': depth,
             'children': []

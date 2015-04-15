@@ -160,7 +160,7 @@ $sidebarMaxWidth:500px;
       text-transform: uppercase;
     }
 
-    .value, .value2, .diff {
+    .value, .value2, .diff, .proportion {
       text-align:right;
     }
     .value {
@@ -180,6 +180,10 @@ $sidebarMaxWidth:500px;
 
     .diff {
       font-weight:bold;
+    }
+    
+    .diff, .proportion {
+      width: 15%;
     }
 
     &.table-hover tbody {

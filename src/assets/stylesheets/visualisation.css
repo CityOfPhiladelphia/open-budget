@@ -100,7 +100,7 @@ html {
     #sidebar table thead {
       font-family: 'Montserrat', 'Tahoma', sans-serif;
       text-transform: uppercase; }
-    #sidebar table .value, #sidebar table .value2, #sidebar table .diff {
+    #sidebar table .value, #sidebar table .value2, #sidebar table .diff, #sidebar table .proportion {
       text-align: right; }
     #sidebar table .value {
       font-weight: bold;
@@ -113,6 +113,8 @@ html {
       font-weight: bold; }
     #sidebar table .diff {
       font-weight: bold; }
+    #sidebar table .diff, #sidebar table .proportion {
+      width: 15%; }
     #sidebar table.table-hover tbody tr:hover td, #sidebar table.table-hover tbody tr.hover td {
       background-color: #edf4f7; }
 
