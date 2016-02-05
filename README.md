@@ -16,6 +16,13 @@ Optimize the application by running:
 ```
 $ npm run build
 ```
+
+## Commit
+Commit the compiled site to `master` branch
+```
+$ git commit -a
+```
+
 This will update the files in the `/dist` directory. To push that directory to the `gh-pages` branch of the repo, use:
 ```
 $ git subtree push --prefix dist origin gh-pages
