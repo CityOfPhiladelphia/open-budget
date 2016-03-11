@@ -15,15 +15,15 @@ window.OpenBudget = {"data":{"meta":{
     "deficit_label": "Deficit",
     "surplus_label": "Surplus",
     "data_url": "data/phl/data.json",
-    "cache_url": "data/phl/cache.json",
+    // "cache_url": "data/phl/cache.json",
     "value": {
+        "label": "FY 2017",
+        "type": "accounts",
+        "year": "2017"
+    },
+    "value2": {
         "label": "FY 2016",
         "type": "accounts",
         "year": "2016"
-    },
-    "value2": {
-        "label": "FY 2015",
-        "type": "accounts",
-        "year": "2015"
     }
 }}};
