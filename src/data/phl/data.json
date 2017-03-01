@@ -1374,29 +1374,32 @@
           {
             "gross_cost": {
               "accounts": {
+                "2017": 12875510, 
                 "2018": 13125510
               }
             }, 
-            "id": 5798624223652998831, 
+            "id": 5971032036570594671, 
             "name": "Purchase of Services"
           }, 
           {
             "gross_cost": {
               "accounts": {
+                "2017": 1010566, 
                 "2018": 1093064
               }
             }, 
-            "id": 4876507443213568576, 
+            "id": 2620841617068753280, 
             "name": "Personal Services"
           }
         ], 
         "gross_cost": {
           "accounts": {
+            "2017": 13886076, 
             "2018": 14218574
           }
         }, 
-        "id": -4975354769531216438, 
-        "name": "Office of Behavioral Health and Intellectual Disabilities"
+        "id": 561233144427358858, 
+        "name": "Office of Behavioral Health and Intellectual disAbilities"
       }, 
       {
         "children": [
@@ -1591,52 +1594,47 @@
           {
             "gross_cost": {
               "accounts": {
-                "2017": 416000, 
                 "2018": 3899308
               }
             }, 
-            "id": -7589117813292188660, 
+            "id": 7553856143485647818, 
             "name": "Personal Services"
           }, 
           {
             "gross_cost": {
               "accounts": {
-                "2017": 40000, 
                 "2018": 2845113
               }
             }, 
-            "id": -3423537117020825533, 
+            "id": -1109870846022685715, 
             "name": "Purchase of Services"
           }, 
           {
             "gross_cost": {
               "accounts": {
-                "2017": 500000, 
                 "2018": 850000
               }
             }, 
-            "id": 5507737796467966361, 
+            "id": -4179056050571105997, 
             "name": "Contributions, Indemnities, Refunds, Taxes"
           }, 
           {
             "gross_cost": {
               "accounts": {
-                "2017": 60000, 
                 "2018": 101461
               }
             }, 
-            "id": -651938216369808225, 
+            "id": -647889529857699875, 
             "name": "Materials, Supplies & Equipment"
           }
         ], 
         "gross_cost": {
           "accounts": {
-            "2017": 1016000, 
             "2018": 7695882
           }
         }, 
-        "id": -4243684332898548246, 
-        "name": "Mayor - Planning and Development"
+        "id": 1857863013517631040, 
+        "name": "Department of Planning and Development"
       }, 
       {
         "children": [
@@ -2753,6 +2751,58 @@
           {
             "gross_cost": {
               "accounts": {
+                "2017": 40000, 
+                "2018": 0
+              }
+            }, 
+            "id": -3423537117020825533, 
+            "name": "Purchase of Services"
+          }, 
+          {
+            "gross_cost": {
+              "accounts": {
+                "2017": 416000, 
+                "2018": 0
+              }
+            }, 
+            "id": -7589117813292188660, 
+            "name": "Personal Services"
+          }, 
+          {
+            "gross_cost": {
+              "accounts": {
+                "2017": 500000, 
+                "2018": 0
+              }
+            }, 
+            "id": 5507737796467966361, 
+            "name": "Contributions, Indemnities, Refunds, Taxes"
+          }, 
+          {
+            "gross_cost": {
+              "accounts": {
+                "2017": 60000, 
+                "2018": 0
+              }
+            }, 
+            "id": -651938216369808225, 
+            "name": "Materials, Supplies & Equipment"
+          }
+        ], 
+        "gross_cost": {
+          "accounts": {
+            "2017": 1016000, 
+            "2018": 0
+          }
+        }, 
+        "id": -4243684332898548246, 
+        "name": "Mayor - Planning and Development"
+      }, 
+      {
+        "children": [
+          {
+            "gross_cost": {
+              "accounts": {
                 "2017": 980, 
                 "2018": 0
               }
@@ -2873,38 +2923,6 @@
         }, 
         "id": -2935145252224368526, 
         "name": "Youth Commission"
-      }, 
-      {
-        "children": [
-          {
-            "gross_cost": {
-              "accounts": {
-                "2017": 12875510, 
-                "2018": 0
-              }
-            }, 
-            "id": 5971032036570594671, 
-            "name": "Purchase of Services"
-          }, 
-          {
-            "gross_cost": {
-              "accounts": {
-                "2017": 1010566, 
-                "2018": 0
-              }
-            }, 
-            "id": 2620841617068753280, 
-            "name": "Personal Services"
-          }
-        ], 
-        "gross_cost": {
-          "accounts": {
-            "2017": 13886076, 
-            "2018": 0
-          }
-        }, 
-        "id": 561233144427358858, 
-        "name": "Office of Behavioral Health and Intellectual disAbilities"
       }
     ], 
     "gross_cost": {
@@ -2965,47 +2983,52 @@
           {
             "gross_cost": {
               "accounts": {
+                "2017": 237182673, 
                 "2018": 245869088
               }
             }, 
-            "id": -6228917857413539429, 
+            "id": 5177365085006319899, 
             "name": "Purchase of Services"
           }, 
           {
             "gross_cost": {
               "accounts": {
+                "2017": 23935379, 
                 "2018": 24780505
               }
             }, 
-            "id": -4469448027008796076, 
+            "id": 8321078208360429780, 
             "name": "Personal Services"
           }, 
           {
             "gross_cost": {
               "accounts": {
+                "2017": 290000, 
                 "2018": 285000
               }
             }, 
-            "id": 1725025524342338391, 
+            "id": 2637919541102542295, 
             "name": "Materials, Supplies & Equipment"
           }, 
           {
             "gross_cost": {
               "accounts": {
+                "2017": 79010, 
                 "2018": 83081
               }
             }, 
-            "id": -2430487829639208332, 
+            "id": -8740831497515557644, 
             "name": "Payments to Other Funds"
           }
         ], 
         "gross_cost": {
           "accounts": {
+            "2017": 261487062, 
             "2018": 271017674
           }
         }, 
-        "id": 4207199615769562530, 
-        "name": "Office of Behavioral Health and Intellectual Disabilities"
+        "id": 5128002395357370402, 
+        "name": "Office of Behavioral Health and Intellectual disAbilities"
       }, 
       {
         "children": [
@@ -3089,7 +3112,7 @@
                 "2018": 88486222
               }
             }, 
-            "id": 6635677716049090919, 
+            "id": 4354479378949911757, 
             "name": "Purchase of Services"
           }, 
           {
@@ -3098,7 +3121,7 @@
                 "2018": 90000
               }
             }, 
-            "id": -6826671396726229308, 
+            "id": -1003413668228630222, 
             "name": "Personal Services"
           }
         ], 
@@ -3107,8 +3130,8 @@
             "2018": 88576222
           }
         }, 
-        "id": -6927545901747146170, 
-        "name": "Mayor - Planning and Development"
+        "id": 8644088452798463972, 
+        "name": "Department of Planning and Development"
       }, 
       {
         "children": [
@@ -3921,58 +3944,6 @@
         }, 
         "id": -8599246193166670715, 
         "name": "City Planning Commission"
-      }, 
-      {
-        "children": [
-          {
-            "gross_cost": {
-              "accounts": {
-                "2017": 237182673, 
-                "2018": 0
-              }
-            }, 
-            "id": 5177365085006319899, 
-            "name": "Purchase of Services"
-          }, 
-          {
-            "gross_cost": {
-              "accounts": {
-                "2017": 23935379, 
-                "2018": 0
-              }
-            }, 
-            "id": 8321078208360429780, 
-            "name": "Personal Services"
-          }, 
-          {
-            "gross_cost": {
-              "accounts": {
-                "2017": 79010, 
-                "2018": 0
-              }
-            }, 
-            "id": -8740831497515557644, 
-            "name": "Payments to Other Funds"
-          }, 
-          {
-            "gross_cost": {
-              "accounts": {
-                "2017": 290000, 
-                "2018": 0
-              }
-            }, 
-            "id": 2637919541102542295, 
-            "name": "Materials, Supplies & Equipment"
-          }
-        ], 
-        "gross_cost": {
-          "accounts": {
-            "2017": 261487062, 
-            "2018": 0
-          }
-        }, 
-        "id": 5128002395357370402, 
-        "name": "Office of Behavioral Health and Intellectual disAbilities"
       }
     ], 
     "gross_cost": {
@@ -3991,37 +3962,8 @@
           {
             "gross_cost": {
               "accounts": {
-                "2018": 1298400000
-              }
-            }, 
-            "id": 2556491428652858403, 
-            "name": "Purchase of Services"
-          }, 
-          {
-            "gross_cost": {
-              "accounts": {
-                "2018": 1600000
-              }
-            }, 
-            "id": 3664429476339962044, 
-            "name": "Payments to Other Funds"
-          }
-        ], 
-        "gross_cost": {
-          "accounts": {
-            "2018": 1300000000
-          }
-        }, 
-        "id": 1967372748933314470, 
-        "name": "Office of Behavioral Health and Intellectual Disabilities"
-      }, 
-      {
-        "children": [
-          {
-            "gross_cost": {
-              "accounts": {
                 "2017": 1300350000, 
-                "2018": 0
+                "2018": 1298400000
               }
             }, 
             "id": -8585244326769101149, 
@@ -4031,7 +3973,7 @@
             "gross_cost": {
               "accounts": {
                 "2017": 1600000, 
-                "2018": 0
+                "2018": 1600000
               }
             }, 
             "id": -8267026730588251076, 
@@ -4051,7 +3993,7 @@
         "gross_cost": {
           "accounts": {
             "2017": 1302000000, 
-            "2018": 0
+            "2018": 1300000000
           }
         }, 
         "id": 4003195571342881574, 
@@ -4075,7 +4017,7 @@
             "gross_cost": {
               "accounts": {
                 "2017": 160565792, 
-                "2018": 158321521
+                "2018": 157471521
               }
             }, 
             "id": 7185140837251149552, 
@@ -4085,7 +4027,7 @@
             "gross_cost": {
               "accounts": {
                 "2017": 107808919, 
-                "2018": 116590294
+                "2018": 116470294
               }
             }, 
             "id": 2470609963895400413, 
@@ -4125,7 +4067,7 @@
         "gross_cost": {
           "accounts": {
             "2017": 384113280, 
-            "2018": 395446608
+            "2018": 394476608
           }
         }, 
         "id": -1730447121738189261, 
@@ -4396,6 +4338,35 @@
         }, 
         "id": -6049739208906832084, 
         "name": "Law"
+      }, 
+      {
+        "children": [
+          {
+            "gross_cost": {
+              "accounts": {
+                "2018": 850000
+              }
+            }, 
+            "id": 1651413905725120251, 
+            "name": "Purchase of Services"
+          }, 
+          {
+            "gross_cost": {
+              "accounts": {
+                "2018": 120000
+              }
+            }, 
+            "id": -4666180871087282384, 
+            "name": "Personal Services"
+          }
+        ], 
+        "gross_cost": {
+          "accounts": {
+            "2018": 970000
+          }
+        }, 
+        "id": -2444870853514284786, 
+        "name": "Water - Philadelphia Water, Sewer, and Stormwater Rate Board"
       }, 
       {
         "children": [
@@ -5069,7 +5040,7 @@
                 "2018": 53092975
               }
             }, 
-            "id": 8642276725524896093, 
+            "id": 8928462922448947687, 
             "name": "Purchase of Services"
           }, 
           {
@@ -5078,7 +5049,7 @@
                 "2018": 4726282
               }
             }, 
-            "id": 2783418886358222842, 
+            "id": -2728819947665966096, 
             "name": "Personal Services"
           }, 
           {
@@ -5087,7 +5058,7 @@
                 "2018": 261000
               }
             }, 
-            "id": 717661696992454045, 
+            "id": -6847797812403274237, 
             "name": "Materials, Supplies & Equipment"
           }, 
           {
@@ -5096,7 +5067,7 @@
                 "2018": 25000
               }
             }, 
-            "id": -4677642937595077778, 
+            "id": -2143097233391279328, 
             "name": "Payments to Other Funds"
           }
         ], 
@@ -5105,8 +5076,8 @@
             "2018": 58105257
           }
         }, 
-        "id": 9181301579999210288, 
-        "name": "Mayor - Planning and Development"
+        "id": -1578386699730654282, 
+        "name": "Department of Planning and Development"
       }, 
       {
         "children": [
@@ -5486,7 +5457,7 @@
                 "2018": 26250000
               }
             }, 
-            "id": 3441209115323360592, 
+            "id": 3063533594710641634, 
             "name": "Purchase of Services"
           }, 
           {
@@ -5495,7 +5466,7 @@
                 "2018": 1250000
               }
             }, 
-            "id": -5098053427580274463, 
+            "id": 5968195217063494971, 
             "name": "Personal Services"
           }
         ], 
@@ -5504,8 +5475,8 @@
             "2018": 27500000
           }
         }, 
-        "id": 1274238673003548331, 
-        "name": "Mayor - Planning and Development"
+        "id": 4982317216930313229, 
+        "name": "Department of Planning and Development"
       }, 
       {
         "children": [
@@ -5556,6 +5527,7 @@
           {
             "gross_cost": {
               "accounts": {
+                "2017": 7170000, 
                 "2018": 7644000
               }
             }, 
@@ -5565,6 +5537,7 @@
           {
             "gross_cost": {
               "accounts": {
+                "2017": 2475000, 
                 "2018": 2267000
               }
             }, 
@@ -5574,6 +5547,7 @@
           {
             "gross_cost": {
               "accounts": {
+                "2017": 138000, 
                 "2018": 138000
               }
             }, 
@@ -5583,6 +5557,7 @@
           {
             "gross_cost": {
               "accounts": {
+                "2017": 125000, 
                 "2018": 125000
               }
             }, 
@@ -5592,6 +5567,7 @@
         ], 
         "gross_cost": {
           "accounts": {
+            "2017": 9908000, 
             "2018": 10174000
           }
         }, 
@@ -5601,6 +5577,7 @@
     ], 
     "gross_cost": {
       "accounts": {
+        "2017": 9908000, 
         "2018": 10174000
       }
     }, 
