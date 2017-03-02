@@ -1,5 +1,5 @@
 window.OpenBudget = {"data":{"meta":{
-    "hierarchy": ["Funding Source", "Department", "Expense Type", "Expense Subtype"],
+    "hierarchy": ["Funding Source", "Department", "Expense Type"],
     "page_title": "City of Philadelphia Budget",
     "description": "",
     "h1": "City of Philadelphia",
@@ -17,13 +17,13 @@ window.OpenBudget = {"data":{"meta":{
     "data_url": "data/phl/data.json",
     "cache_url": "data/phl/cache.json",
     "value": {
+        "label": "FY 2018",
+        "type": "accounts",
+        "year": "2018"
+    },
+    "value2": {
         "label": "FY 2017",
         "type": "accounts",
         "year": "2017"
-    },
-    "value2": {
-        "label": "FY 2016",
-        "type": "accounts",
-        "year": "2016"
     }
 }}};
