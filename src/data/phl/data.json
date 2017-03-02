@@ -1594,47 +1594,52 @@
           {
             "gross_cost": {
               "accounts": {
+                "2017": 416000, 
                 "2018": 3899308
               }
             }, 
-            "id": 7553856143485647818, 
+            "id": 4040004823831598627, 
             "name": "Personal Services"
           }, 
           {
             "gross_cost": {
               "accounts": {
+                "2017": 40000, 
                 "2018": 2845113
               }
             }, 
-            "id": -1109870846022685715, 
+            "id": 5943674276658525298, 
             "name": "Purchase of Services"
           }, 
           {
             "gross_cost": {
               "accounts": {
+                "2017": 500000, 
                 "2018": 850000
               }
             }, 
-            "id": -4179056050571105997, 
+            "id": 8964177658254178476, 
             "name": "Contributions, Indemnities, Refunds, Taxes"
           }, 
           {
             "gross_cost": {
               "accounts": {
+                "2017": 60000, 
                 "2018": 101461
               }
             }, 
-            "id": -647889529857699875, 
+            "id": 4038095652959249336, 
             "name": "Materials, Supplies & Equipment"
           }
         ], 
         "gross_cost": {
           "accounts": {
+            "2017": 1016000, 
             "2018": 7695882
           }
         }, 
-        "id": 1857863013517631040, 
-        "name": "Department of Planning and Development"
+        "id": 6338939080848475053, 
+        "name": "Planning and Development"
       }, 
       {
         "children": [
@@ -2751,58 +2756,6 @@
           {
             "gross_cost": {
               "accounts": {
-                "2017": 40000, 
-                "2018": 0
-              }
-            }, 
-            "id": -3423537117020825533, 
-            "name": "Purchase of Services"
-          }, 
-          {
-            "gross_cost": {
-              "accounts": {
-                "2017": 416000, 
-                "2018": 0
-              }
-            }, 
-            "id": -7589117813292188660, 
-            "name": "Personal Services"
-          }, 
-          {
-            "gross_cost": {
-              "accounts": {
-                "2017": 500000, 
-                "2018": 0
-              }
-            }, 
-            "id": 5507737796467966361, 
-            "name": "Contributions, Indemnities, Refunds, Taxes"
-          }, 
-          {
-            "gross_cost": {
-              "accounts": {
-                "2017": 60000, 
-                "2018": 0
-              }
-            }, 
-            "id": -651938216369808225, 
-            "name": "Materials, Supplies & Equipment"
-          }
-        ], 
-        "gross_cost": {
-          "accounts": {
-            "2017": 1016000, 
-            "2018": 0
-          }
-        }, 
-        "id": -4243684332898548246, 
-        "name": "Mayor - Planning and Development"
-      }, 
-      {
-        "children": [
-          {
-            "gross_cost": {
-              "accounts": {
                 "2017": 980, 
                 "2018": 0
               }
@@ -3112,7 +3065,7 @@
                 "2018": 88486222
               }
             }, 
-            "id": 4354479378949911757, 
+            "id": 2537269655926012538, 
             "name": "Purchase of Services"
           }, 
           {
@@ -3121,7 +3074,7 @@
                 "2018": 90000
               }
             }, 
-            "id": -1003413668228630222, 
+            "id": 6045005516124018683, 
             "name": "Personal Services"
           }
         ], 
@@ -3130,8 +3083,8 @@
             "2018": 88576222
           }
         }, 
-        "id": 8644088452798463972, 
-        "name": "Department of Planning and Development"
+        "id": 2891152370478386841, 
+        "name": "Planning and Development"
       }, 
       {
         "children": [
@@ -5040,7 +4993,7 @@
                 "2018": 53092975
               }
             }, 
-            "id": 8928462922448947687, 
+            "id": 713946678242249748, 
             "name": "Purchase of Services"
           }, 
           {
@@ -5049,7 +5002,7 @@
                 "2018": 4726282
               }
             }, 
-            "id": -2728819947665966096, 
+            "id": -7388749045735243483, 
             "name": "Personal Services"
           }, 
           {
@@ -5058,7 +5011,7 @@
                 "2018": 261000
               }
             }, 
-            "id": -6847797812403274237, 
+            "id": -5225437597537105030, 
             "name": "Materials, Supplies & Equipment"
           }, 
           {
@@ -5067,7 +5020,7 @@
                 "2018": 25000
               }
             }, 
-            "id": -2143097233391279328, 
+            "id": -8009155429301158015, 
             "name": "Payments to Other Funds"
           }
         ], 
@@ -5076,8 +5029,8 @@
             "2018": 58105257
           }
         }, 
-        "id": -1578386699730654282, 
-        "name": "Department of Planning and Development"
+        "id": 7438309780221477335, 
+        "name": "Planning and Development"
       }, 
       {
         "children": [
@@ -5457,7 +5410,7 @@
                 "2018": 26250000
               }
             }, 
-            "id": 3063533594710641634, 
+            "id": 7553566710458835637, 
             "name": "Purchase of Services"
           }, 
           {
@@ -5466,7 +5419,7 @@
                 "2018": 1250000
               }
             }, 
-            "id": 5968195217063494971, 
+            "id": -4458017873193816542, 
             "name": "Personal Services"
           }
         ], 
@@ -5475,8 +5428,8 @@
             "2018": 27500000
           }
         }, 
-        "id": 4982317216930313229, 
-        "name": "Department of Planning and Development"
+        "id": -2114577346023221656, 
+        "name": "Planning and Development"
       }, 
       {
         "children": [
