@@ -17,13 +17,13 @@ window.OpenBudget = {"data":{"meta":{
     "data_url": "data/phl/data.json",
     "cache_url": "data/phl/cache.json",
     "value": {
+        "label": "FY 2019",
+        "type": "accounts",
+        "year": "2019"
+    },
+    "value2": {
         "label": "FY 2018",
         "type": "accounts",
         "year": "2018"
-    },
-    "value2": {
-        "label": "FY 2017",
-        "type": "accounts",
-        "year": "2017"
     }
 }}};
